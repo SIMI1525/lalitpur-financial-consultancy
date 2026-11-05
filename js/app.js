@@ -1078,6 +1078,13 @@
 
   function handleRoute() {
     const currentPath = getCleanPath();
+
+    // If accessing the dedicated standalone landing page, load it directly
+    if (currentPath === '/financial-consultancy/' || currentPath === '/financial-consultancy') {
+      window.location.href = '/financial-consultancy/';
+      return;
+    }
+
     const page = data.pages.find(p => normalizeRoute(p.url) === currentPath);
 
     if (!page) {
@@ -1620,6 +1627,11 @@
 
       // Handle clean internal routes
       if (href.startsWith('/') && !href.startsWith('//')) {
+        // Standalone physical landing page
+        if (href === '/financial-consultancy/' || href === '/financial-consultancy') {
+          return;
+        }
+
         e.preventDefault();
         window.history.pushState({}, '', href);
         handleRoute();
