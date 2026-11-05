@@ -1,0 +1,75 @@
+{
+  "id": "c4-a2",
+  "url": "/blog/cash-vs-accrual-accounting-differences/",
+  "type": "article",
+  "cluster": "Accounting & Bookkeeping",
+  "clusterName": "Accounting and Bookkeeping",
+  "primaryKeyword": "cash accounting vs accrual accounting differences",
+  "secondaryKeywords": [
+    "cash vs accrual basis nepal",
+    "revenue recognition companies act 2063",
+    "accounting standards nfrs"
+  ],
+  "title": "Cash vs. Accrual Accounting in Nepal: Which Is Required and Why?",
+  "metaDescription": "Understand cash vs accrual accounting under Nepalese law. Discover why registered companies must follow the accrual basis under Companies Act 2063.",
+  "searchIntent": "Comparative",
+  "h1": "Cash Accounting vs Accrual Accounting: Which Is Different and Why?",
+  "directAnswer": "The fundamental difference is timing: cash accounting recognizes income and expenses only when money physically enters or leaves the bank account, while accrual accounting records revenue when earned (upon invoice issuance) and expenses when incurred (upon service delivery). Under Section 109 of the Nepal Companies Act 2063, all registered corporate entities are legally required to maintain books on the accrual basis.",
+  "readTime": "5 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-24",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/accounting-bookkeeping-services-nepal/",
+  "primaryMoneyPageAnchor": "accounting and bookkeeping solutions",
+  "sections": [
+    {
+      "h2": "Direct Comparison: Cash Basis vs. Accrual Basis",
+      "contentHtml": "<p>Choosing the correct accounting basis is crucial for statutory compliance and commercial clarity in Nepal. In cash-based accounting, transactions are logged solely when cash changes hands—making it deceptively simple but incapable of reflecting real financial commitments. Conversely, accrual accounting aligns revenues and costs with the period in which economic activity occurs.</p><div class='overflow-x-auto my-4'><table class='w-full text-xs text-left border border-slate-200'><thead class='bg-slate-100 text-slate-800 font-bold'><tr><th class='p-3 border-b'>Feature</th><th class='p-3 border-b'>Cash Accounting</th><th class='p-3 border-b'>Accrual Accounting (NFRS)</th></tr></thead><tbody class='divide-y divide-slate-100'><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Revenue Recognition</td><td class='p-3'>When cash is deposited in bank</td><td class='p-3'>When bill/invoice is issued to customer</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Expense Recognition</td><td class='p-3'>When payment leaves bank</td><td class='p-3'>When vendor bill is received/incurred</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Legal Status for Companies</td><td class='p-3'>Not permitted for Pvt Ltd / Public Ltd</td><td class='p-3'>Mandatory under Section 109, Companies Act 2063</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Debtor & Creditor Ledgers</td><td class='p-3'>No accounts receivable tracked</td><td class='p-3'>Full aged receivables and payables ledgers</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Matching Principle</td><td class='p-3'>Ignored; causes false volatility</td><td class='p-3'>Revenues matched directly to cost of goods sold</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "Statutory Obligations for Companies under Companies Act 2063",
+      "contentHtml": "<p>Under Section 109 of the Nepal Companies Act 2063, all companies incorporated at the Office of Company Registrar (OCR)—whether private limited or public limited—must maintain their books of account using the double-entry system and on the accrual basis. Maintaining cash ledgers for a registered company can result in regulatory warnings, rejection of financial statements by statutory auditors, and fines from the OCR during annual returns filing.</p><p class='mt-2'>Furthermore, the Nepal Accounting Standards Board (ASB Nepal) has mandated the Nepal Financial Reporting Standards (NFRS) for SMEs, which fundamentally presupposes an accrual framework for balance sheets, profit-and-loss accounts, and cash flow reconciliations.</p>"
+    },
+    {
+      "h2": "Impact on Value Added Tax (VAT) and Income Tax Filing",
+      "contentHtml": "<p>The distinction between cash and accrual significantly affects tax compliance with the Inland Revenue Department (IRD):</p><ul class='list-disc pl-5 space-y-2 text-slate-700 my-3'><li><strong>VAT Timing:</strong> Under Section 17 of the VAT Act 2052, tax liability triggers upon issuing a tax invoice or receiving payment, whichever occurs earlier. Delaying VAT reporting until cash receipt is an actionable tax offense.</li><li><strong>Advance Corporate Tax:</strong> Income tax installments due in Poush (40%), Chaitra (70%), and Ashad (100%) must be estimated based on accrued revenue rather than bank account balance.</li><li><strong>Bad Debt Provisions:</strong> Deductions for doubtful debts under the Income Tax Act 2058 require prior accrual into revenue ledgers with verifiable commercial collection efforts.</li></ul>"
+    },
+    {
+      "h2": "Step-by-Step Transitioning from Cash to Accrual",
+      "contentHtml": "<p>For sole proprietorships converting into private limited entities, transitioning to accrual accounting requires establishing beginning balances for outstanding debtor receivables, accrued utility liabilities, unpaid rent vouchers, and unearned customer advances. To structure this transition safely, explore our dedicated <a href='/accounting-bookkeeping-services-nepal/' class='text-terracotta hover:underline font-semibold'>accounting and bookkeeping services in Nepal</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can a sole proprietorship in Nepal legally use cash accounting?",
+      "answer": "Yes. Sole proprietorships registered at local wards or the Department of Commerce with annual turnover under statutory audit thresholds may use cash accounting for internal convenience, provided their tax filings align with IRD sales books."
+    },
+    {
+      "question": "What is the biggest risk of using cash accounting for a business?",
+      "answer": "The biggest risk is false security: a business may appear highly profitable simply because clients paid upfront, while overlooking massive upcoming supplier bills and accrued staff bonuses due at fiscal year-end."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "A Bookkeeping Checklist for Small Businesses in Nepal",
+      "url": "/blog/bookkeeping-checklist-small-businesses-nepal/"
+    },
+    {
+      "title": "Which Financial Reports Should a Business Review Monthly?",
+      "url": "/blog/financial-reports-small-business-monthly-review/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Nepal Accounting Standards Board (ASB Nepal)",
+      "authority": "NFRS for SMEs Standards",
+      "url": "https://asbnepal.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Upgrade to Compliant Accrual Accounting",
+    "subtext": "Our team helps growing businesses migrate from cash ledgers to full NFRS-compliant accrual systems.",
+    "buttonText": "Schedule Accounting Transition",
+    "buttonLink": "/accounting-bookkeeping-services-nepal/"
+  }
+}

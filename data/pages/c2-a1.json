@@ -1,0 +1,71 @@
+{
+  "id": "c2-a1",
+  "url": "/blog/how-to-create-monthly-budget-nepal/",
+  "type": "article",
+  "cluster": "Personal Finance",
+  "clusterName": "Personal Financial Planning",
+  "primaryKeyword": "how to create a monthly budget in nepal",
+  "secondaryKeywords": [
+    "nepal personal budget template",
+    "monthly expense tracker npr",
+    "personal finance kathmandu"
+  ],
+  "title": "How to Create a Monthly Budget in Nepal (Step-by-Step NPR Guide)",
+  "metaDescription": "Learn how to build a realistic monthly household budget in Nepal. Apply the 50/30/20 rule to Kathmandu living costs and track expenses in Nepalese Rupees.",
+  "searchIntent": "Instructional",
+  "h1": "How to Create a Monthly Budget in Nepal",
+  "directAnswer": "To create a monthly budget in Nepal, calculate your total net take-home income in Nepalese Rupees (NPR), categorize expenses into essentials (housing, groceries, utilities, school fees), discretionary spending (dining, leisure), and committed savings. By tailoring the 50/30/20 budgeting rule to Kathmandu living costs, households can eliminate debt and steadily accumulate emergency funds.",
+  "readTime": "6 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-12",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/personal-financial-planning-nepal/",
+  "primaryMoneyPageAnchor": "personal financial planning solutions",
+  "sections": [
+    {
+      "h2": "The 50/30/20 Budgeting Rule Adapted for Nepal",
+      "contentHtml": "<p>While standard Western personal finance models suggest allocating 50% to needs, urban living expenses in Kathmandu and Lalitpur often necessitate calibrated adjustments:</p><div class='grid sm:grid-cols-3 gap-4 my-4'><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>50%: Essential Needs</h3><p class='text-sm text-slate-600'>House rent or home loan EMI, groceries from local markets/supermarkets, electricity (NEA), drinking water tankers/jars, transport/fuel, children's school tuition, and basic medical care.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>30%: Discretionary Desires</h3><p class='text-sm text-slate-600'>Dining out at cafes, social/family wedding gift contributions (bhoj), clothing purchases, mobile data/internet packages, and leisure travel around Nepal.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>20%: Dedicated Savings & Debt</h3><p class='text-sm text-slate-600'>Contributions to bank emergency recurring deposits, CIT/SSF voluntary accounts, life insurance premiums, and extra principal payments on high-interest personal loans.</p></div></div>"
+    },
+    {
+      "h2": "Practical Monthly Budgeting Workflow in 5 Steps",
+      "contentHtml": "<ol class='list-decimal pl-5 space-y-2 text-slate-700 my-3'><li><strong>Tabulate True Net Cash Income:</strong> Sum after-tax salary received via bank transfer, plus recurring rental income or freelance receipts.</li><li><strong>Audit 90 Days of Past Outflows:</strong> Review your mobile banking transaction history (Fonepay, ConnectIPS, eSewa, Khalti) to identify untracked micro-spending.</li><li><strong>Set Realistic Monthly Spending Caps:</strong> Assign specific NPR allowances to dining and entertainment rather than guessing.</li><li><strong>Automate First-of-Month Savings:</strong> Transfer 20% into a separate high-yield savings account or fixed deposit before discretionary spending starts.</li><li><strong>Review on the Last Day of the Nepali Month:</strong> Compare actual expenditures against your budget targets and adjust allocations for the coming month.</li></ol>"
+    },
+    {
+      "h2": "Interactive Budget Tools for Nepali Families",
+      "contentHtml": "<p>To test your household numbers with real-time feedback, utilize our <a href='/personal-financial-planning-nepal/' class='text-terracotta hover:underline font-semibold'>personal financial planning solutions</a> and interactive monthly budget calculator in NPR.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What if my essential expenses consume 70% of my salary in Kathmandu?",
+      "answer": "This is common in early-career stages. Start with an 70/20/10 structure (10% savings) and focus on renegotiating high-interest loans and cutting non-essential subscriptions until income grows."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How Much Should You Save for an Emergency Fund?",
+      "url": "/blog/emergency-fund-savings-guide-nepal/"
+    },
+    {
+      "title": "How to Track Income, Expenses, and Net Worth",
+      "url": "/blog/how-to-track-income-expenses-net-worth/"
+    },
+    {
+      "title": "Debt Repayment Methods: Comparing Different Approaches",
+      "url": "/blog/debt-repayment-methods-comparison/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Nepal Rastra Bank - Consumer Financial Literacy",
+      "authority": "Central Bank Financial Education",
+      "url": "https://www.nrb.org.np"
+    }
+  ],
+  "cta": {
+    "headline": "Build Your Personalized Household Budget in NPR",
+    "subtext": "Use our interactive tool to calculate balances, savings rates, and emergency fund goals.",
+    "buttonText": "Open Budget Calculator",
+    "buttonLink": "/personal-financial-planning-nepal/"
+  }
+}

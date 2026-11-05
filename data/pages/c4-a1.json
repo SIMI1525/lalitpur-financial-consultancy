@@ -1,0 +1,67 @@
+{
+  "id": "c4-a1",
+  "url": "/blog/bookkeeping-checklist-small-businesses-nepal/",
+  "type": "article",
+  "cluster": "Accounting & Bookkeeping",
+  "clusterName": "Accounting and Bookkeeping",
+  "primaryKeyword": "bookkeeping checklist for small businesses in nepal",
+  "secondaryKeywords": [
+    "monthly bookkeeping checklist nepal",
+    "small business record keeping lalitpur",
+    "accounting workflow kathmandu"
+  ],
+  "title": "A Bookkeeping Checklist for Small Businesses in Nepal (2026 Guide)",
+  "metaDescription": "A complete daily, monthly, and year-end bookkeeping checklist for Nepalese businesses. Maintain compliant sales registers, VAT ledgers, and bank reconciliations.",
+  "searchIntent": "Procedural",
+  "h1": "A Bookkeeping Checklist for Small Businesses in Nepal",
+  "directAnswer": "A compliant bookkeeping checklist for businesses in Nepal mandates daily recording of serial-numbered VAT/PAN sales invoices, weekly cash and bank reconciliations, monthly VAT purchase and sales register closures by the 25th, quarterly advance tax estimations, and annual pre-audit file compilation for independent ICAN statutory audit submission.",
+  "readTime": "6 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-16",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/accounting-bookkeeping-services-nepal/",
+  "primaryMoneyPageAnchor": "retained bookkeeping services",
+  "sections": [
+    {
+      "h2": "The 3-Tier Bookkeeping Cadence",
+      "contentHtml": "<p>Maintaining clean financial books in Nepal requires disciplined standard operating procedures across three distinct operational timeframes:</p><div class='space-y-4 my-4'><div class='p-3 bg-slate-50 border-l-4 border-terracotta rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>1. Daily Operational Routines</h3><ul class='text-xs text-slate-600 list-disc pl-4 space-y-1 mt-1'><li>Issue sequential, printed tax invoices containing buyer's PAN for all sales.</li><li>File original physical vendor tax bills chronologically in numbered voucher folders.</li><li>Count petty cash drawer and reconcile against cash payment receipts.</li></ul></div><div class='p-3 bg-slate-50 border-l-4 border-terracotta rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>2. Monthly Statutory Closings (By the 25th of Nepali Month)</h3><ul class='text-xs text-slate-600 list-disc pl-4 space-y-1 mt-1'><li>Export commercial bank statements and match every entry against accounting software.</li><li>Reconcile VAT Purchase Register (Kharid Khata) and Sales Register (Bikri Khata).</li><li>Calculate and deposit withholding tax (TDS) on rent, payroll, and consultancy.</li><li>File monthly VAT return (D-01) on the IRD portal before midnight on the 25th.</li></ul></div><div class='p-3 bg-slate-50 border-l-4 border-terracotta rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>3. Fiscal Year-End Closing (Ashad 31)</h3><ul class='text-xs text-slate-600 list-disc pl-4 space-y-1 mt-1'><li>Conduct physical year-end stock inventory count with signed count sheets.</li><li>Obtain formal bank balance confirmation letters directly from bank branch managers.</li><li>Assemble complete audit schedules for submission to external ICAN statutory auditors.</li></ul></div></div>"
+    },
+    {
+      "h2": "Common Audit Deficiencies Prevented by Disciplined Bookkeeping",
+      "contentHtml": "<p>Failing to execute monthly bank reconciliations is the number one cause of qualification in Nepalese audit reports. Discover how our professional <a href='/accounting-bookkeeping-services-nepal/' class='text-terracotta hover:underline font-semibold'>retained bookkeeping services</a> maintain flawless records throughout the year.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the penalty for filing a monthly VAT return late in Nepal?",
+      "answer": "Late filing of VAT return D-01 incurs a statutory fine of 0.1% per day of the gross taxable turnover or NPR 1,000 per month (whichever is higher), plus interest on any unpaid tax balance."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "Cash Accounting vs Accrual Accounting: Which Is Different?",
+      "url": "/blog/cash-vs-accrual-accounting-differences/"
+    },
+    {
+      "title": "Which Financial Reports Should a Business Review Monthly?",
+      "url": "/blog/financial-reports-small-business-monthly-review/"
+    },
+    {
+      "title": "Common Bookkeeping Mistakes and How to Prevent Them",
+      "url": "/blog/common-bookkeeping-mistakes-prevention/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Inland Revenue Department (IRD)",
+      "authority": "VAT Register Formats & Returns",
+      "url": "https://ird.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Automate Your Monthly Bookkeeping Workflows",
+    "subtext": "Our Lalitpur bookkeeping desk provides complete outsourced transaction recording and reconciliation.",
+    "buttonText": "Explore Bookkeeping Services",
+    "buttonLink": "/accounting-bookkeeping-services-nepal/"
+  }
+}

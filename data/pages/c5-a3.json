@@ -1,0 +1,63 @@
+{
+  "id": "c5-a3",
+  "url": "/blog/financial-documents-tax-compliance-nepal/",
+  "type": "article",
+  "cluster": "Tax & Compliance",
+  "clusterName": "Tax Planning and Compliance",
+  "primaryKeyword": "financial documents to maintain for tax compliance nepal",
+  "secondaryKeywords": [
+    "mandatory tax records nepal",
+    "ird audit documentation lalitpur",
+    "statutory record retention 6 years"
+  ],
+  "title": "What Financial Documents Must a Business Maintain for Tax Compliance in Nepal?",
+  "metaDescription": "Complete legal guide to mandatory financial records retention under Nepal's Income Tax Act 2058. Learn which documents must be preserved for 6 years.",
+  "searchIntent": "Regulatory",
+  "h1": "What Financial Documents Should a Business Maintain for Tax Compliance?",
+  "directAnswer": "Under Section 81 of the Nepal Income Tax Act 2058 and the VAT Act 2052, every registered taxpayer must preserve physical and digital financial records for a mandatory minimum of 6 years from the end of the relevant fiscal year. This includes serialized sales/purchase books, original vendor tax bills, bank statements, payroll registers with SSF slips, and annual audit reports.",
+  "readTime": "5 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-29",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/tax-planning-compliance-nepal/",
+  "primaryMoneyPageAnchor": "statutory tax compliance support",
+  "sections": [
+    {
+      "h2": "The Mandatory 6-Year Record Retention Inventory",
+      "contentHtml": "<p>During an IRD tax audit or investigation, the onus of proof rests entirely on the taxpayer. You must maintain organized archives of:</p><ul class='list-disc pl-5 space-y-2 text-slate-700 my-3'><li><strong>Sales Register (Bikri Khata):</strong> Chronological record of all taxable, zero-rated, and exempt sales with sequential invoice numbers.</li><li><strong>Purchase Register (Kharid Khata):</strong> All original supplier invoices containing the seller's valid PAN and printed billing serials.</li><li><strong>Bank Statements & Reconciliation Slips:</strong> Complete monthly bank records for every company account, including cancelled cheques and deposit slips.</li><li><strong>Withholding Tax (TDS) Vouchers:</strong> Physical TDS deposit receipts and matching digital e-TDS verification slips.</li><li><strong>Inventory & Production Records:</strong> Raw material consumption logs, finished goods stock books, and annual stock-take sheets.</li><li><strong>Customs Pragyapanpatra (Declaration Forms):</strong> For import/export businesses, all customs valuation and duty clearance receipts.</li></ul>"
+    },
+    {
+      "h2": "Legal Consequences of Discarding Records Prematurely",
+      "contentHtml": "<p>Destroying records before the statutory 6-year period expires empowers tax officers to reject declared expense claims and perform best-judgment assessment (Kar Nirdharan), imposing maximum tax rates and heavy fines. Learn more about our <a href='/tax-planning-compliance-nepal/' class='text-terracotta hover:underline font-semibold'>statutory tax compliance support</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can records be stored purely in digital format in Nepal?",
+      "answer": "Digital records in approved accounting software are valid, but original paper tax invoices, customs declaration forms, and physical contracts must still be physically preserved unless specifically authorized under IRD electronic billing directives."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How to Organize Business Records Before Tax Filing",
+      "url": "/blog/organizing-business-records-before-tax-filing/"
+    },
+    {
+      "title": "A Business Tax-Compliance Checklist for Nepal",
+      "url": "/blog/business-tax-compliance-checklist-nepal/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Inland Revenue Department (IRD)",
+      "authority": "Record Retention Mandates (Section 81)",
+      "url": "https://ird.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Audit-Proof Your Business Record-Keeping",
+    "subtext": "Our compliance specialists help structure physical and digital document retention protocols.",
+    "buttonText": "Request Record Audit",
+    "buttonLink": "/tax-planning-compliance-nepal/"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "/accounting-bookkeeping-services-nepal/",
+  "type": "money",
+  "cluster": "Accounting & Bookkeeping",
+  "clusterName": "Accounting and Bookkeeping",
+  "primaryKeyword": "Accounting and Bookkeeping Services",
+  "secondaryKeywords": [
+    "bookkeeping nepal",
+    "monthly accounting reports lalitpur",
+    "business accounting services kathmandu"
+  ],
+  "title": "Accounting & Bookkeeping Services in Nepal | Lalitpur Advisory",
+  "metaDescription": "Professional accounting and bookkeeping services in Nepal. Transaction recording, VAT ledgers, bank reconciliation, and management reporting for businesses.",
+  "searchIntent": "Commercial / B2B",
+  "h1": "Accounting, Bookkeeping & Financial Reporting Services",
+  "directAnswer": "Professional accounting and bookkeeping services in Nepal ensure accurate day-to-day transaction recording, bank reconciliations, inventory coordination, and timely monthly financial reporting. Lalitpur Financial Advisory provides disciplined bookkeeping workflows that keep businesses compliant with IRD standards and fully prepared for annual statutory audits.",
+  "centerpieceType": "bookkeeping_checklist",
+  "centerpieceTitle": "Interactive Bookkeeping Readiness Checklist",
+  "centerpieceSubtitle": "Evaluate your firm's day-to-day record keeping, reconciliations, and reporting health to identify audit readiness.",
+  "primaryMoneyPageLink": "/accounting-bookkeeping-services-nepal/",
+  "sections": [
+    {
+      "h2": "Comprehensive Bookkeeping & Reporting Scope",
+      "contentHtml": "<p>Organized financial records are the bedrock of commercial stability. Our bookkeeping workflows follow strict standard operating procedures aligned with Nepalese accounting conventions:</p><div class='grid sm:grid-cols-2 gap-4 my-4'><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>Daily Ledger & Voucher Entry</h3><p class='text-sm text-slate-600'>Accurate classification of revenue, cost of goods, and operational expenses backed by valid serial-numbered tax invoices.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>Bank & Cash Reconciliations</h3><p class='text-sm text-slate-600'>Monthly cross-matching of commercial bank statements against accounting software ledgers to eliminate unrecorded transactions.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>Receivables & Payables Tracking</h3><p class='text-sm text-slate-600'>Aged debtor and creditor reports preventing bad debts and maintaining positive vendor relationships.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>Monthly Management Accounts</h3><p class='text-sm text-slate-600'>Timely preparation of Trial Balance, Profit and Loss statements, and Balance Sheet summaries for executive review.</p></div></div>"
+    },
+    {
+      "h2": "Bookkeeping vs. Accounting vs. Statutory Audit",
+      "contentHtml": "<p>Clarity regarding roles prevents compliance failures. <strong>Bookkeeping</strong> is the mechanical, systematic recording of day-to-day commercial transactions and source documents. <strong>Accounting</strong> interprets, classifies, and summarizes these records into financial statements. <strong>Statutory Audits</strong> in Nepal are strictly governed under the Nepal Chartered Accountants Act 2053 and reserved exclusively for licensed ICAN members (Chartered Accountants and Registered Auditors). Our firm operates as an independent management consulting and accounting advisory practice; we manage bookkeeping workflows, internal controls, and pre-audit preparation to streamline external statutory audits.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can your firm handle on-site and remote bookkeeping across Nepal?",
+      "answer": "Yes. We operate hybrid bookkeeping setups utilizing modern accounting software, handling digital invoices, bank transaction exports, and scheduled physical voucher checks across Nepal."
+    },
+    {
+      "question": "How often will our business receive financial reports?",
+      "answer": "Retained bookkeeping clients receive reconciled management accounts on a monthly basis, including P&L, balance sheet, aged receivables, and tax deduction (TDS) summaries."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "A Bookkeeping Checklist for Small Businesses in Nepal",
+      "url": "/blog/bookkeeping-checklist-small-businesses-nepal/"
+    },
+    {
+      "title": "Cash Accounting vs Accrual Accounting: Which Is Different?",
+      "url": "/blog/cash-vs-accrual-accounting-differences/"
+    },
+    {
+      "title": "Which Financial Reports Should a Business Review Monthly?",
+      "url": "/blog/financial-reports-small-business-monthly-review/"
+    },
+    {
+      "title": "How to Organize Inventory Records and Reconcile Stock",
+      "url": "/blog/how-to-organize-inventory-records-reconcile-stock/"
+    },
+    {
+      "title": "Common Bookkeeping Mistakes and How to Prevent Them",
+      "url": "/blog/common-bookkeeping-mistakes-prevention/"
+    }
+  ],
+  "cta": {
+    "headline": "Streamline Your Books and Eliminate Financial Disorder",
+    "subtext": "Contact our advisory team to establish a structured bookkeeping engagement.",
+    "buttonText": "Enquire About Bookkeeping",
+    "buttonLink": "/contact-us/"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "c4-a5",
+  "url": "/blog/common-bookkeeping-mistakes-prevention/",
+  "type": "article",
+  "cluster": "Accounting & Bookkeeping",
+  "clusterName": "Accounting and Bookkeeping",
+  "primaryKeyword": "common bookkeeping mistakes and how to prevent them",
+  "secondaryKeywords": [
+    "avoid accounting errors nepal",
+    "bookkeeping troubleshooting lalitpur",
+    "clean bookkeeping engagement"
+  ],
+  "title": "5 Common Bookkeeping Mistakes in Nepal and How to Prevent Them",
+  "metaDescription": "Avoid costly tax penalties and audit delays. Discover the 5 most frequent bookkeeping errors made by Nepalese businesses and how to fix them.",
+  "searchIntent": "Problem-Solving",
+  "h1": "Common Bookkeeping Mistakes and How to Prevent Them",
+  "directAnswer": "The most common bookkeeping mistakes in Nepal include failing to reconcile bank statements monthly, issuing sales invoices without recording the buyer's PAN, mixing personal expenses with company accounts, claiming VAT input tax on non-qualifying purchases, and delaying monthly TDS deposits past the 25th of the Nepali month. Establishing automated workflows eliminates these risks.",
+  "readTime": "5 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-02-15",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/accounting-bookkeeping-services-nepal/",
+  "primaryMoneyPageAnchor": "clean bookkeeping engagement",
+  "sections": [
+    {
+      "h2": "The 5 Most Damaging Bookkeeping Errors in Nepal",
+      "contentHtml": "<p>During our diagnostic evaluations of SME records across Lalitpur and Kathmandu, five recurring errors routinely trigger IRD tax disputes and audit qualifications:</p><div class='space-y-3 my-4'><div class='p-3 bg-rose-50 border border-rose-200 rounded-lg'><h3 class='font-bold text-rose-900 text-sm'>1. Unreconciled Bank Balances</h3><p class='text-xs text-slate-700'>Failing to match accounting ledgers against bank statements leaves unrecorded bank charges, bounced cheques, and duplicate entries unnoticed for months.</p></div><div class='p-3 bg-rose-50 border border-rose-200 rounded-lg'><h3 class='font-bold text-rose-900 text-sm'>2. Claiming VAT Credit on Ineligible Items</h3><p class='text-xs text-slate-700'>Under VAT Act 2052 rules, input VAT on staff entertainment, passenger vehicles (above threshold), and personal consumption cannot be offset against sales VAT.</p></div><div class='p-3 bg-rose-50 border border-rose-200 rounded-lg'><h3 class='font-bold text-rose-900 text-sm'>3. Missing Buyer PAN on Invoices Over NPR 10,000</h3><p class='text-xs text-slate-700'>Under IRD billing directives, invoices exceeding prescribed limits must capture the purchaser's verified PAN; failure invites billing penalties.</p></div><div class='p-3 bg-rose-50 border border-rose-200 rounded-lg'><h3 class='font-bold text-rose-900 text-sm'>4. Delays in Withholding Tax (e-TDS) Verification</h3><p class='text-xs text-slate-700'>Failing to verify TDS entries on the IRD portal creates mismatches, preventing suppliers from claiming tax credit during their annual audit.</p></div><div class='p-3 bg-rose-50 border border-rose-200 rounded-lg'><h3 class='font-bold text-rose-900 text-sm'>5. Disregarding Petty Cash Vouchers</h3><p class='text-xs text-slate-700'>Accumulating thousands of rupees in undocumented small cash expenses without physical signed vouchers results in disallowance by auditors.</p></div></div>"
+    },
+    {
+      "h2": "How Professional Retainers Eliminate Human Error",
+      "contentHtml": "<p>Outsourcing transaction processing to structured accounting professionals protects your firm against penalty compounding. Discover our <a href='/accounting-bookkeeping-services-nepal/' class='text-terracotta hover:underline font-semibold'>clean bookkeeping engagement</a> models tailored for Nepalese enterprises.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What happens if our company makes an error in a filed VAT return?",
+      "answer": "An amended return (Sanshodhit D-01) can be filed with the Inland Revenue Department, though it may incur interest charges if additional tax is payable."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "A Bookkeeping Checklist for Small Businesses in Nepal",
+      "url": "/blog/bookkeeping-checklist-small-businesses-nepal/"
+    },
+    {
+      "title": "Cash Accounting vs Accrual Accounting: Which Is Different?",
+      "url": "/blog/cash-vs-accrual-accounting-differences/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Inland Revenue Department (IRD)",
+      "authority": "Billing Regulations & Directives",
+      "url": "https://ird.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Clean Up Your Financial Ledgers Today",
+    "subtext": "Contact our Lalitpur bookkeeping practice for an immediate diagnostic assessment of your records.",
+    "buttonText": "Request Bookkeeping Review",
+    "buttonLink": "/accounting-bookkeeping-services-nepal/"
+  }
+}

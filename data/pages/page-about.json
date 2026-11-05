@@ -1,0 +1,49 @@
+{
+  "id": "page-about",
+  "url": "/about-us/",
+  "type": "Trust Page",
+  "primaryKeyword": "About Lalitpur Financial Advisory",
+  "secondaryKeywords": [
+    "financial consultancy team nepal",
+    "ethical advisory lalitpur",
+    "business consultancy background"
+  ],
+  "title": "About Us | Lalitpur Financial Advisory Nepal",
+  "metaDescription": "Learn about Lalitpur Financial Advisory: our mission, values, ethical standards, and transparent management consulting practice serving all 7 provinces of Nepal.",
+  "searchIntent": "Informational",
+  "h1": "About Lalitpur Financial Advisory",
+  "directAnswer": "Lalitpur Financial Advisory is an independent financial and business management consultancy founded to deliver rigorous, transparent, and forward-looking financial stewardship to enterprises and individuals across Nepal. We adhere strictly to ethical consulting standards, distinguishing management advisory from ICAN statutory audits.",
+  "readTime": "4 min read",
+  "author": "Lalitpur Advisory Editorial Board",
+  "publishedDate": "2026-01-01",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/financial-consultancy-services-nepal/",
+  "primaryMoneyPageAnchor": "learn more about our advisory",
+  "sections": [
+    {
+      "h2": "Our Mission & Service Philosophy",
+      "contentHtml": "<p>Nepal's commercial ecosystem is maturing rapidly. Growing businesses need sophisticated financial stewardship to navigate credit markets, tax laws, and cash volatility. Our mission is to provide arithmetic-grounded financial advice that helps founders, directors, and families build enduring commercial strength.</p>"
+    },
+    {
+      "h2": "Core Values & Professional Integrity",
+      "contentHtml": "<div class='grid sm:grid-cols-3 gap-4 my-4'><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1 text-sm'>1. Absolute Transparency</h3><p class='text-xs text-slate-600'>We provide candid assessments of financial health. We never fabricate credentials, exaggerate outcomes, or make speculative return guarantees.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1 text-sm'>2. Statutory Compliance</h3><p class='text-xs text-slate-600'>We operate strictly within Nepalese legislation: the Companies Act 2063, Income Tax Act 2058, and Local Government Operation Act 2074.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1 text-sm'>3. Client Confidentiality</h3><p class='text-xs text-slate-600'>Every engagement is governed by non-disclosure agreements protecting proprietary ledgers, customer pricing, and commercial strategies.</p></div></div>"
+    },
+    {
+      "h2": "Regulatory Boundaries & ICAN Audit Delineation",
+      "contentHtml": "<p class='p-4 bg-ivory-dark border border-stone rounded-lg text-amber-900 text-xs leading-relaxed'><strong>Professional Delineation:</strong> Lalitpur Financial Advisory is an independent management consulting firm. In accordance with the Nepal Chartered Accountants Act 2053, statutory independent external audits are reserved exclusively for licensed members of the Institute of Chartered Accountants of Nepal (ICAN). Our consultancy assists clients with internal controls, accounting readiness, and audit file compilation, but does not issue statutory audit reports or legal court advocacy.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What credentials do your advisors possess?",
+      "answer": "Our advisory desk comprises professionals with master's degrees in business administration, finance, and corporate management, alongside experienced accounting practitioners. Our advisory team combines advanced qualifications in corporate finance, managerial economics, accounting workflows, and Nepalese statutory compliance. We assign dedicated advisory specialists based on your sector and project scope."
+    }
+  ],
+  "relatedArticles": [],
+  "cta": {
+    "headline": "Partner with a Principled Advisory Firm",
+    "subtext": "Schedule an initial discovery consultation with our senior advisory team.",
+    "buttonText": "Contact Our Team",
+    "buttonLink": "/contact-us/"
+  }
+}

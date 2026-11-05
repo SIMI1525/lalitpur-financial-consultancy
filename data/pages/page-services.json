@@ -1,0 +1,50 @@
+{
+  "id": "page-services",
+  "url": "/services/",
+  "type": "Services Hub",
+  "primaryKeyword": "Financial Consulting Services Directory",
+  "secondaryKeywords": [
+    "nepal corporate finance services",
+    "financial consultancy hub lalitpur",
+    "business advisory directory"
+  ],
+  "title": "Our Financial Advisory Services in Nepal | Lalitpur Advisory",
+  "metaDescription": "Explore our directory of financial consultancy services in Nepal: corporate finance, personal planning, business advisory, bookkeeping, tax, and registration.",
+  "searchIntent": "Commercial Directory",
+  "h1": "Comprehensive Financial & Business Advisory Services",
+  "directAnswer": "Explore our complete suite of financial consultancy and business support services in Nepal. From personal financial planning and corporate cash-flow forecasting to bookkeeping setup, tax compliance, and company registration, we provide structured advisory for every stage of your financial journey.",
+  "readTime": "3 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-01",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/financial-consultancy-services-nepal/",
+  "primaryMoneyPageAnchor": "explore our financial services",
+  "sections": [
+    {
+      "h2": "Specialized Practice Areas",
+      "contentHtml": "<p>Select any practice area below to explore service scopes, deliverables, engagement processes, and interactive financial tools:</p><div class='grid sm:grid-cols-2 lg:grid-cols-3 gap-6 my-6'><div class='border border-slate-200 rounded-xl p-5 hover:shadow-md transition bg-white'><div class='w-10 h-10 rounded-lg bg-terracotta/10 text-terracotta flex items-center justify-center font-bold text-lg mb-3'><i class='fa-solid fa-chart-line'></i></div><h3 class='font-bold text-slate-900 text-base mb-1.5'>Financial Consultancy Services</h3><p class='text-xs text-slate-600 mb-4'>Strategic financial management, cash-flow structuring, budgeting, and compliance guidance across all seven provinces.</p><a href='/financial-consultancy-services-nepal/' class='inline-block bg-forest text-white text-xs px-3.5 py-2 rounded-lg font-medium hover:bg-forest-light transition'>View Service Details →</a></div><div class='border border-slate-200 rounded-xl p-5 hover:shadow-md transition bg-white'><div class='w-10 h-10 rounded-lg bg-terracotta/10 text-terracotta flex items-center justify-center font-bold text-lg mb-3'><i class='fa-solid fa-wallet'></i></div><h3 class='font-bold text-slate-900 text-base mb-1.5'>Personal Financial Planning</h3><p class='text-xs text-slate-600 mb-4'>Practical household budgeting in NPR, 50/30/20 cash allocation, emergency funds, and structured debt reduction.</p><a href='/personal-financial-planning-nepal/' class='inline-block bg-forest text-white text-xs px-3.5 py-2 rounded-lg font-medium hover:bg-forest-light transition'>View Service Details →</a></div><div class='border border-slate-200 rounded-xl p-5 hover:shadow-md transition bg-white'><div class='w-10 h-10 rounded-lg bg-terracotta/10 text-terracotta flex items-center justify-center font-bold text-lg mb-3'><i class='fa-solid fa-briefcase'></i></div><h3 class='font-bold text-slate-900 text-base mb-1.5'>Business Financial Consulting</h3><p class='text-xs text-slate-600 mb-4'>Rolling cash-flow forecasting, working capital optimization, break-even modeling, and executive management reporting.</p><a href='/business-financial-consulting-nepal/' class='inline-block bg-forest text-white text-xs px-3.5 py-2 rounded-lg font-medium hover:bg-forest-light transition'>View Service Details →</a></div><div class='border border-slate-200 rounded-xl p-5 hover:shadow-md transition bg-white'><div class='w-10 h-10 rounded-lg bg-terracotta/10 text-terracotta flex items-center justify-center font-bold text-lg mb-3'><i class='fa-solid fa-book'></i></div><h3 class='font-bold text-slate-900 text-base mb-1.5'>Accounting & Bookkeeping</h3><p class='text-xs text-slate-600 mb-4'>Systematic transaction recording, bank reconciliations, VAT registers, and coordinating with independent statutory auditors.</p><a href='/accounting-bookkeeping-services-nepal/' class='inline-block bg-forest text-white text-xs px-3.5 py-2 rounded-lg font-medium hover:bg-forest-light transition'>View Service Details →</a></div><div class='border border-slate-200 rounded-xl p-5 hover:shadow-md transition bg-white'><div class='w-10 h-10 rounded-lg bg-terracotta/10 text-terracotta flex items-center justify-center font-bold text-lg mb-3'><i class='fa-solid fa-file-invoice-dollar'></i></div><h3 class='font-bold text-slate-900 text-base mb-1.5'>Tax Planning & Compliance</h3><p class='text-xs text-slate-600 mb-4'>Lawful tax structuring, advance tax installment planning, e-TDS reconciliation, and preparation for IRD filing.</p><a href='/tax-planning-compliance-nepal/' class='inline-block bg-forest text-white text-xs px-3.5 py-2 rounded-lg font-medium hover:bg-forest-light transition'>View Service Details →</a></div><div class='border border-slate-200 rounded-xl p-5 hover:shadow-md transition bg-white'><div class='w-10 h-10 rounded-lg bg-terracotta/10 text-terracotta flex items-center justify-center font-bold text-lg mb-3'><i class='fa-solid fa-building'></i></div><h3 class='font-bold text-slate-900 text-base mb-1.5'>Business Registration & Licensing</h3><p class='text-xs text-slate-600 mb-4'>OCR Private Limited incorporation, Municipal Ward permitting, PAN/VAT setup, and post-incorporation Share Lagat.</p><a href='/business-registration-licensing-nepal/' class='inline-block bg-forest text-white text-xs px-3.5 py-2 rounded-lg font-medium hover:bg-forest-light transition'>View Service Details →</a></div></div>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I engage your firm for a single project without an ongoing retainer?",
+      "answer": "Yes. We offer both project-based consulting (e.g. business registration, cash-flow model setup, tax documentation review) and retained advisory services for ongoing monthly support."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How to Choose a Financial Consultant in Nepal",
+      "url": "/blog/how-to-choose-financial-consultant-nepal/"
+    },
+    {
+      "title": "What to Prepare Before Your First Financial Consultation",
+      "url": "/blog/what-to-prepare-before-first-financial-consultation/"
+    }
+  ],
+  "cta": {
+    "headline": "Need Guidance on Which Service Fits Your Needs?",
+    "subtext": "Contact our advisory desk in Lalitpur for an introductory consultation.",
+    "buttonText": "Schedule Discussion",
+    "buttonLink": "/contact-us/"
+  }
+}

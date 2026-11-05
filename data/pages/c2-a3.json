@@ -1,0 +1,63 @@
+{
+  "id": "c2-a3",
+  "url": "/blog/how-to-track-income-expenses-net-worth/",
+  "type": "article",
+  "cluster": "Personal Finance",
+  "clusterName": "Personal Financial Planning",
+  "primaryKeyword": "how to track income expenses and net worth",
+  "secondaryKeywords": [
+    "net worth calculator nepal",
+    "personal balance sheet npr",
+    "household wealth tracking"
+  ],
+  "title": "How to Track Income, Expenses, and Net Worth in Nepal",
+  "metaDescription": "A comprehensive guide to tracking your personal net worth in Nepal. Calculate assets, eliminate liabilities, and build long-term household wealth.",
+  "searchIntent": "Instructional",
+  "h1": "How to Track Income, Expenses, and Net Worth",
+  "directAnswer": "To track your personal net worth in Nepal, calculate the total current market value of everything you own (liquid bank deposits, gold/silver, Citizen Investment Trust balances, Employee Provident Fund, mutual funds, real estate) and subtract everything you owe (home mortgages, auto loans, credit card balances, personal borrowings). Net worth serves as the ultimate scorecard for financial progress.",
+  "readTime": "6 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-28",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/personal-financial-planning-nepal/",
+  "primaryMoneyPageAnchor": "comprehensive personal wealth review",
+  "sections": [
+    {
+      "h2": "Building a Personal Balance Sheet in Nepalese Context",
+      "contentHtml": "<p>Many individuals confuse having a high monthly income with being wealthy. Wealth is measured by what you keep and grow: <strong>Net Worth = Assets - Liabilities</strong>.</p><div class='grid sm:grid-cols-2 gap-4 my-4'><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-emerald-900 mb-2'>Personal Assets (What You Own)</h3><ul class='text-xs space-y-1 text-slate-700 list-disc pl-4'><li>Commercial Bank Savings & Fixed Deposits</li><li>Social Security Fund (SSF) & EPF Accumulated Balances</li><li>Citizen Investment Trust (CIT) Units</li><li>Gold & Silver Bullion at Current Market Rates</li><li>SEBON-Registered Equities & Mutual Funds</li><li>Fair Market Value of Real Estate & Residential Plots</li></ul></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-rose-900 mb-2'>Personal Liabilities (What You Owe)</h3><ul class='text-xs space-y-1 text-slate-700 list-disc pl-4'><li>Commercial Bank Home Loan Principal Outstanding</li><li>Auto Loans & Vehicle Financing Balance</li><li>Credit Card & Overdraft Balances</li><li>Loans against Fixed Deposits or Gold</li><li>Informal Family or Cooperative (Sahakari) Borrowings</li></ul></div></div>"
+    },
+    {
+      "h2": "Quarterly Tracking Cadence",
+      "contentHtml": "<p>Update your personal balance sheet once every 3 months on the final day of Ashoj, Poush, Chaitra, and Ashad. Tracking net worth over time highlights whether your monthly savings are truly translating into real wealth accumulation. Discover our <a href='/personal-financial-planning-nepal/' class='text-terracotta hover:underline font-semibold'>comprehensive personal wealth review</a> for expert guidance.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Should I include ancestral property in my personal net worth?",
+      "answer": "Include ancestral real estate only if legal land ownership transfer (Dakhil Kharej) is formally registered under your name at the Land Revenue Office (Malpot Karyalaya)."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How to Create a Monthly Budget in Nepal",
+      "url": "/blog/how-to-create-monthly-budget-nepal/"
+    },
+    {
+      "title": "How to Set Financial Goals and Track Your Progress",
+      "url": "/blog/how-to-set-financial-goals-track-progress/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Employees Provident Fund (Karmachari Sanchaya Kosh)",
+      "authority": "Statutory Retirement Fund",
+      "url": "https://epfnepal.com.np"
+    }
+  ],
+  "cta": {
+    "headline": "Perform a Professional Personal Financial Review",
+    "subtext": "Meet with an independent personal wealth consultant in Lalitpur to assess your balance sheet.",
+    "buttonText": "Schedule Personal Review",
+    "buttonLink": "/personal-financial-planning-nepal/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "page-privacy",
+  "url": "/privacy-policy/",
+  "type": "Trust Page",
+  "primaryKeyword": "Privacy Policy Lalitpur Financial Advisory",
+  "secondaryKeywords": [
+    "data protection nepal",
+    "individual privacy act 2075",
+    "client confidentiality"
+  ],
+  "title": "Privacy Policy | Lalitpur Financial Advisory Nepal",
+  "metaDescription": "Our commitment to protecting your personal and corporate financial data in compliance with the Individual Privacy Act 2075 of Nepal.",
+  "searchIntent": "Legal",
+  "h1": "Privacy Policy & Data Protection",
+  "directAnswer": "Lalitpur Financial Advisory is committed to safeguarding the privacy and confidentiality of our clients' corporate and personal financial information in accordance with the Individual Privacy Act 2075 of Nepal. This policy explains what information we collect, how it is secured, and your rights.",
+  "readTime": "4 min read",
+  "author": "Lalitpur Advisory Legal Desk",
+  "publishedDate": "2026-01-01",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/financial-consultancy-services-nepal/",
+  "primaryMoneyPageAnchor": "privacy policy",
+  "sections": [
+    {
+      "h2": "Information We Collect",
+      "contentHtml": "<p>We collect only information voluntarily submitted through our consultation booking forms (name, telephone/WhatsApp, email, service interest) and financial records provided under formal advisory contracts. We never request banking passwords, OTPs, or credit card numbers.</p>"
+    },
+    {
+      "h2": "Data Usage & Strict Non-Disclosure",
+      "contentHtml": "<p>Client records are utilized exclusively to evaluate and deliver contracted financial consultancy services. We do not sell, rent, or trade client information to any third party for marketing or advertising purposes.</p>"
+    },
+    {
+      "h2": "Local Data Security Standards",
+      "contentHtml": "<p>In compliance with the Individual Privacy Act 2075 (वैयक्तिक गोपनीयता ऐन, २०७५), client digital files are stored using encrypted protocols with restricted access limited strictly to assigned financial consultants.</p>"
+    }
+  ],
+  "faqs": [],
+  "relatedArticles": [],
+  "cta": {
+    "headline": "Questions About Our Data Protection Practices?",
+    "subtext": "Contact our compliance officer at privacy@lalitpurfinancial.com.np.",
+    "buttonText": "Contact Compliance Officer",
+    "buttonLink": "/contact-us/"
+  }
+}

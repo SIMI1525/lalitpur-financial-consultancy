@@ -1,0 +1,44 @@
+{
+  "id": "page-terms",
+  "url": "/terms-and-conditions/",
+  "type": "Trust Page",
+  "primaryKeyword": "Terms and Conditions Lalitpur Financial Advisory",
+  "secondaryKeywords": [
+    "website terms nepal",
+    "consulting terms of service",
+    "legal agreement lalitpur"
+  ],
+  "title": "Terms and Conditions | Lalitpur Financial Advisory Nepal",
+  "metaDescription": "Terms and conditions governing the use of Lalitpur Financial Advisory website and client engagement scopes under the laws of Nepal.",
+  "searchIntent": "Legal",
+  "h1": "Terms and Conditions of Service",
+  "directAnswer": "These Terms and Conditions govern your access to the Lalitpur Financial Advisory website and outline the contractual boundaries of our consulting engagements under the laws of Nepal.",
+  "readTime": "4 min read",
+  "author": "Lalitpur Advisory Legal Desk",
+  "publishedDate": "2026-01-01",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/financial-consultancy-services-nepal/",
+  "primaryMoneyPageAnchor": "terms and conditions",
+  "sections": [
+    {
+      "h2": "Use of Website & Educational Content",
+      "contentHtml": "<p>The materials, articles, calculators, and tools provided on this website are for general informational and educational purposes only. They do not constitute formal legal opinions, statutory audit certificates, or individualized investment advice.</p>"
+    },
+    {
+      "h2": "Engagement Contracts & Scope of Work",
+      "contentHtml": "<p>A formal consulting relationship is established only upon the mutual execution of an official Letter of Engagement (LOE) or Service Agreement detailing agreed deliverables, milestones, and professional fees.</p>"
+    },
+    {
+      "h2": "Governing Law & Jurisdiction",
+      "contentHtml": "<p>These terms and any disputes arising out of website usage or professional advisory services shall be governed exclusively by the laws of Nepal, with Lalitpur District Court possessing primary territorial jurisdiction.</p>"
+    }
+  ],
+  "faqs": [],
+  "relatedArticles": [],
+  "cta": {
+    "headline": "Need Clarification on Our Engagement Terms?",
+    "subtext": "Speak directly with our advisory desk regarding customized consulting agreements.",
+    "buttonText": "Contact Advisory Desk",
+    "buttonLink": "/contact-us/"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "c3-a1",
+  "url": "/blog/how-to-create-cash-flow-forecast-small-business/",
+  "type": "article",
+  "cluster": "Business Cash Flow",
+  "clusterName": "Business Financial Consulting",
+  "primaryKeyword": "how to create a cash flow forecast for small business",
+  "secondaryKeywords": [
+    "business cash flow template nepal",
+    "working capital projection npr",
+    "sme cash forecasting"
+  ],
+  "title": "How to Create a Cash-Flow Forecast for a Small Business in Nepal",
+  "metaDescription": "Step-by-step guide to building a rolling 13-week cash-flow forecast for Nepalese small businesses. Manage seasonal buffers and avoid liquidity traps.",
+  "searchIntent": "Instructional",
+  "h1": "How to Create a Cash-Flow Forecast for a Small Business",
+  "directAnswer": "To create a cash-flow forecast for a small business in Nepal, establish your starting bank cash balance in NPR, project weekly cash collections from debtors and direct sales over a rolling 13-week horizon, and subtract anticipated operational disbursements (inventory purchases, staff salaries, rent, vendor payments, and advance tax installments). This exposes future cash shortfalls weeks before they materialize.",
+  "readTime": "6 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-14",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/business-financial-consulting-nepal/",
+  "primaryMoneyPageAnchor": "business cash-flow consulting",
+  "sections": [
+    {
+      "h2": "The Anatomy of a Rolling 13-Week Cash Forecast",
+      "contentHtml": "<p>Unlike a static annual budget, a rolling 13-week forecast is an operational steering tool updated every Sunday. It tracks actual liquid rupees rather than accrued accounting revenue:</p><div class='space-y-3 my-4'><div class='p-3 bg-slate-50 border-l-4 border-terracotta rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>1. Operating Cash Inflows</h3><p class='text-xs text-slate-600'>Cash sales at POS, customer invoice collections based on historical debtor lag (typically 45-75 days in Nepal), and bank interest.</p></div><div class='p-3 bg-slate-50 border-l-4 border-terracotta rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>2. Direct Cost Disbursements</h3><p class='text-xs text-slate-600'>Raw material and inventory supplier payouts, LC payments for imports, and transport freight clearing at Birgunj or Tatopani borders.</p></div><div class='p-3 bg-slate-50 border-l-4 border-terracotta rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>3. Fixed Operating Overhead</h3><p class='text-xs text-slate-600'>Payroll (due on the 1st of the Nepali month), house rent for commercial premises, electricity/utilities, and telecom.</p></div><div class='p-3 bg-slate-50 border-l-4 border-terracotta rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>4. Statutory Tax & Debt Commitments</h3><p class='text-xs text-slate-600'>Monthly VAT returns by the 25th of the Nepali month, advance tax installments in Poush, Chaitra, and Ashad, and bank term loan EMIs.</p></div></div>"
+    },
+    {
+      "h2": "Planning for Nepal's Seasonal Liquidity Crunches",
+      "contentHtml": "<p>In Nepal, cash flow faces intense cyclical swings around Dashain and Tihar. Businesses must disburse a mandatory 1-month festival bonus (under Labor Act 2074) and clear annual vendor balances while commercial banking liquidity frequently tightens. Modeling these surges 3 to 4 months in advance prevents emergency high-interest borrowing. Learn more about our <a href='/business-financial-consulting-nepal/' class='text-terracotta hover:underline font-semibold'>business cash-flow consulting</a> services.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How does cash flow differ from profit?",
+      "answer": "Profit is an accounting calculation (Revenue minus Expenses). Cash flow measures actual liquid rupees entering and leaving your bank account. A business can be highly profitable on paper yet become insolvent if cash is trapped in unpaid customer credit."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "Working Capital Explained for Small Businesses in Nepal",
+      "url": "/blog/working-capital-explained-small-businesses-nepal/"
+    },
+    {
+      "title": "How to Calculate the Break-Even Point of a Business",
+      "url": "/blog/how-to-calculate-break-even-point-business/"
+    },
+    {
+      "title": "Why Businesses Should Separate Personal and Business Finances",
+      "url": "/blog/why-separate-personal-and-business-finances/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Nepal Labor Act 2074",
+      "authority": "Festival Bonus Mandates (Section 37)",
+      "url": "https://moless.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Master Your Business Cash Flow Dynamics",
+    "subtext": "Access our interactive business cash-flow planning tool or consult with our corporate advisory desk.",
+    "buttonText": "Open Cash-Flow Tool",
+    "buttonLink": "/business-financial-consulting-nepal/"
+  }
+}

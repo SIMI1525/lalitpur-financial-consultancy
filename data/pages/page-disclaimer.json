@@ -1,0 +1,44 @@
+{
+  "id": "page-disclaimer",
+  "url": "/disclaimer/",
+  "type": "Trust Page",
+  "primaryKeyword": "Financial and Professional Disclaimer Nepal",
+  "secondaryKeywords": [
+    "statutory audit disclaimer nepal",
+    "sebon investment disclaimer",
+    "regulatory boundaries lalitpur"
+  ],
+  "title": "Financial & Professional Disclaimer | Lalitpur Advisory",
+  "metaDescription": "Important legal and regulatory disclaimer regarding financial consultancy, tax information, statutory audits (ICAN), and non-regulated investment advice in Nepal.",
+  "searchIntent": "Legal",
+  "h1": "Financial & Professional Disclaimer",
+  "directAnswer": "Lalitpur Financial Advisory provides independent business management consulting and educational financial guidance. In strict adherence to Nepalese law, we do not provide statutory audits under the Nepal Chartered Accountants Act 2053 (reserved for licensed ICAN members) nor regulated securities portfolio management under SEBON.",
+  "readTime": "3 min read",
+  "author": "Lalitpur Advisory Legal Desk",
+  "publishedDate": "2026-01-01",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/financial-consultancy-services-nepal/",
+  "primaryMoneyPageAnchor": "professional disclaimer",
+  "sections": [
+    {
+      "h2": "Statutory Auditing Delineation (ICAN)",
+      "contentHtml": "<p class='p-4 bg-slate-50 border border-slate-200 rounded-lg text-xs leading-relaxed text-slate-800'><strong>Institute of Chartered Accountants of Nepal (ICAN) Notice:</strong> In accordance with the Nepal Chartered Accountants Act 2053, statutory independent external audits certifying financial statements for shareholders, the Inland Revenue Department (IRD), and the Office of Company Registrar (OCR) must be performed by certified members of ICAN. Lalitpur Financial Advisory provides bookkeeping setup, pre-audit preparation, and internal management support, but does not issue statutory audit opinions or certificates.</p>"
+    },
+    {
+      "h2": "Securities & Investment Advisory Boundaries (SEBON)",
+      "contentHtml": "<p class='p-4 bg-slate-50 border border-slate-200 rounded-lg text-xs leading-relaxed text-slate-800'><strong>Securities Board of Nepal (SEBON) Notice:</strong> We provide general financial literacy, personal household budgeting frameworks, and debt management advice. We are not a licensed stock brokerage firm, merchant bank, or Portfolio Management Service (PMS) provider registered under SEBON. No content on this website constitutes a recommendation to purchase or sell specific NEPSE equities or securities.</p>"
+    },
+    {
+      "h2": "Illustrative Nature of Financial Calculators",
+      "contentHtml": "<p class='text-xs text-slate-600 leading-relaxed'>All interactive budget calculators, cash-flow tools, and readiness checklists provided on this website operate on pure client-side arithmetic based on user inputs. Outputs are for illustrative estimation purposes only and do not guarantee specific tax, credit, or commercial outcomes.</p>"
+    }
+  ],
+  "faqs": [],
+  "relatedArticles": [],
+  "cta": {
+    "headline": "Questions Regarding Our Advisory Scope?",
+    "subtext": "Contact our senior advisory desk in Lalitpur for full statutory transparency.",
+    "buttonText": "Contact Advisory Team",
+    "buttonLink": "/contact-us/"
+  }
+}

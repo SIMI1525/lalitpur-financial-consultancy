@@ -1,0 +1,36 @@
+{
+  "id": "page-cookie",
+  "url": "/cookie-policy/",
+  "type": "Trust Page",
+  "primaryKeyword": "Cookie Policy Lalitpur Advisory",
+  "secondaryKeywords": [
+    "browser storage policy",
+    "cookie usage nepal",
+    "localstorage policy"
+  ],
+  "title": "Cookie & Local Storage Policy | Lalitpur Advisory",
+  "metaDescription": "Information regarding the use of cookies and local browser storage on Lalitpur Financial Advisory website. Zero tracking cookies policy.",
+  "searchIntent": "Legal",
+  "h1": "Cookie & Local Storage Policy",
+  "directAnswer": "Lalitpur Financial Advisory uses minimal, essential client-side browser storage (such as LocalStorage and SessionStorage) solely to facilitate responsive Single Page Application navigation and preserve local calculator calculations during your active visit. We do not use third-party tracking or advertising cookies.",
+  "readTime": "2 min read",
+  "author": "Lalitpur Advisory Technical Team",
+  "publishedDate": "2026-01-01",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/financial-consultancy-services-nepal/",
+  "primaryMoneyPageAnchor": "cookie policy",
+  "sections": [
+    {
+      "h2": "Zero Tracking Cookie Standard",
+      "contentHtml": "<p>We do not deploy intrusive third-party cross-site tracking cookies, behavioral tracking scripts, or advertising pixels. Your interactions with our calculators remain entirely within your local browser and are never uploaded to advertising servers.</p>"
+    }
+  ],
+  "faqs": [],
+  "relatedArticles": [],
+  "cta": {
+    "headline": "Questions About Our Technical Policy?",
+    "subtext": "Contact our technical team with any inquiries.",
+    "buttonText": "Contact Technical Desk",
+    "buttonLink": "/contact-us/"
+  }
+}

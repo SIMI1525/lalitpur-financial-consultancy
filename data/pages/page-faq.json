@@ -1,0 +1,61 @@
+{
+  "id": "page-faq",
+  "url": "/frequently-asked-questions/",
+  "type": "Trust Page",
+  "primaryKeyword": "Financial Consultancy FAQ Nepal",
+  "secondaryKeywords": [
+    "consulting fees nepal",
+    "financial advisory questions kathmandu",
+    "consultation process faq"
+  ],
+  "title": "Frequently Asked Questions (FAQ) | Lalitpur Financial Advisory",
+  "metaDescription": "Common questions regarding financial consultancy in Nepal: engagement scopes, pricing models, documentation needed, and regulatory boundaries.",
+  "searchIntent": "Informational",
+  "h1": "Frequently Asked Questions",
+  "directAnswer": "Find clear, honest answers to frequently asked questions regarding our financial consultancy scopes, engagement pricing models, documentation preparation, and regulatory boundaries in Nepal.",
+  "readTime": "5 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-01",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/financial-consultancy-services-nepal/",
+  "primaryMoneyPageAnchor": "frequently asked questions",
+  "sections": [
+    {
+      "h2": "Categorized Frequently Asked Questions",
+      "contentHtml": "<p>Find clear, direct answers regarding our advisory practice, engagement standards, and statutory procedures in Nepal.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the difference between a financial consultant and a statutory auditor in Nepal?",
+      "answer": "A financial consultant is forward-looking: designing cash-flow models, operational budgets, working capital controls, and bank loan proposals. A statutory auditor is backward-looking: examining closed fiscal year books to issue an independent audit opinion under the Nepal Chartered Accountants Act 2053. Our consultancy prepares your books and coordinates with your auditor, but does not conduct statutory audits."
+    },
+    {
+      "question": "Do you provide services across all seven provinces of Nepal?",
+      "answer": "Yes. While our headquarters is physically situated in Lalitpur, we support corporate and individual clients nationwide across Koshi, Madhesh, Bagmati, Gandaki, Lumbini, Karnali, and Sudurpashchim provinces through secure cloud accounting and digital video advisory."
+    },
+    {
+      "question": "How are advisory engagements priced?",
+      "answer": "We offer transparent fee models: fixed project-based fees for business registrations, financial modeling, or system setups; and predictable monthly retainers for ongoing accounting and CFO advisory."
+    },
+    {
+      "question": "How do you help companies prepare for annual statutory audits?",
+      "answer": "We perform pre-audit reconciliations: balancing bank accounts, verifying asset ledgers, reconciling VAT Form 13 against sales books, organizing e-TDS deduction slips, and compiling complete audit schedules to ensure rapid audit sign-off before the Poush deadline."
+    },
+    {
+      "question": "When must a private limited company in Nepal file its annual returns at the OCR?",
+      "answer": "Under the Companies Act 2063, annual returns—including the audited balance sheet, auditor report, and annual general meeting (AGM) minutes—must be filed within 6 months of fiscal year-end, typically before the end of Poush."
+    },
+    {
+      "question": "Can you assist foreign investors with FITTA approvals and Nepal Rastra Bank clearances?",
+      "answer": "Yes. We advise international founders and joint-venture partners through Department of Industry (DOI) foreign investment approvals under FITTA 2019, OCR company registration, and NRB foreign currency recording."
+    }
+  ],
+  "relatedArticles": [],
+  "cta": {
+    "headline": "Have a Question Not Answered Here?",
+    "subtext": "Contact our advisory team directly and we will respond within one business day.",
+    "buttonText": "Ask a Question",
+    "buttonLink": "/contact-us/"
+  }
+}

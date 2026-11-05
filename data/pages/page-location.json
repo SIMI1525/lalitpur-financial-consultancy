@@ -1,0 +1,40 @@
+{
+  "id": "page-location",
+  "url": "/office-location/",
+  "type": "Trust Page",
+  "primaryKeyword": "Lalitpur Financial Advisory Office Location",
+  "secondaryKeywords": [
+    "financial consultant pulchowk kumaripati",
+    "lalitpur office address",
+    "consultancy directions nepal"
+  ],
+  "title": "Office Location & Directions | Lalitpur Financial Advisory",
+  "metaDescription": "Find our corporate office in the Pulchowk-Kumaripati commercial corridor in Lalitpur, Nepal. View directions, parking availability, and transit routes.",
+  "searchIntent": "Navigational / Local",
+  "h1": "Our Office Location in Lalitpur, Nepal",
+  "directAnswer": "Lalitpur Financial Advisory is centrally situated in the Pulchowk-Kumaripati commercial corridor of Lalitpur Metropolitan City, Bagmati Province, Nepal. The office is easily accessible from Patan, Jawalakhel, and downtown Kathmandu, serving commercial and private clients nationwide.",
+  "readTime": "3 min read",
+  "author": "Lalitpur Advisory Operations",
+  "publishedDate": "2026-01-01",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/financial-consultancy-services-nepal/",
+  "primaryMoneyPageAnchor": "visit our Lalitpur office",
+  "sections": [
+    {
+      "h2": "Commercial Corridor Address Details",
+      "contentHtml": "<p><strong>Physical Address:</strong> Level 3, Apex Commercial Complex, Pulchowk-Kumaripati Main Road, Lalitpur Metropolitan City, Ward No. 5, Bagmati Province, Postal Code 44700, Nepal. <em>(Centrally located in Lalitpur's primary financial and corporate corridor).</em></p><p class='text-xs text-slate-600 mt-2'><strong>Landmarks:</strong> Situated between Pulchowk Engineering Campus and Kumaripati commercial center, close to major commercial banking branches (Nabil, NIC Asia, Himalayan Bank).</p>"
+    },
+    {
+      "h2": "Nationwide Reach Across All 7 Provinces",
+      "contentHtml": "<p>While our physical headquarters is located in Lalitpur, over 60% of our SME advisory clients operate across Koshi, Madhesh, Gandaki, Lumbini, Karnali, and Sudurpashchim provinces via secure cloud-accounting and digital conferencing.</p>"
+    }
+  ],
+  "faqs": [],
+  "relatedArticles": [],
+  "cta": {
+    "headline": "Schedule an In-Person Meeting in Lalitpur",
+    "subtext": "Contact our desk to arrange an office appointment with our senior advisory team.",
+    "buttonText": "Schedule Office Visit",
+    "buttonLink": "/contact-us/"
+  }
+}

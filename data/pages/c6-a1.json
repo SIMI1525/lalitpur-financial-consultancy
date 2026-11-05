@@ -1,0 +1,67 @@
+{
+  "id": "c6-a1",
+  "url": "/blog/how-to-register-private-limited-company-nepal/",
+  "type": "article",
+  "cluster": "Company Registration",
+  "clusterName": "Business Registration and Licensing",
+  "primaryKeyword": "how to register a private limited company in nepal",
+  "secondaryKeywords": [
+    "company registration ocr nepal",
+    "pvt ltd incorporation steps kathmandu",
+    "ocr online portal guide"
+  ],
+  "title": "How to Register a Private Limited Company in Nepal (2026 Step-by-Step)",
+  "metaDescription": "Complete step-by-step guide to registering a Private Limited company at the Office of Company Registrar (OCR) in Nepal. Forms, fees, bylaws, and post-setup rules.",
+  "searchIntent": "Instructional",
+  "h1": "How to Register a Private Limited Company in Nepal",
+  "directAnswer": "To register a Private Limited Company in Nepal, complete the online incorporation process through the Office of Company Registrar (OCR) portal (ocr.gov.np): reserve a unique proposed company name, draft and upload the Memorandum of Association (MOA) and Articles of Association (AOA), verify promoter citizenship details, pay statutory registration fees, and receive the digital Certificate of Incorporation.",
+  "readTime": "7 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-11",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/business-registration-licensing-nepal/",
+  "primaryMoneyPageAnchor": "private company registration support",
+  "sections": [
+    {
+      "h2": "The 6-Step OCR Company Registration Process",
+      "contentHtml": "<p>Incorporating under the Nepal Companies Act 2063 follows a structured digital workflow through the OCR portal:</p><ol class='list-decimal pl-5 space-y-2 text-slate-700 my-3'><li><strong>Name Reservation (Name Approval):</strong> Create an OCR user account and submit 2-3 proposed company names. Name scrutiny takes 1 to 3 business days.</li><li><strong>Drafting Constitutional Documents:</strong> Draft the Memorandum of Association (Prabandha Patra) and Articles of Association (Niyamawali) detailing objectives, authorized capital, promoter share allocations, and directorship powers.</li><li><strong>Document Upload & Digital Submission:</strong> Upload signed citizenship certificates of all promoters, drafted MOA/AOA, and agreement letters if appointing corporate shareholders.</li><li><strong>Officer Scrutiny & Correction Resubmission:</strong> OCR verification officers review documents for legal compliance under Companies Act provisions.</li><li><strong>Statutory Registration Fee Payment:</strong> Pay the government registration fee scaled according to authorized share capital.</li><li><strong>Issuance of Company Certificate:</strong> Download the digitally signed Certificate of Incorporation, approved MOA/AOA, and formal OCR registration letter.</li></ol>"
+    },
+    {
+      "h2": "Government Registration Fee Slabs (OCR)",
+      "contentHtml": "<p>Statutory government incorporation fees are tiered by authorized share capital:</p><ul class='list-disc pl-5 space-y-1 text-xs text-slate-700 my-2'><li>Authorized Capital up to NPR 10 Lakhs: Government Fee NPR 1,000</li><li>Authorized Capital NPR 10L to 50 Lakhs: Government Fee NPR 4,500</li><li>Authorized Capital NPR 50L to 1 Crore: Government Fee NPR 9,500</li><li>Authorized Capital NPR 1 Crore to 5 Crore: Government Fee NPR 16,000</li></ul><p>Explore our complete <a href='/business-registration-licensing-nepal/' class='text-terracotta hover:underline font-semibold'>private company registration support</a> services to streamline incorporation.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can a single person register a Private Limited Company in Nepal?",
+      "answer": "Yes. Under Section 9(1) of the Companies Act 2063, a Single Person Company (Ekal Company) can be registered with a single promoter having 100% shareholding."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "Business Structure Comparison: Sole Proprietorship vs Pvt Ltd",
+      "url": "/blog/business-structure-comparison-nepal/"
+    },
+    {
+      "title": "Documents Needed When Registering a Business in Nepal",
+      "url": "/blog/documents-needed-registering-business-nepal/"
+    },
+    {
+      "title": "A Post-Registration Checklist for New Businesses",
+      "url": "/blog/post-registration-checklist-new-businesses-nepal/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Office of Company Registrar (OCR)",
+      "authority": "Online Registration Portal",
+      "url": "https://ocr.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Register Your Company with Complete Legal Precision",
+    "subtext": "Our Lalitpur corporate registration desk handles name approval, drafting, and post-incorporation licensing.",
+    "buttonText": "Start Company Registration",
+    "buttonLink": "/business-registration-licensing-nepal/"
+  }
+}

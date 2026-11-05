@@ -1,0 +1,75 @@
+{
+  "id": "c4-a4",
+  "url": "/blog/how-to-organize-inventory-records-reconcile-stock/",
+  "type": "article",
+  "cluster": "Accounting & Bookkeeping",
+  "clusterName": "Accounting and Bookkeeping",
+  "primaryKeyword": "how to organize inventory records and reconcile stock",
+  "secondaryKeywords": [
+    "inventory reconciliation nepal",
+    "stock audit records kathmandu",
+    "warehouse record keeping npr"
+  ],
+  "title": "How to Organize Inventory Records and Reconcile Stock in Nepal",
+  "metaDescription": "A practical guide to inventory management and stock reconciliation for Nepalese businesses. Comply with IRD stock ledger rules and prevent inventory shrinkage.",
+  "searchIntent": "Practical Guidance",
+  "h1": "How to Organize Inventory Records and Reconcile Stock",
+  "directAnswer": "To organize inventory records and reconcile stock in Nepal, establish formal item codes (SKUs) in your inventory software, record every stock movement with signed Goods Receipt Notes (GRN) and Delivery Challans, maintain an updated Stock Ledger (Dakhila/Nikasi Khata) as mandated by IRD rules, and conduct periodic physical counts to resolve stock discrepancies.",
+  "readTime": "6 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-02-08",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/accounting-bookkeeping-services-nepal/",
+  "primaryMoneyPageAnchor": "inventory accounting support",
+  "sections": [
+    {
+      "h2": "Why Inventory Control Is Critical for Commercial Enterprises in Nepal",
+      "contentHtml": "<p>For retail, wholesale, manufacturing, and import enterprises in Nepal, inventory frequently represents between 40% and 70% of total working capital. Inadequate stock management leads to double jeopardy: excessive dead stock draining liquidity, alongside stock-outs during peak shopping periods like Dashain and Tihar. Moreover, under Section 15 of the Nepal Income Tax Act 2058, inventory valuation directly dictates Cost of Goods Sold (COGS) and taxable operating profit.</p>"
+    },
+    {
+      "h2": "Perpetual vs. Periodic Inventory Systems",
+      "contentHtml": "<p>Businesses in Kathmandu and Lalitpur generally implement one of two inventory management approaches:</p><div class='grid sm:grid-cols-2 gap-4 my-4'><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>Periodic Inventory</h3><p class='text-sm text-slate-600'>Physical stock is counted only at the end of the quarter or fiscal year. COGS is derived mathematically: Beginning Inventory + Purchases - Ending Inventory. Suitable only for micro-retailers due to zero theft or shrinkage visibility.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>Perpetual Inventory (Recommended)</h3><p class='text-sm text-slate-600'>Every stock addition (Goods Receipt Note / GRN) and sale is logged in real time within accounting software. Provides instant visibility into stock valuations, reorder thresholds, and warehouse discrepancy alerts.</p></div></div>"
+    },
+    {
+      "h2": "Statutory Valuation Rules under Nepal Income Tax Act (Section 15)",
+      "contentHtml": "<p>The Inland Revenue Department strictly governs inventory costing methodology:</p><ul class='list-disc pl-5 space-y-2 text-slate-700 my-3'><li><strong>Cost Formulas:</strong> Businesses must adopt either First-In, First-Out (FIFO) or Weighted Average Cost (WAC). Last-In, First-Out (LIFO) is prohibited under NFRS for SMEs.</li><li><strong>Lower of Cost or Net Realizable Value:</strong> Damaged, obsolete, or expired stock must be written down to its Net Realizable Value (NRV), supported by formal survey reports and executive destruction certifications during annual audit sign-off.</li><li><strong>Customs & Freight Capitalization:</strong> For imported goods, customs tariffs, transport freight, and port handling fees must be capitalized into item unit costs rather than expensed immediately.</li></ul>"
+    },
+    {
+      "h2": "Executing a Structured Monthly Stock Reconciliation",
+      "contentHtml": "<p>A monthly cyclic count of the top 20% high-value items (ABC Analysis) prevents discrepancies from compounding into massive audit adjustments in Ashad. Explore our specialized <a href='/accounting-bookkeeping-services-nepal/' class='text-terracotta hover:underline font-semibold'>accounting and bookkeeping services in Nepal</a> for inventory control workflows.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How should damaged or expired goods be written off in Nepal for tax purposes?",
+      "answer": "Damaged goods must be physically verified, documented with photographic proof and a formal disposal minutes signed by the management, and notified to the local tax officer if claiming tax-deductible shrinkage losses."
+    },
+    {
+      "question": "Can our business switch from Weighted Average to FIFO valuation?",
+      "answer": "Changing inventory valuation methods requires formal disclosure in statutory audit notes and justification that the change presents a truer and fairer view of financial position under NFRS."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "A Bookkeeping Checklist for Small Businesses in Nepal",
+      "url": "/blog/bookkeeping-checklist-small-businesses-nepal/"
+    },
+    {
+      "title": "Common Bookkeeping Mistakes and How to Prevent Them",
+      "url": "/blog/common-bookkeeping-mistakes-prevention/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Inland Revenue Department (IRD)",
+      "authority": "VAT Stock Book Regulations",
+      "url": "https://ird.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Reconcile Your Warehouse & Accounting Ledgers",
+    "subtext": "Our inventory specialists assist with stock counts, software setup, and valuation schedules.",
+    "buttonText": "Request Inventory Advisory",
+    "buttonLink": "/accounting-bookkeeping-services-nepal/"
+  }
+}

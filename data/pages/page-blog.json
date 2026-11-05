@@ -1,0 +1,36 @@
+{
+  "id": "page-blog",
+  "url": "/blog/",
+  "type": "Blog Hub",
+  "primaryKeyword": "Financial Knowledge Hub Nepal",
+  "secondaryKeywords": [
+    "nepal finance guides",
+    "business advisory articles kathmandu",
+    "tax guides nepal"
+  ],
+  "title": "Financial Knowledge & Advisory Hub | Lalitpur Advisory",
+  "metaDescription": "Explore 30 in-depth financial, tax, bookkeeping, and business registration guides tailored for Nepal. Written by experienced practitioners.",
+  "searchIntent": "Informational Hub",
+  "h1": "Financial Knowledge & Commercial Advisory Hub",
+  "directAnswer": "Access our library of 30 research-driven guides covering corporate finance, personal wealth management, bookkeeping workflows, Nepalese tax compliance, and business registration. Grounded in official Nepalese regulatory frameworks.",
+  "readTime": "3 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-01",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/financial-consultancy-services-nepal/",
+  "primaryMoneyPageAnchor": "explore our knowledge base",
+  "sections": [
+    {
+      "h2": "Advisory Practice Areas",
+      "contentHtml": "<p>Our articles are organized into six specialized practice areas corresponding to our core commercial advisory services. Use the category filters to explore topics or search by keyword.</p>"
+    }
+  ],
+  "faqs": [],
+  "relatedArticles": [],
+  "cta": {
+    "headline": "Have a Specific Financial Challenge?",
+    "subtext": "Our advisory desk in Lalitpur is available for private consultation.",
+    "buttonText": "Contact Advisory Desk",
+    "buttonLink": "/contact-us/"
+  }
+}

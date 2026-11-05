@@ -1,0 +1,63 @@
+{
+  "id": "c5-a4",
+  "url": "/blog/business-tax-compliance-checklist-nepal/",
+  "type": "article",
+  "cluster": "Tax & Compliance",
+  "clusterName": "Tax Planning and Compliance",
+  "primaryKeyword": "business tax compliance checklist nepal",
+  "secondaryKeywords": [
+    "nepal tax calendar 2026",
+    "advance tax installment deadlines npr",
+    "corporate tax planning lalitpur"
+  ],
+  "title": "A Business Tax-Compliance Checklist for Nepal (Statutory Deadlines)",
+  "metaDescription": "A complete tax calendar and compliance checklist for Nepalese businesses. Never miss monthly VAT returns, advance tax installments, or annual filing deadlines.",
+  "searchIntent": "Procedural",
+  "h1": "A Business Tax-Compliance Checklist for Nepal",
+  "directAnswer": "A business tax compliance checklist in Nepal requires observing statutory filing cycles: monthly VAT returns (D-01) and withholding tax (TDS) payments by the 25th of every Nepali month; three advance income tax installments due by Poush end (40%), Chaitra end (70%), and Ashad end (100%); and annual corporate tax return filing (D-03) by Poush 31.",
+  "readTime": "6 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-02-05",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/tax-planning-compliance-nepal/",
+  "primaryMoneyPageAnchor": "corporate tax planning solutions",
+  "sections": [
+    {
+      "h2": "The Annual Nepalese Statutory Tax Calendar",
+      "contentHtml": "<p>Mark these non-negotiable statutory tax milestones in your corporate calendar to avoid automated compounding fines:</p><div class='overflow-x-auto my-4'><table class='w-full text-xs text-left border border-slate-200'><thead class='bg-slate-100 text-slate-800 font-bold'><tr><th class='p-3 border-b'>Deadline</th><th class='p-3 border-b'>Statutory Obligation</th><th class='p-3 border-b'>Governing Rule</th></tr></thead><tbody class='divide-y divide-slate-100'><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>25th of Every Nepali Month</td><td class='p-3'>Deposit prior month's Withholding Tax (TDS) & file monthly VAT return (D-01)</td><td class='p-3'>VAT Act 2052 Sec 18</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>End of Poush</td><td class='p-3'>1st Advance Income Tax Installment (Minimum 40% of estimated annual tax)</td><td class='p-3'>Income Tax Act Sec 94</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>End of Poush (Poush 31)</td><td class='p-3'>Annual Tax Return (D-03) filing deadline for previous fiscal year</td><td class='p-3'>Income Tax Act Sec 96</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>End of Chaitra</td><td class='p-3'>2nd Advance Income Tax Installment (Minimum 70% of estimated annual tax)</td><td class='p-3'>Income Tax Act Sec 94</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>End of Ashad (Ashad 31)</td><td class='p-3'>3rd Advance Income Tax Installment (100% of estimated annual tax) & Fiscal Year Close</td><td class='p-3'>Income Tax Act Sec 94</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "How Advance Tax Penalties Work",
+      "contentHtml": "<p>Failing to deposit mandatory advance tax installments triggers interest penalties under Section 118 of the Income Tax Act at standard statutory rates from the due date until final settlement. Explore our <a href='/tax-planning-compliance-nepal/' class='text-terracotta hover:underline font-semibold'>corporate tax planning solutions</a> to model your advance installments accurately.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What if our business has zero turnover in a specific month?",
+      "answer": "You must still submit a 'Zero VAT Return' (Sunya D-01) on the IRD portal by the 25th. Failing to submit a zero return incurs the standard NPR 1,000 late penalty."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "PAN vs VAT in Nepal: Understanding the Difference",
+      "url": "/blog/pan-vs-vat-nepal-differences/"
+    },
+    {
+      "title": "Tax Planning vs Tax Evasion: Understanding the Difference",
+      "url": "/blog/tax-planning-vs-tax-evasion-differences/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Inland Revenue Department (IRD)",
+      "authority": "Advance Tax Guidelines",
+      "url": "https://ird.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Stay 100% Ahead of IRD Filing Deadlines",
+    "subtext": "Our corporate tax compliance desk handles monthly VAT, TDS, and advance tax management.",
+    "buttonText": "Consult Our Tax Team",
+    "buttonLink": "/tax-planning-compliance-nepal/"
+  }
+}

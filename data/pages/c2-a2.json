@@ -1,0 +1,63 @@
+{
+  "id": "c2-a2",
+  "url": "/blog/emergency-fund-savings-guide-nepal/",
+  "type": "article",
+  "cluster": "Personal Finance",
+  "clusterName": "Personal Financial Planning",
+  "primaryKeyword": "how much should you save for an emergency fund",
+  "secondaryKeywords": [
+    "emergency savings fund nepal",
+    "rainy day fund npr",
+    "household financial buffer kathmandu"
+  ],
+  "title": "How Much Should You Save for an Emergency Fund in Nepal?",
+  "metaDescription": "Calculate how much you need in an emergency fund in Nepal. Recommended 3 to 6-month buffer guidelines, ideal bank accounts, and liquidity rules.",
+  "searchIntent": "Informational",
+  "h1": "How Much Should You Save for an Emergency Fund?",
+  "directAnswer": "In Nepal, an emergency fund should equal 3 to 6 months of mandatory living expenses for salaried employees with stable jobs, or 6 to 9 months for business owners, freelancers, and commission-earners. This money must be parked in liquid, insured Class A commercial bank savings accounts or flexi-fixed deposits, completely isolated from stock investments or real estate.",
+  "readTime": "5 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-20",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/personal-financial-planning-nepal/",
+  "primaryMoneyPageAnchor": "structured personal savings roadmap",
+  "sections": [
+    {
+      "h2": "Sizing Your Emergency Buffer Based on Income Stability",
+      "contentHtml": "<p>An emergency fund is insurance, not an investment. Its sole objective is protecting your family from unexpected shocks: medical emergencies, sudden vehicle repairs, or temporary job transitions.</p><div class='overflow-x-auto my-4'><table class='w-full text-xs text-left border border-slate-200'><thead class='bg-slate-100 text-slate-800 font-bold'><tr><th class='p-3 border-b'>Employment Profile</th><th class='p-3 border-b'>Recommended Fund Size</th><th class='p-3 border-b'>Sample Household (NPR 60k/mo expenses)</th></tr></thead><tbody class='divide-y divide-slate-100'><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Dual-Income Salaried Household</td><td class='p-3'>3 Months Essential Living Expenses</td><td class='p-3'>NPR 180,000</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Single-Income Salaried Household</td><td class='p-3'>6 Months Essential Living Expenses</td><td class='p-3'>NPR 360,000</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Entrepreneurs & Freelancers</td><td class='p-3'>6 to 9 Months Essential Expenses</td><td class='p-3'>NPR 360,000 - NPR 540,000</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "Where Should You Keep Emergency Savings in Nepal?",
+      "contentHtml": "<p>Never invest your emergency fund in NEPSE equities, mutual funds, or illiquid land. Instead, hold it across:</p><ul class='list-disc pl-5 space-y-2 text-slate-700 my-3'><li><strong>Tier 1 (Instant Liquidity):</strong> 1 month of expenses in a Class A commercial bank savings account with debit card and mobile banking enabled.</li><li><strong>Tier 2 (High-Yield Safety):</strong> 2-5 months in auto-sweep recurring fixed deposits or easily breakable term accounts insured up to NPR 500,000 under the Deposit and Credit Guarantee Fund (DCGF).</li></ul><p>Ready to structure your household reserves? Review our <a href='/personal-financial-planning-nepal/' class='text-terracotta hover:underline font-semibold'>structured personal savings roadmap</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Are bank deposits in Nepal safe for emergency funds?",
+      "answer": "Yes. Deposits in licensed commercial banks (Class A) are regulated by Nepal Rastra Bank, and individual deposits up to NPR 500,000 are guaranteed under the Deposit and Credit Guarantee Fund (DCGF)."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How to Create a Monthly Budget in Nepal",
+      "url": "/blog/how-to-create-monthly-budget-nepal/"
+    },
+    {
+      "title": "How to Track Income, Expenses, and Net Worth",
+      "url": "/blog/how-to-track-income-expenses-net-worth/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Deposit and Credit Guarantee Fund (DCGF)",
+      "authority": "Deposit Protection Corporation",
+      "url": "https://dcgf.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Calculate Your Emergency Fund Target",
+    "subtext": "Use our personal financial calculator to determine your family's exact reserve requirements.",
+    "buttonText": "Calculate Emergency Target",
+    "buttonLink": "/personal-financial-planning-nepal/"
+  }
+}

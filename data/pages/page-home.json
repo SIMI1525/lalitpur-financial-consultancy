@@ -1,0 +1,66 @@
+{
+  "id": "page-home",
+  "url": "/",
+  "type": "Home Page",
+  "primaryKeyword": "Financial Consultancy Services in Nepal",
+  "secondaryKeywords": [
+    "financial advisor lalitpur",
+    "business finance management nepal",
+    "corporate financial planning kathmandu"
+  ],
+  "title": "Financial Consultancy Services in Nepal | Lalitpur Advisory",
+  "metaDescription": "Specialized financial consultancy in Nepal based in Lalitpur. Expert solutions in business financial planning, budgeting, bookkeeping setup, and tax compliance.",
+  "searchIntent": "Commercial / Navigational",
+  "h1": "Strategic Financial Consultancy for Businesses & Individuals in Nepal",
+  "directAnswer": "Lalitpur Financial Advisory provides strategic financial consultancy, corporate budgeting, cash-flow structuring, bookkeeping setup, and tax-compliance guidance for businesses, startups, and individuals across all seven provinces of Nepal. Headquartered in Lalitpur, we bridge the gap between daily operations and high-level commercial decision-making.",
+  "readTime": "4 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-01",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/financial-consultancy-services-nepal/",
+  "primaryMoneyPageAnchor": "financial consultancy services",
+  "sections": [
+    {
+      "h2": "Core Financial Advisory Verticals",
+      "contentHtml": "<p>We deliver comprehensive, independent financial management tailored to the commercial and regulatory landscape of Nepal. Our engagements focus on four foundational pillars:</p><div class='grid sm:grid-cols-2 lg:grid-cols-3 gap-4 my-4'><div class='p-4 bg-white border border-slate-200 rounded-xl shadow-sm'><h3 class='font-bold text-slate-900 mb-1 text-sm'>1. Financial Consultancy Services</h3><p class='text-xs text-slate-600 mb-3'>Comprehensive operational budgeting, internal financial controls, and strategic decision support for growing organizations.</p><a href='/financial-consultancy-services-nepal/' class='text-xs text-terracotta hover:underline font-semibold'>Explore Core Consultancy →</a></div><div class='p-4 bg-white border border-slate-200 rounded-xl shadow-sm'><h3 class='font-bold text-slate-900 mb-1 text-sm'>2. Personal Financial Planning</h3><p class='text-xs text-slate-600 mb-3'>Household budgeting, cash-flow optimization, 3-6 month emergency fund sizing, and debt reduction strategies in NPR.</p><a href='/personal-financial-planning-nepal/' class='text-xs text-terracotta hover:underline font-semibold'>Explore Personal Finance →</a></div><div class='p-4 bg-white border border-slate-200 rounded-xl shadow-sm'><h3 class='font-bold text-slate-900 mb-1 text-sm'>3. Business Financial Consulting</h3><p class='text-xs text-slate-600 mb-3'>Rolling cash-flow forecasting, working capital optimization, and break-even analysis for SMEs and startups.</p><a href='/business-financial-consulting-nepal/' class='text-xs text-terracotta hover:underline font-semibold'>Explore Business Consulting →</a></div><div class='p-4 bg-white border border-slate-200 rounded-xl shadow-sm'><h3 class='font-bold text-slate-900 mb-1 text-sm'>4. Accounting & Bookkeeping</h3><p class='text-xs text-slate-600 mb-3'>Transaction recording, bank reconciliations, VAT books maintenance, and pre-audit file preparation.</p><a href='/accounting-bookkeeping-services-nepal/' class='text-xs text-terracotta hover:underline font-semibold'>Explore Bookkeeping →</a></div><div class='p-4 bg-white border border-slate-200 rounded-xl shadow-sm'><h3 class='font-bold text-slate-900 mb-1 text-sm'>5. Tax Planning & Compliance</h3><p class='text-xs text-slate-600 mb-3'>Lawful structuring, advance tax installment planning (Poush, Chaitra, Ashad), e-TDS reconciliation, and IRD filing.</p><a href='/tax-planning-compliance-nepal/' class='text-xs text-terracotta hover:underline font-semibold'>Explore Tax Support →</a></div><div class='p-4 bg-white border border-slate-200 rounded-xl shadow-sm'><h3 class='font-bold text-slate-900 mb-1 text-sm'>6. Business Registration & Licensing</h3><p class='text-xs text-slate-600 mb-3'>Pvt Ltd company incorporation at OCR, Municipal Ward permitting, PAN/VAT setup, and post-incorporation Share Lagat.</p><a href='/business-registration-licensing-nepal/' class='text-xs text-terracotta hover:underline font-semibold'>Explore Business Setup →</a></div></div>"
+    },
+    {
+      "h2": "Who We Help: Structured Client Pathways",
+      "contentHtml": "<p>Our consultancy provides dedicated advisory tracks depending on your commercial maturity:</p><div class='grid sm:grid-cols-3 gap-4 my-4'><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1 text-sm'>Individuals & Households</h3><p class='text-xs text-slate-600'>Structuring family budgets in NPR, building emergency reserves, managing loan EMIs, and setting quantifiable long-term wealth milestones.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1 text-sm'>Startups & Entrepreneurs</h3><p class='text-xs text-slate-600'>Evaluating business structures, navigating OCR incorporation, setting up initial charts of accounts, and modeling cash runway.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1 text-sm'>Established Businesses & SMEs</h3><p class='text-xs text-slate-600'>Overcoming cash crunches, optimizing working capital, streamlining bookkeeping, preparing for bank credit, and audit coordination.</p></div></div>"
+    },
+    {
+      "h2": "Transparent Professional Standards",
+      "contentHtml": "<p class='p-4 bg-slate-100 border border-slate-300 rounded-lg text-slate-800 text-xs leading-relaxed'><strong>Professional Delineation:</strong> Lalitpur Financial Advisory operates as an independent financial and management consultancy. In compliance with the Nepal Chartered Accountants Act 2053, statutory external audits are conducted exclusively by licensed ICAN members. We prepare businesses for audits and coordinate with independent audit practices, but we do not issue statutory audit opinions or provide regulated legal court representation.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Where is Lalitpur Financial Advisory located?",
+      "answer": "Our headquarters is situated in Lalitpur Metropolitan City (Pulchowk-Kumaripati commercial area), providing physical consultations in Kathmandu Valley and digital advisory across all seven provinces of Nepal."
+    },
+    {
+      "question": "How do we begin working together?",
+      "answer": "You can start by booking an initial discovery consultation via our website or contacting our Lalitpur advisory desk. We review your requirements and propose a project or retained consulting scope."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "What Does a Financial Consultancy Firm Do in Nepal?",
+      "url": "/blog/what-does-a-financial-consultancy-firm-do-nepal/"
+    },
+    {
+      "title": "How to Create a Monthly Budget in Nepal",
+      "url": "/blog/how-to-create-monthly-budget-nepal/"
+    },
+    {
+      "title": "How to Create a Cash-Flow Forecast for a Small Business",
+      "url": "/blog/how-to-create-cash-flow-forecast-small-business/"
+    }
+  ],
+  "cta": {
+    "headline": "Schedule an Initial Financial Discovery Session",
+    "subtext": "Discuss your personal or business financial objectives with our senior consultants in Lalitpur.",
+    "buttonText": "Book Consultation",
+    "buttonLink": "/contact-us/"
+  }
+}

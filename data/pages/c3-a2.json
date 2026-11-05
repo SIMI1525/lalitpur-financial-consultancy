@@ -1,0 +1,63 @@
+{
+  "id": "c3-a2",
+  "url": "/blog/working-capital-explained-small-businesses-nepal/",
+  "type": "article",
+  "cluster": "Business Cash Flow",
+  "clusterName": "Business Financial Consulting",
+  "primaryKeyword": "working capital explained for small businesses in nepal",
+  "secondaryKeywords": [
+    "manage working capital nepal",
+    "cash conversion cycle npr",
+    "working capital loan kathmandu"
+  ],
+  "title": "Working Capital Explained for Small Businesses in Nepal",
+  "metaDescription": "Understand working capital management for Nepalese businesses. Learn how to calculate net working capital, shorten cash cycles, and secure bank credit.",
+  "searchIntent": "Educational",
+  "h1": "Working Capital Explained for Small Businesses in Nepal",
+  "directAnswer": "Working capital in Nepal is the operating liquidity required to sustain day-to-day commercial operations, mathematically defined as Current Assets (cash, trade receivables, stock) minus Current Liabilities (trade payables, short-term bank borrowings, tax liabilities). Maintaining positive working capital ensures your enterprise can fulfill supplier commitments while waiting for customers to settle invoices.",
+  "readTime": "6 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-22",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/business-financial-consulting-nepal/",
+  "primaryMoneyPageAnchor": "working capital management services",
+  "sections": [
+    {
+      "h2": "The Cash Conversion Cycle (CCC) in Nepal",
+      "contentHtml": "<p>The health of working capital is determined by the Cash Conversion Cycle (CCC): the elapsed days from paying suppliers for inventory to receiving cash from customer sales:</p><div class='p-4 bg-forest text-white rounded-xl my-4 text-xs font-mono'><div class='text-terracotta font-bold mb-1 text-sm'>CCC = DIO + DSO - DPO</div><div>• Days Inventory Outstanding (DIO): Average days stock sits in warehouse</div><div>• Days Sales Outstanding (DSO): Average days customers take to pay credit bills</div><div>• Days Payables Outstanding (DPO): Average days your firm takes to pay suppliers</div></div><p class='text-sm text-slate-700'>In Nepal's distribution sector, typical DSO ranges from 60 to 90 days. If your supplier terms require settlement in 30 days, your business faces a 30 to 60-day working capital gap that must be funded through cash reserves or bank working capital facilities.</p>"
+    },
+    {
+      "h2": "3 Actionable Tactics to Optimize Working Capital",
+      "contentHtml": "<ol class='list-decimal pl-5 space-y-2 text-slate-700 my-3'><li><strong>Enforce Stricter Credit Limits:</strong> Set credit caps on trade distributors and incentivize 15-day settlement with early-payment cash discounts (e.g., 2% discount).</li><li><strong>Liquidate Slow-Moving Inventory:</strong> Conduct quarterly stock aging reviews. Stock sitting beyond 180 days ties up critical rupees and incurs warehouse holding costs.</li><li><strong>Align with Bank Working Capital Lines:</strong> Structure hypothecation or overdraft lines backed by audited stock inspection schedules under Nepal Rastra Bank guidelines.</li></ol><p>Explore our specialized <a href='/business-financial-consulting-nepal/' class='text-terracotta hover:underline font-semibold'>working capital management services</a> to optimize your balance sheet.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is an ideal Current Ratio for a trading firm in Nepal?",
+      "answer": "A Current Ratio (Current Assets divided by Current Liabilities) between 1.33:1 and 2:1 is generally viewed positively by Nepalese commercial banks evaluating working capital credit facilities."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How to Create a Cash-Flow Forecast for a Small Business",
+      "url": "/blog/how-to-create-cash-flow-forecast-small-business/"
+    },
+    {
+      "title": "How to Calculate the Break-Even Point of a Business",
+      "url": "/blog/how-to-calculate-break-even-point-business/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Nepal Rastra Bank - Working Capital Guidelines",
+      "authority": "Commercial Lending Prudential Norms",
+      "url": "https://www.nrb.org.np"
+    }
+  ],
+  "cta": {
+    "headline": "Optimize Your Commercial Working Capital",
+    "subtext": "Schedule a diagnostic review of your accounts receivable and inventory cycle with our Lalitpur team.",
+    "buttonText": "Schedule Working Capital Review",
+    "buttonLink": "/business-financial-consulting-nepal/"
+  }
+}

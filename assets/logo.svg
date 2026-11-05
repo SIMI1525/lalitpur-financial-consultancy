@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 80" width="420" height="80">
+  <defs>
+    <linearGradient id="hForest" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1F332A"/>
+      <stop offset="100%" stop-color="#17251F"/>
+    </linearGradient>
+    <linearGradient id="hTerracotta" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#CA7F62"/>
+      <stop offset="100%" stop-color="#B86F52"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Left Icon Mark -->
+  <g transform="translate(6, 6) scale(0.53)">
+    <rect x="4" y="4" width="120" height="120" rx="26" fill="url(#hForest)" stroke="#D8CDBB" stroke-width="2"/>
+    <rect x="10" y="10" width="108" height="108" rx="20" fill="none" stroke="#D8CDBB" stroke-opacity="0.25" stroke-width="1"/>
+    
+    <!-- Himalayan Peak in Terracotta -->
+    <polygon points="64,24 88,60 40,60" fill="url(#hTerracotta)"/>
+    <polygon points="64,24 71,36 67,34 64,37 60,34 57,36" fill="#F5F0E7"/>
+    
+    <!-- Base Plinth -->
+    <rect x="28" y="96" width="72" height="6" rx="2" fill="#D8CDBB"/>
+    <rect x="32" y="92" width="64" height="3" rx="1.5" fill="#EAE3D6"/>
+    
+    <!-- Pillars -->
+    <rect x="34" y="58" width="10" height="32" rx="2" fill="#D8CDBB"/>
+    <rect x="49" y="52" width="10" height="38" rx="2" fill="#D8CDBB"/>
+    <rect x="69" y="52" width="10" height="38" rx="2" fill="#D8CDBB"/>
+    <rect x="84" y="58" width="10" height="32" rx="2" fill="#D8CDBB"/>
+    
+    <!-- Beam -->
+    <rect x="30" y="48" width="68" height="4" rx="1" fill="#F5F0E7"/>
+    <circle cx="64" cy="42" r="3" fill="#B86F52"/>
+  </g>
+
+  <!-- Typography: Deep Forest Brand Name -->
+  <text x="82" y="35" font-family="'Playfair Display', Georgia, serif" font-size="21" font-weight="700" fill="#17251F" letter-spacing="-0.3">
+    Lalitpur Financial Advisory
+  </text>
+  
+  <!-- Subtitle: Terracotta & Forest -->
+  <text x="82" y="52" font-family="'Inter', -apple-system, sans-serif" font-size="9" font-weight="700" fill="#B86F52" letter-spacing="1.2">
+    STRATEGIC FINANCIAL &amp; BUSINESS ADVISORY • NEPAL
+  </text>
+
+  <!-- Devanagari Bilingual Touch in Warm Stone -->
+  <text x="82" y="66" font-family="'Inter', -apple-system, sans-serif" font-size="9.5" font-weight="500" fill="#5F6D65">
+    ललितपुर फाइनान्सियल एड्भाइजरी
+  </text>
+</svg>

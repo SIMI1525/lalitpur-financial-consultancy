@@ -1,0 +1,69 @@
+{
+  "url": "/business-registration-licensing-nepal/",
+  "type": "money",
+  "cluster": "Company Registration",
+  "clusterName": "Business Registration and Licensing",
+  "primaryKeyword": "Business Registration Services Nepal",
+  "secondaryKeywords": [
+    "company registration nepal",
+    "ocr company registration lalitpur",
+    "business licensing advisory kathmandu"
+  ],
+  "title": "Business Registration & Licensing Support in Nepal",
+  "metaDescription": "End-to-end business registration and licensing support in Nepal. Private limited company setup at OCR, Ward permitting, PAN/VAT registration, and compliance planning.",
+  "searchIntent": "Commercial / Setup",
+  "h1": "Business Registration & Licensing Support in Nepal",
+  "directAnswer": "Business registration and licensing support in Nepal guides entrepreneurs and corporate entities through structural evaluation, incorporation at the Office of Company Registrar (OCR), municipal Ward business permitting, and tax registration. We help founders establish compliant corporate foundations from day one.",
+  "centerpieceType": "registration_selector",
+  "centerpieceTitle": "Business Registration Roadmap",
+  "centerpieceSubtitle": "Select your target business structure and capital scale to generate a tailored incorporation roadmap with regulatory authorities.",
+  "primaryMoneyPageLink": "/business-registration-licensing-nepal/",
+  "sections": [
+    {
+      "h2": "Choosing the Right Business Structure in Nepal",
+      "contentHtml": "<p>Establishing a commercial enterprise begins with selecting the legal vehicle appropriate for your capital needs, ownership structure, and liability exposure:</p><div class='grid sm:grid-cols-3 gap-4 my-4'><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>Private Limited (Pvt. Ltd.)</h3><p class='text-sm text-slate-600'>Registered under the Companies Act 2063 at OCR. Provides limited liability protection, scalable share capital, and high credibility for corporate banking and contracts.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>Sole Proprietorship Firm</h3><p class='text-sm text-slate-600'>Registered at the local Ward Office or Department of Commerce. Simpler setup but carries unlimited personal liability for the sole owner.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>Foreign Investment (FDI)</h3><p class='text-sm text-slate-600'>Approved under FITTA 2019 via Department of Industry (DOI) and Nepal Rastra Bank for foreign corporate entities and non-resident investors.</p></div></div>"
+    },
+    {
+      "h2": "Step-by-Step Corporate Setup Roadmap",
+      "contentHtml": "<div class='space-y-4 my-4'><div class='flex gap-4 items-start'><div class='w-8 h-8 rounded-full bg-forest text-terracotta flex items-center justify-center font-bold text-sm shrink-0'>1</div><div><h3 class='font-bold text-slate-900'>Company Name Reservation (OCR)</h3><p class='text-sm text-slate-600'>Submitting unique proposed corporate names via the digital portal of the Office of Company Registrar.</p></div></div><div class='flex gap-4 items-start'><div class='w-8 h-8 rounded-full bg-forest text-terracotta flex items-center justify-center font-bold text-sm shrink-0'>2</div><div><h3 class='font-bold text-slate-900'>Drafting MOA & AOA</h3><p class='text-sm text-slate-600'>Drafting customized constitutional bylaws defining objectives, share capital, director powers, and shareholder rights.</p></div></div><div class='flex gap-4 items-start'><div class='w-8 h-8 rounded-full bg-forest text-terracotta flex items-center justify-center font-bold text-sm shrink-0'>3</div><div><h3 class='font-bold text-slate-900'>Incorporation Certificate Issuance</h3><p class='text-sm text-slate-600'>Digital signing, officer scrutiny, registration fee payment, and receiving the official OCR Certificate of Incorporation.</p></div></div><div class='flex gap-4 items-start'><div class='w-8 h-8 rounded-full bg-forest text-terracotta flex items-center justify-center font-bold text-sm shrink-0'>4</div><div><h3 class='font-bold text-slate-900'>Local Ward Office Registration</h3><p class='text-sm text-slate-600'>Municipal business registration within 30 days of setup under Local Government Operation Act 2074.</p></div></div><div class='flex gap-4 items-start'><div class='w-8 h-8 rounded-full bg-forest text-terracotta flex items-center justify-center font-bold text-sm shrink-0'>5</div><div><h3 class='font-bold text-slate-900'>Tax Registration (PAN/VAT at IRD)</h3><p class='text-sm text-slate-600'>Acquiring corporate Permanent Account Number (PAN) and biometric verification at the relevant Inland Revenue Office (IRO).</p></div></div></div>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How long does it take to register a Private Limited Company in Nepal?",
+      "answer": "With prepared promoter citizenship documents, clear proposed business names, and drafted MOA/AOA, online OCR processing and certificate issuance typically completes within 5 to 9 business days."
+    },
+    {
+      "question": "What must be done within 30 days after company incorporation?",
+      "answer": "Under Nepalese law, the newly registered company must register with the local Municipal Ward Office where its office is situated, obtain its PAN from the IRD, open a commercial bank account, and file share allotment records (Share Lagat) at the OCR."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How to Register a Private Limited Company in Nepal",
+      "url": "/blog/how-to-register-private-limited-company-nepal/"
+    },
+    {
+      "title": "Business Structure Comparison: Sole Proprietorship vs Pvt Ltd",
+      "url": "/blog/business-structure-comparison-nepal/"
+    },
+    {
+      "title": "Documents Needed When Registering a Business in Nepal",
+      "url": "/blog/documents-needed-registering-business-nepal/"
+    },
+    {
+      "title": "A Post-Registration Checklist for New Businesses",
+      "url": "/blog/post-registration-checklist-new-businesses-nepal/"
+    },
+    {
+      "title": "How to Identify Licenses and Local Approvals Needed",
+      "url": "/blog/identifying-business-licenses-local-approvals-nepal/"
+    }
+  ],
+  "cta": {
+    "headline": "Launch Your Business on Solid Legal & Financial Foundations",
+    "subtext": "Connect with our corporate setup consultants in Lalitpur for a comprehensive registration review.",
+    "buttonText": "Start Business Registration",
+    "buttonLink": "/contact-us/"
+  }
+}

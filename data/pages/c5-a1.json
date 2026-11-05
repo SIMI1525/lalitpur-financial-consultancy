@@ -1,0 +1,75 @@
+{
+  "id": "c5-a1",
+  "url": "/blog/pan-vs-vat-nepal-differences/",
+  "type": "article",
+  "cluster": "Tax & Compliance",
+  "clusterName": "Tax Planning and Compliance",
+  "primaryKeyword": "pan vs vat in nepal difference",
+  "secondaryKeywords": [
+    "permanent account number vs value added tax",
+    "ird nepal vat threshold npr",
+    "tax registration lalitpur"
+  ],
+  "title": "PAN vs. VAT in Nepal: Understanding the Differences (2026 Guide)",
+  "metaDescription": "Understand the legal differences between PAN and VAT in Nepal. Discover mandatory registration thresholds, filing deadlines, and penalty rules.",
+  "searchIntent": "Informational",
+  "h1": "PAN vs. VAT in Nepal: Understanding the Difference",
+  "directAnswer": "The fundamental difference between PAN and VAT in Nepal is that a Permanent Account Number (PAN) is a mandatory nine-digit identification number issued by the Inland Revenue Department (IRD) for tracking all taxable transactions and income tax, while Value Added Tax (VAT) is a specific indirect consumption tax (13%) levied on value addition for businesses meeting statutory turnover thresholds (NPR 20 Lakhs for services, NPR 50 Lakhs for goods).",
+  "readTime": "6 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-15",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/tax-planning-compliance-nepal/",
+  "primaryMoneyPageAnchor": "tax planning and compliance consultancy",
+  "sections": [
+    {
+      "h2": "PAN vs. VAT: Core Conceptual & Legal Distinctions",
+      "contentHtml": "<p>A frequent point of confusion among new entrepreneurs in Lalitpur and Kathmandu is treating PAN and VAT as mutually exclusive options. In reality, **PAN (Permanent Account Number)** is the mandatory unique tax identification issued by the Inland Revenue Department (IRD) to every registered taxpayer. **VAT (Value Added Tax)** is a consumption tax administered under the VAT Act 2052 that attaches to your existing PAN certificate once specific statutory thresholds or business activities are triggered.</p><div class='overflow-x-auto my-4'><table class='w-full text-xs text-left border border-slate-200'><thead class='bg-slate-100 text-slate-800 font-bold'><tr><th class='p-3 border-b'>Attribute</th><th class='p-3 border-b'>Income Tax PAN (General PAN)</th><th class='p-3 border-b'>VAT Registration (13% VAT)</th></tr></thead><tbody class='divide-y divide-slate-100'><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Legal Requirement</td><td class='p-3'>Mandatory for every business & entity</td><td class='p-3'>Mandatory upon hitting turnover limits or specified sectors</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Tax Rate Charged</td><td class='p-3'>Zero indirect tax charged on sales</td><td class='p-3'>13% statutory tax added to customer invoices</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Input Tax Credit</td><td class='p-3'>Cannot claim refund on input VAT paid</td><td class='p-3'>Full credit/refund on business input VAT expenses</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Filing Frequency</td><td class='p-3'>Quarterly advance tax & annual return</td><td class='p-3'>Monthly Form 13 return due before 25th</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Billing Format</td><td class='p-3'>Abbreviated / Ordinary invoice (बिल)</td><td class='p-3'>Official Serialized VAT Tax Invoice (कर बिजक)</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "Statutory Turnover Thresholds & Mandatory VAT Sectors",
+      "contentHtml": "<p>Under the latest Inland Revenue Department directives, businesses must register under VAT when either of the following conditions is satisfied:</p><ul class='list-disc pl-5 space-y-2 text-slate-700 my-3'><li><strong>Turnover Thresholds (Trailing 12 Months):</strong> Commercial goods transactions exceeding NPR 50 Lakhs, or professional/consultancy services exceeding NPR 20 Lakhs, or mixed goods and service operations exceeding NPR 20 Lakhs.</li><li><strong>Mandatory Sector Inclusions (Regardless of Turnover):</strong> Hardware suppliers, sanitary goods, educational and health consultancy desks, liquor and beverage stores, brick manufacturers, transport vehicle operations, software development agencies, and entities dealing in specified commercial corridors.</li><li><strong>Government & Institutional Procurement:</strong> Participating in public tenders or billing government agencies, UN bodies, or licensed corporate entities generally mandates full 13% VAT registration.</li></ul>"
+    },
+    {
+      "h2": "Monthly Form 13 Compliance & Deadlines",
+      "contentHtml": "<p>Once enrolled in VAT, the business enters a strict monthly reporting regime. By the 25th day of every Nepali month, the enterprise must upload Form 13 sales and purchase registers to the IRD portal. Even during months with zero commercial revenue, filing a **Nil Return** is mandatory. Missing the 25th deadline incurs automatic compounding fines under Section 19 of the VAT Act 2052.</p><p class='mt-2'>Discover how our <a href='/tax-planning-compliance-nepal/' class='text-terracotta hover:underline font-semibold'>tax planning and compliance services in Nepal</a> ensure complete compliance without penalties.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can a business voluntarily register for VAT before reaching turnover thresholds?",
+      "answer": "Yes. Voluntary VAT registration is common for B2B enterprises that sell to VAT-registered corporate clients who require formal tax invoices to claim input credits."
+    },
+    {
+      "question": "What happens if our turnover exceeds the threshold but we do not register for VAT?",
+      "answer": "The IRD will conduct a retrospective tax assessment, demand 13% VAT on all past sales out of your pocket, and impose fines of up to 100% plus statutory late-fee interest."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How to Organize Business Records Before Tax Filing",
+      "url": "/blog/organizing-business-records-before-tax-filing/"
+    },
+    {
+      "title": "A Business Tax-Compliance Checklist for Nepal",
+      "url": "/blog/business-tax-compliance-checklist-nepal/"
+    },
+    {
+      "title": "Tax Planning vs Tax Evasion: Understanding the Difference",
+      "url": "/blog/tax-planning-vs-tax-evasion-differences/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Inland Revenue Department (IRD)",
+      "authority": "Taxpayer Registration Portal",
+      "url": "https://ird.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Evaluate Your VAT Threshold Obligations",
+    "subtext": "Schedule a compliance check with our Lalitpur tax advisory desk before turnover triggers penalties.",
+    "buttonText": "Schedule Compliance Review",
+    "buttonLink": "/tax-planning-compliance-nepal/"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "/personal-financial-planning-nepal/",
+  "type": "money",
+  "cluster": "Personal Finance",
+  "clusterName": "Personal Financial Planning",
+  "primaryKeyword": "Personal Financial Planning",
+  "secondaryKeywords": [
+    "personal finance management nepal",
+    "monthly budgeting npr",
+    "household wealth advisory kathmandu"
+  ],
+  "title": "Personal Financial Planning & Wealth Management in Nepal",
+  "metaDescription": "Structured personal financial planning for individuals and families in Nepal. Practical budgeting, debt management, emergency funds, and goal-oriented wealth planning.",
+  "searchIntent": "Commercial / Personal",
+  "h1": "Personal Financial Planning & Wealth Management",
+  "directAnswer": "Personal financial planning in Nepal empowers individuals and families to take control of household cash flows, eliminate high-interest liabilities, build resilient emergency reserves, and systematically achieve long-term wealth milestones. Our advisory provides independent, arithmetic-grounded financial guidance tailored to Nepal's economic context.",
+  "centerpieceType": "budget_calculator",
+  "centerpieceTitle": "Interactive Monthly Budget & Emergency Reserve Calculator (NPR)",
+  "centerpieceSubtitle": "Enter your monthly income and expenses in Nepalese Rupees to evaluate your cash flow balance, savings rate, and emergency fund adequacy.",
+  "primaryMoneyPageLink": "/personal-financial-planning-nepal/",
+  "sections": [
+    {
+      "h2": "Structured Personal Financial Architecture",
+      "contentHtml": "<p>Managing personal finances in Nepal requires balancing rising urban living costs, family social commitments, and inflation. Our advisory assists clients through a systematic, four-pillar framework:</p><div class='grid sm:grid-cols-2 gap-4 my-4'><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>1. Cash Flow & Budget Optimization</h3><p class='text-sm text-slate-600'>Adapting the proven 50/30/20 rule to Kathmandu Valley realities: 50% essentials (rent, food, education), 30% discretionary, and 20% dedicated savings.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>2. Strategic Emergency Buffers</h3><p class='text-sm text-slate-600'>Structuring 3 to 6 months of essential operating living expenses parked in liquid, insured Class A commercial bank accounts.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>3. Debt Acceleration & De-risking</h3><p class='text-sm text-slate-600'>Eliminating high-interest personal loans and credit cards using systematic avalanche or snowball repayment algorithms.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>4. Goal-Based Wealth Tracking</h3><p class='text-sm text-slate-600'>Aligning real estate purchases, higher education funding, and retirement milestones against verified NPR growth trajectories.</p></div></div>"
+    },
+    {
+      "h2": "Important Regulatory Notice on Investment Advice",
+      "contentHtml": "<p class='p-4 bg-ivory-dark border border-stone rounded-lg text-amber-900 text-sm'><strong>Regulatory Notice:</strong> Lalitpur Financial Advisory provides independent personal financial budgeting, cash flow organization, and financial literacy guidance. We do not operate as a licensed stock broker or portfolio management firm (PMS) registered under the Securities Board of Nepal (SEBON). We do not guarantee stock returns, recommend speculative secondary market scrips, or manage third-party client investment funds directly.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much should a family in Nepal maintain in an emergency fund?",
+      "answer": "We recommend maintaining a minimum of 3 to 6 months of essential household expenses (rent, groceries, school fees, utilities, medical baseline). For households with irregular or entrepreneurial income, expanding this reserve to 6 to 9 months provides critical protection against economic downturns."
+    },
+    {
+      "question": "Can personal financial planning help me resolve multiple bank loans?",
+      "answer": "Yes. We analyze your active bank EMIs, interest rates, and loan tenures to formulate a structured debt reduction schedule, advising on repayment prioritization and potential bank loan consolidation options."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How to Create a Monthly Budget in Nepal",
+      "url": "/blog/how-to-create-monthly-budget-nepal/"
+    },
+    {
+      "title": "How Much Should You Save for an Emergency Fund?",
+      "url": "/blog/emergency-fund-savings-guide-nepal/"
+    },
+    {
+      "title": "How to Track Income, Expenses, and Net Worth",
+      "url": "/blog/how-to-track-income-expenses-net-worth/"
+    },
+    {
+      "title": "Debt Repayment Methods: Comparing Approaches",
+      "url": "/blog/debt-repayment-methods-comparison/"
+    },
+    {
+      "title": "How to Set Financial Goals and Track Progress",
+      "url": "/blog/how-to-set-financial-goals-track-progress/"
+    }
+  ],
+  "cta": {
+    "headline": "Take Control of Your Household Finances Today",
+    "subtext": "Schedule a private personal financial planning session with our advisory team.",
+    "buttonText": "Book Personal Review",
+    "buttonLink": "/contact-us/"
+  }
+}

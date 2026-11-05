@@ -1,0 +1,69 @@
+{
+  "url": "/tax-planning-compliance-nepal/",
+  "type": "money",
+  "cluster": "Tax & Compliance",
+  "clusterName": "Tax Planning and Compliance",
+  "primaryKeyword": "Tax Consultancy Services Nepal",
+  "secondaryKeywords": [
+    "tax planning nepal",
+    "vat compliance lalitpur",
+    "ird tax consultant kathmandu"
+  ],
+  "title": "Tax Planning & Compliance Support in Nepal | Lalitpur Advisory",
+  "metaDescription": "Reliable tax planning and compliance support in Nepal. Lawful structuring, VAT & PAN documentation, e-TDS reconciliation, and advance tax preparation.",
+  "searchIntent": "Commercial / Compliance",
+  "h1": "Tax Planning & Compliance Support in Nepal",
+  "directAnswer": "Tax planning and compliance support in Nepal provides lawful structuring, documentation readiness, and statutory preparation for individuals and businesses under the Income Tax Act 2058 and VAT Act 2052. Lalitpur Financial Advisory assists clients in maintaining impeccable records for the Inland Revenue Department (IRD) while preventing costly penalties.",
+  "centerpieceType": "tax_checklist",
+  "centerpieceTitle": "Interactive Tax Document Readiness Checklist",
+  "centerpieceSubtitle": "Review your firm's compliance documentation against current Inland Revenue Department (IRD) statutory filing standards.",
+  "primaryMoneyPageLink": "/tax-planning-compliance-nepal/",
+  "sections": [
+    {
+      "h2": "Core Tax Compliance Management Areas",
+      "contentHtml": "<p>Tax compliance in Nepal requires strict adherence to statutory filing schedules and record retention rules administered by the Inland Revenue Department (IRD). Our advisory supports businesses across the full compliance spectrum:</p><div class='grid sm:grid-cols-2 gap-4 my-4'><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>PAN & VAT Administration</h3><p class='text-sm text-slate-600'>Monthly VAT return (D-01) preparation, sales register and purchase register reconciliation, and input tax credit validation.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>Withholding Tax (TDS) Monitoring</h3><p class='text-sm text-slate-600'>Ensuring correct statutory deduction rates on rent, consultancy, vendor payments, and staff payroll with timely e-TDS verification.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>Advance Tax Installments</h3><p class='text-sm text-slate-600'>Accurate estimation and payment planning for mandatory advance income tax installments due in Poush (40%), Chaitra (70%), and Ashad (100%).</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>Annual Filing & Clearance Support</h3><p class='text-sm text-slate-600'>Compiling documentation, coordinating with external ICAN statutory auditors, and filing annual returns (D-03) to obtain Tax Clearance Certificates.</p></div></div>"
+    },
+    {
+      "h2": "Ethical Commitment: Tax Planning vs. Tax Evasion",
+      "contentHtml": "<p class='p-4 bg-rose-50 border border-rose-200 rounded-lg text-rose-900 text-sm'><strong>Strict Ethical Standards:</strong> Lalitpur Financial Advisory strictly provides lawful tax planning and compliance assistance. We utilize legitimate allowances, deductions, and exemptions expressly codified under the Income Tax Act 2058. We do not participate in, advise on, or facilitate under-invoicing, fictitious bookkeeping, unrecorded cash transactions, or illegal tax evasion prohibited under Section 120 of the Act.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the mandatory VAT registration thresholds in Nepal?",
+      "answer": "Under current Inland Revenue Department rules, businesses dealing purely in goods must register for VAT if annual turnover exceeds NPR 50 Lakhs. Businesses providing services, or a mixture of goods and services, must register for VAT if annual turnover exceeds NPR 20 Lakhs."
+    },
+    {
+      "question": "When are advance tax installments due in Nepal?",
+      "answer": "Advance income tax is paid in three statutory installments: by the end of Poush (minimum 40% of estimated annual tax), by the end of Chaitra (minimum 70%), and by the end of Ashad (100% of final estimated tax)."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "PAN vs VAT in Nepal: Understanding the Difference",
+      "url": "/blog/pan-vs-vat-nepal-differences/"
+    },
+    {
+      "title": "How to Organize Business Records Before Tax Filing",
+      "url": "/blog/organizing-business-records-before-tax-filing/"
+    },
+    {
+      "title": "What Financial Documents to Maintain for Tax Compliance",
+      "url": "/blog/financial-documents-tax-compliance-nepal/"
+    },
+    {
+      "title": "A Business Tax-Compliance Checklist for Nepal",
+      "url": "/blog/business-tax-compliance-checklist-nepal/"
+    },
+    {
+      "title": "Tax Planning vs Tax Evasion: Understanding the Difference",
+      "url": "/blog/tax-planning-vs-tax-evasion-differences/"
+    }
+  ],
+  "cta": {
+    "headline": "Ensure Flawless Tax Compliance for Your Business",
+    "subtext": "Consult with our tax compliance specialists in Lalitpur to review your filings.",
+    "buttonText": "Schedule Compliance Review",
+    "buttonLink": "/contact-us/"
+  }
+}

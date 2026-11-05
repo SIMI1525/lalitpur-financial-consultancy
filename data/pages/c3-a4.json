@@ -1,0 +1,63 @@
+{
+  "id": "c3-a4",
+  "url": "/blog/how-to-read-profit-and-loss-statement/",
+  "type": "article",
+  "cluster": "Business Cash Flow",
+  "clusterName": "Business Financial Consulting",
+  "primaryKeyword": "how to read a profit and loss statement",
+  "secondaryKeywords": [
+    "p&l statement explained nepal",
+    "income statement analysis npr",
+    "financial performance consulting"
+  ],
+  "title": "How to Read a Profit-and-Loss (P&L) Statement in Nepal",
+  "metaDescription": "A founder-friendly guide to reading an income statement in Nepal. Learn gross margin, operating profit, EBITDA, and net profit before tax under NFRS.",
+  "searchIntent": "Educational",
+  "h1": "How to Read a Profit-and-Loss Statement",
+  "directAnswer": "To read a Profit-and-Loss (P&L) statement in Nepal, trace financial performance from Gross Revenue at the top down to Net Profit After Tax at the bottom. The statement reveals Gross Profit (Revenue minus Cost of Goods Sold), Operating Profit (Gross Profit minus Administrative and Selling Expenses), and Net Profit (Operating Profit minus Bank Interest and Corporate Income Tax under the Income Tax Act 2058).",
+  "readTime": "6 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-02-06",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/business-financial-consulting-nepal/",
+  "primaryMoneyPageAnchor": "financial performance consulting",
+  "sections": [
+    {
+      "h2": "The 5 Key Layers of a Nepalese P&L Statement",
+      "contentHtml": "<p>A standard income statement prepared under Nepal Financial Reporting Standards (NFRS) follows five sequential tiers:</p><div class='space-y-3 my-4'><div class='p-3 bg-slate-50 border-l-4 border-slate-700 rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>1. Operating Revenue (Top Line)</h3><p class='text-xs text-slate-600'>Total taxable and VAT-exempt sales invoiced during the fiscal period, net of sales discounts and returns.</p></div><div class='p-3 bg-slate-50 border-l-4 border-slate-700 rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>2. Cost of Goods Sold (COGS) & Gross Margin</h3><p class='text-xs text-slate-600'>Direct expenses tied to production: raw materials, import duties, and factory labor. Revenue minus COGS gives <strong>Gross Profit</strong>.</p></div><div class='p-3 bg-slate-50 border-l-4 border-slate-700 rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>3. Operating Expenses (OPEX)</h3><p class='text-xs text-slate-600'>General, administrative, and selling costs: office rent, staff salaries, marketing, utilities, audit fees, and municipal Ward taxes.</p></div><div class='p-3 bg-slate-50 border-l-4 border-slate-700 rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>4. Finance Costs (Bank Interest)</h3><p class='text-xs text-slate-600'>Interest charges on working capital loans, term borrowings, and bank guarantee commissions paid to commercial banks.</p></div><div class='p-3 bg-slate-50 border-l-4 border-slate-700 rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>5. Corporate Tax & Net Profit (Bottom Line)</h3><p class='text-xs text-slate-600'>Corporate income tax provision (typically 25% for general companies, 30% for banks/financial institutions, or 20% for manufacturing entities) leaving <strong>Net Profit After Tax</strong>.</p></div></div>"
+    },
+    {
+      "h2": "Common Red Flags When Inspecting Monthly P&L",
+      "contentHtml": "<p>Watch out for declining gross profit margins (signaling vendor price hikes you failed to pass on to clients) and disproportionate administrative expense growth. Partner with our <a href='/business-financial-consulting-nepal/' class='text-terracotta hover:underline font-semibold'>financial performance consulting</a> team to turn statements into strategic action plans.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the standard corporate income tax rate in Nepal?",
+      "answer": "Under the Income Tax Act 2058, standard corporate tax is 25% for general trading and service companies. Concessional rates exist: 20% for qualified manufacturing entities, and 30% for banks and insurance corporations."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How to Calculate the Break-Even Point of a Business",
+      "url": "/blog/how-to-calculate-break-even-point-business/"
+    },
+    {
+      "title": "Why Businesses Should Separate Personal and Business Finances",
+      "url": "/blog/why-separate-personal-and-business-finances/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Inland Revenue Department (IRD)",
+      "authority": "Corporate Tax Slabs & Schedules",
+      "url": "https://ird.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Transform Financial Statements into Strategic Action",
+    "subtext": "Our corporate finance team in Lalitpur helps management teams analyze and improve performance.",
+    "buttonText": "Explore B2B Consulting",
+    "buttonLink": "/business-financial-consulting-nepal/"
+  }
+}

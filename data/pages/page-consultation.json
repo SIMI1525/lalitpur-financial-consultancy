@@ -1,0 +1,49 @@
+{
+  "id": "page-consultation",
+  "url": "/consultation/",
+  "type": "Trust Page",
+  "primaryKeyword": "Financial Consultation Process Nepal",
+  "secondaryKeywords": [
+    "book consultation lalitpur",
+    "discovery session nepal",
+    "consulting engagement framework"
+  ],
+  "title": "Consultation & Service Engagement | Lalitpur Advisory",
+  "metaDescription": "Discover our structured 4-stage financial consultation process in Nepal. Initial discovery, diagnostic audit, strategic roadmap, and monthly review.",
+  "searchIntent": "Commercial / Process",
+  "h1": "Consultation & Service Engagement Process",
+  "directAnswer": "Our financial consultation process follows a proven four-stage lifecycle: an initial 45-minute discovery consultation, a detailed diagnostic audit of historical records, the formulation of a strategic roadmap with quantifiable deliverables, and ongoing monthly review sessions to track progress.",
+  "readTime": "4 min read",
+  "author": "Lalitpur Advisory Operations",
+  "publishedDate": "2026-01-01",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/financial-consultancy-services-nepal/",
+  "primaryMoneyPageAnchor": "consultation process",
+  "sections": [
+    {
+      "h2": "Our 4-Stage Client Engagement Lifecycle",
+      "contentHtml": "<div class='space-y-4 my-6'><div class='flex gap-4 items-start p-4 bg-white rounded-lg border border-slate-200'><div class='w-8 h-8 rounded-full bg-forest text-terracotta flex items-center justify-center font-bold text-sm shrink-0'>1</div><div><h3 class='font-bold text-slate-900'>Diagnostic Discovery Call (45 Minutes)</h3><p class='text-xs text-slate-600 mt-1'>We evaluate historical balance sheets, current cash flow bottlenecks, tax status, and growth objectives to identify your organizational scale.</p></div></div><div class='flex gap-4 items-start p-4 bg-white rounded-lg border border-slate-200'><div class='w-8 h-8 rounded-full bg-forest text-terracotta flex items-center justify-center font-bold text-sm shrink-0'>2</div><div><h3 class='font-bold text-slate-900'>Engagement Scope & Terms of Reference</h3><p class='text-xs text-slate-600 mt-1'>We define clear milestones, deliverable schedules, and transparent retainer or project-based fee structures without hidden costs.</p></div></div><div class='flex gap-4 items-start p-4 bg-white rounded-lg border border-slate-200'><div class='w-8 h-8 rounded-full bg-forest text-terracotta flex items-center justify-center font-bold text-sm shrink-0'>3</div><div><h3 class='font-bold text-slate-900'>Technical Execution & Modeling</h3><p class='text-xs text-slate-600 mt-1'>Our team constructs customized rolling financial forecasts, establishes internal control SOPs, or prepares tax and audit packages.</p></div></div><div class='flex gap-4 items-start p-4 bg-white rounded-lg border border-slate-200'><div class='w-8 h-8 rounded-full bg-forest text-terracotta flex items-center justify-center font-bold text-sm shrink-0'>4</div><div><h3 class='font-bold text-slate-900'>Monthly Steering & Variance Review</h3><p class='text-xs text-slate-600 mt-1'>We conduct ongoing monthly or quarterly executive sessions to monitor budget variances and maintain continuous statutory compliance.</p></div></div></div>"
+    },
+    {
+      "h2": "What Documents to Prepare Before Your Consultation",
+      "contentHtml": "<p>To maximize the value of your initial discovery session, having the following records ready is helpful:</p><ul class='list-disc pl-5 space-y-2 text-slate-700 my-3 text-xs'><li>Past 1 to 2 years of compiled Balance Sheets and P&L Statements (if existing business).</li><li>Recent 3 months of corporate bank statements and current debtor receivables summary.</li><li>PAN / VAT Registration certificate and latest tax clearance certificate.</li><li>Draft business plan or preliminary capital expenditure estimates (if founding a new venture).</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is there a fee for the initial diagnostic consultation?",
+      "answer": "Our initial 45-minute discovery consultation is provided without commitment to determine mutual fit and outline recommended engagement scopes."
+    },
+    {
+      "question": "Are our company financials protected by confidentiality?",
+      "answer": "Yes. Every consultation is governed by strict non-disclosure obligations, and our practice adheres to professional confidentiality standards."
+    }
+  ],
+  "relatedArticles": [],
+  "cta": {
+    "headline": "Ready to Schedule Your Discovery Consultation?",
+    "subtext": "Connect with our advisory desk in Lalitpur to book your session.",
+    "buttonText": "Book Consultation Now",
+    "buttonLink": "/contact-us/"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "c3-a3",
+  "url": "/blog/how-to-calculate-break-even-point-business/",
+  "type": "article",
+  "cluster": "Business Cash Flow",
+  "clusterName": "Business Financial Consulting",
+  "primaryKeyword": "how to calculate the break even point of a business",
+  "secondaryKeywords": [
+    "break-even analysis formula nepal",
+    "contribution margin calculation npr",
+    "sme profitability analysis"
+  ],
+  "title": "How to Calculate the Break-Even Point of a Business in Nepal",
+  "metaDescription": "Learn how to calculate your business break-even point in Nepalese Rupees. Separate fixed from variable costs and determine required sales volume.",
+  "searchIntent": "Analytical",
+  "h1": "How to Calculate the Break-Even Point of a Business",
+  "directAnswer": "To calculate the break-even point of a business in Nepal, divide total fixed operating costs (rent, base salaries, insurance, depreciation) by the contribution margin ratio (Sales Price per unit minus Variable Cost per unit, divided by Sales Price). The resulting NPR figure represents the exact sales revenue needed to cover all expenses with zero net profit and zero net loss.",
+  "readTime": "5 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-30",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/business-financial-consulting-nepal/",
+  "primaryMoneyPageAnchor": "corporate profitability analysis",
+  "sections": [
+    {
+      "h2": "The Core Mathematical Formula Explained",
+      "contentHtml": "<p>A break-even analysis establishes your commercial baseline: how much revenue must your team generate each month before making a single rupee of profit?</p><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg my-4 text-xs font-mono space-y-1'><div class='text-slate-900 font-bold text-sm'>Break-Even Revenue (NPR) = Fixed Costs / Contribution Margin Ratio</div><div>Where: Contribution Margin Ratio = (Selling Price - Variable Cost) / Selling Price</div></div><div class='grid sm:grid-cols-2 gap-4 my-4'><div class='p-3 bg-white border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 text-sm mb-1'>Fixed Operating Costs (Monthly)</h3><ul class='text-xs text-slate-600 list-disc pl-4 space-y-1'><li>Office / Retail Store Rent in Lalitpur or Kathmandu</li><li>Administrative & Core Staff Payroll</li><li>Software Subscriptions & Accounting Fees</li><li>Bank Loan Interest & Depreciation</li></ul></div><div class='p-3 bg-white border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 text-sm mb-1'>Variable Costs (Per Unit Sold)</h3><ul class='text-xs text-slate-600 list-disc pl-4 space-y-1'><li>Product Wholesale / Manufacturing Cost</li><li>Packaging Materials & Delivery Courier Fees</li><li>Sales Commissions & POS Card Merchant Fees</li><li>Direct Production Utilities</li></ul></div></div>"
+    },
+    {
+      "h2": "Sample Nepal Case Study: Lalitpur Retail Coffee Shop",
+      "contentHtml": "<p>Consider a retail coffee shop in Kumaripati with monthly fixed overhead of NPR 180,000 (rent, baristas, electricity). Each coffee sells for NPR 300, with variable bean, milk, and packaging costs of NPR 120 (Contribution margin = NPR 180 per cup). To break even, the shop must sell: <strong>NPR 180,000 / 180 = 1,000 cups per month (or ~33 cups per day)</strong>. Every cup sold beyond 33 yields pure pre-tax operating profit. Learn more via our <a href='/business-financial-consulting-nepal/' class='text-terracotta hover:underline font-semibold'>corporate profitability analysis</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How often should a business recalculate its break-even point?",
+      "answer": "Recalculate whenever major cost inputs shift: e.g., following minimum wage adjustments under Nepal Labor Act notifications or commercial rental increases."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How to Create a Cash-Flow Forecast for a Small Business",
+      "url": "/blog/how-to-create-cash-flow-forecast-small-business/"
+    },
+    {
+      "title": "How to Read a Profit-and-Loss Statement",
+      "url": "/blog/how-to-read-profit-and-loss-statement/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Ministry of Industry, Commerce and Supplies",
+      "authority": "Small & Medium Enterprise Data",
+      "url": "https://moics.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Perform a Comprehensive Profitability & Break-Even Audit",
+    "subtext": "Our corporate financial consultants help business owners calculate unit economics and optimize margins.",
+    "buttonText": "Schedule Profitability Review",
+    "buttonLink": "/business-financial-consulting-nepal/"
+  }
+}

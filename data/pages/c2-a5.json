@@ -1,0 +1,63 @@
+{
+  "id": "c2-a5",
+  "url": "/blog/how-to-set-financial-goals-track-progress/",
+  "type": "article",
+  "cluster": "Personal Finance",
+  "clusterName": "Personal Financial Planning",
+  "primaryKeyword": "how to set financial goals and track progress",
+  "secondaryKeywords": [
+    "smart financial goals nepal",
+    "family financial roadmap npr",
+    "wealth goal tracking"
+  ],
+  "title": "How to Set Financial Goals and Track Your Progress in Nepal",
+  "metaDescription": "A proven framework for setting SMART financial goals in Nepal. Align household budgets, children's education funds, and retirement plans with NPR milestones.",
+  "searchIntent": "Instructional",
+  "h1": "How to Set Financial Goals and Track Your Progress",
+  "directAnswer": "To set and achieve financial goals in Nepal, divide objectives by time horizon: short-term (1-2 years: emergency reserve, holiday fund), medium-term (3-5 years: vehicle purchase, business seed capital), and long-term (5-15+ years: home purchase, children's higher education, retirement). Attach precise NPR figures and target dates to every goal to monitor trajectory quarterly.",
+  "readTime": "5 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-02-11",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/personal-financial-planning-nepal/",
+  "primaryMoneyPageAnchor": "goal-based financial planning",
+  "sections": [
+    {
+      "h2": "Structuring Financial Milestones in 3 Horizons",
+      "contentHtml": "<p>A goal without a timeline and an NPR target is merely a wish. Structure your family's objectives into three distinct horizons:</p><div class='space-y-3 my-4'><div class='p-3 bg-slate-50 border-l-4 border-terracotta rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>Short-Term (1 - 2 Years)</h3><p class='text-xs text-slate-600'>Funding a 6-month emergency buffer (NPR 300k - 500k), clearing credit card liabilities, or saving for family Dashain expenses. Hold strictly in Class A bank savings accounts.</p></div><div class='p-3 bg-slate-50 border-l-4 border-terracotta rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>Medium-Term (3 - 5 Years)</h3><p class='text-xs text-slate-600'>Accumulating a 30% down payment for a residential apartment or land purchase, or funding startup capital. Utilize recurring bank fixed deposits and high-grade corporate debentures.</p></div><div class='p-3 bg-slate-50 border-l-4 border-terracotta rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>Long-Term (5 - 15+ Years)</h3><p class='text-xs text-slate-600'>Funding children's university tuition and personal retirement independence. Utilize disciplined monthly contributions to Citizen Investment Trust (CIT), SSF, and broad index portfolios.</p></div></div>"
+    },
+    {
+      "h2": "Quarterly Milestone Check-ins",
+      "contentHtml": "<p>Schedule quarterly reviews on Ashoj 31, Poush end, Chaitra end, and Ashad 31 to check if your actual savings rate matched targets. If market fluctuations or living cost inflation created variance, re-balance allocations proactively. Discover our <a href='/personal-financial-planning-nepal/' class='text-terracotta hover:underline font-semibold'>goal-based financial planning</a> for personalized assistance.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I account for inflation when setting long-term goals in Nepal?",
+      "answer": "Nepal's historical consumer price inflation averages around 6-7% annually. When forecasting expenses 10 years out (such as university fees), assume purchasing costs will approximately double."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How to Create a Monthly Budget in Nepal",
+      "url": "/blog/how-to-create-monthly-budget-nepal/"
+    },
+    {
+      "title": "How to Track Income, Expenses, and Net Worth",
+      "url": "/blog/how-to-track-income-expenses-net-worth/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Citizen Investment Trust (CIT / Nagarik Lagani Kosh)",
+      "authority": "Retirement & Savings Trustee",
+      "url": "https://www.nlk.org.np"
+    }
+  ],
+  "cta": {
+    "headline": "Design Your Family Financial Roadmap",
+    "subtext": "Work with an objective personal financial planner in Lalitpur to structure your long-term goals.",
+    "buttonText": "Plan Your Goals",
+    "buttonLink": "/personal-financial-planning-nepal/"
+  }
+}

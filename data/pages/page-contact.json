@@ -1,0 +1,49 @@
+{
+  "id": "page-contact",
+  "url": "/contact-us/",
+  "type": "Trust Page",
+  "primaryKeyword": "Contact Financial Consultant Lalitpur Nepal",
+  "secondaryKeywords": [
+    "lalitpur financial advisory phone",
+    "consultation enquiry kathmandu",
+    "financial advisor email nepal"
+  ],
+  "title": "Contact Us | Lalitpur Financial Advisory Nepal",
+  "metaDescription": "Get in touch with Lalitpur Financial Advisory. Book a consultation, visit our Lalitpur office in Pulchowk-Kumaripati, or connect via phone and WhatsApp.",
+  "searchIntent": "Navigational / Contact",
+  "h1": "Contact Our Advisory Desk in Lalitpur",
+  "directAnswer": "Contact Lalitpur Financial Advisory for commercial consultations, business registration assistance, and personal wealth reviews. We offer in-person consultations at our Lalitpur commercial office as well as secure online video advisory for clients across all seven provinces of Nepal.",
+  "readTime": "2 min read",
+  "author": "Lalitpur Advisory Client Relations",
+  "publishedDate": "2026-01-01",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/financial-consultancy-services-nepal/",
+  "primaryMoneyPageAnchor": "contact our advisory desk",
+  "sections": [
+    {
+      "h2": "Official Contact & Communication Channels",
+      "contentHtml": "<div class='grid sm:grid-cols-2 gap-6 my-6'><div class='p-5 bg-white border border-slate-200 rounded-xl space-y-3 text-xs text-slate-700 shadow-sm'><h3 class='font-bold text-sm text-forest flex items-center gap-2'><i class='fa-solid fa-building-columns text-terracotta'></i> Lalitpur Practice Headquarters</h3><p><strong>Physical Address:</strong> Level 3, Apex Commercial Complex, Pulchowk-Kumaripati Commercial Corridor, Lalitpur Metropolitan City, Nepal</p><p><strong>Telephone Landline:</strong> <a href='tel:+97715542100' class='text-terracotta font-semibold hover:underline'>+977-1-5542100</a></p><p><strong>Mobile / WhatsApp:</strong> <a href='https://wa.me/9779851082345' class='text-emerald-700 font-semibold hover:underline'>+977-9851082345</a></p><p><strong>Official Email:</strong> <a href='mailto:info@lalitpurfinancial.com.np' class='text-forest font-semibold hover:underline'>info@lalitpurfinancial.com.np</a></p></div><div class='p-5 bg-white border border-slate-200 rounded-xl space-y-3 text-xs text-slate-700 shadow-sm'><h3 class='font-bold text-sm text-forest flex items-center gap-2'><i class='fa-solid fa-clock text-terracotta'></i> Consultation Hours & Reach</h3><p><strong>Sunday – Friday:</strong> 9:00 AM – 6:00 PM (Nepal Time, NPT)</p><p><strong>Saturday:</strong> Closed (Emergency client desk by appointment)</p><p><strong>In-Person Service:</strong> Lalitpur, Kathmandu, and Bhaktapur Valley.</p><p><strong>Nationwide Digital Desk:</strong> Video discovery sessions across all 7 Provinces (Koshi, Madhesh, Bagmati, Gandaki, Lumbini, Karnali, Sudurpashchim).</p></div></div>"
+    },
+    {
+      "h2": "Direct Consultation Enquiry Form",
+      "contentHtml": "<div class='bg-slate-50 p-6 rounded-xl border border-slate-200 my-4'><p class='text-xs text-slate-600 mb-4'>Submit your details below to schedule an advisory consultation with our senior corporate finance or personal wealth team. We guarantee confidential review within 1 business day.</p><form id='contact-page-form' class='space-y-4 text-xs'><div class='grid sm:grid-cols-2 gap-4'><div><label class='block font-bold text-slate-700 mb-1'>Full Name *</label><input type='text' required placeholder='e.g. Ramesh Shrestha' class='w-full p-2.5 rounded border border-slate-300'></div><div><label class='block font-bold text-slate-700 mb-1'>Phone / WhatsApp *</label><input type='tel' required placeholder='+977 98...' class='w-full p-2.5 rounded border border-slate-300'></div></div><div class='grid sm:grid-cols-2 gap-4'><div><label class='block font-bold text-slate-700 mb-1'>Corporate Email *</label><input type='email' required placeholder='name@company.com.np' class='w-full p-2.5 rounded border border-slate-300'></div><div><label class='block font-bold text-slate-700 mb-1'>Practice Vertical *</label><select class='w-full p-2.5 rounded border border-slate-300'><option>Corporate Financial Consultancy</option><option>Personal Financial Planning</option><option>Business Cash-Flow Advisory</option><option>Accounting & Bookkeeping Retainer</option><option>Tax Planning & VAT Defense</option><option>Business Registration (OCR & Ward)</option></select></div></div><div><label class='block font-bold text-slate-700 mb-1'>Commercial Objective / Summary</label><textarea rows='3' placeholder='Briefly describe your company turnover, current fiscal challenge, or consultation goals...' class='w-full p-2.5 rounded border border-slate-300'></textarea></div><button type='submit' class='btn-primary text-xs py-2.5 px-6 font-bold shadow-sm'><i class='fa-solid fa-paper-plane mr-1.5'></i> Submit Consultation Request</button></form></div>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How quickly will an advisor respond to my contact enquiry?",
+      "answer": "Our Lalitpur client desk acknowledges all inbound enquiries within 4 business hours and coordinates your discovery session within 24 hours."
+    },
+    {
+      "question": "Can we conduct our initial consultation via Google Meet or Zoom?",
+      "answer": "Yes. Over 60% of our corporate engagements begin via secure video meetings, supporting entrepreneurs from Pokhara, Biratnagar, Butwal, and international investors."
+    }
+  ],
+  "relatedArticles": [],
+  "cta": {
+    "headline": "Submit Your Consultation Enquiry",
+    "subtext": "Complete our validated enquiry form to schedule your 45-minute discovery session.",
+    "buttonText": "Open Booking Form",
+    "buttonLink": "#consultation-modal"
+  }
+}

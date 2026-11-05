@@ -1,0 +1,63 @@
+{
+  "id": "c6-a3",
+  "url": "/blog/documents-needed-registering-business-nepal/",
+  "type": "article",
+  "cluster": "Company Registration",
+  "clusterName": "Business Registration and Licensing",
+  "primaryKeyword": "documents needed when registering a business in nepal",
+  "secondaryKeywords": [
+    "ocr company registration document checklist",
+    "moa aoa requirements nepal",
+    "incorporation document preparation"
+  ],
+  "title": "Documents Needed When Registering a Business in Nepal (Checklist)",
+  "metaDescription": "A complete document checklist for business and company registration in Nepal. Citizenship copies, MOA/AOA, rent agreements, and promoter declarations.",
+  "searchIntent": "Checklist",
+  "h1": "Documents Commonly Needed When Registering a Business in Nepal",
+  "directAnswer": "To register a business in Nepal, promoters must provide verified copies of Nepali Citizenship Certificates for all shareholders/directors, passport-sized photographs, drafted Memorandum and Articles of Association (MOA/AOA), registered office rental agreement with land ownership certificate (Lalpurja) copy, and municipal Ward recommendation letters.",
+  "readTime": "5 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-26",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/business-registration-licensing-nepal/",
+  "primaryMoneyPageAnchor": "incorporation document preparation",
+  "sections": [
+    {
+      "h2": "The Complete Document Preparation Master Checklist",
+      "contentHtml": "<p>Having all physical and digital scans prepared prevents delays and rejection during OCR scrutiny:</p><div class='space-y-3 my-4'><div class='p-3 bg-slate-50 border-l-4 border-terracotta rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>1. Identity Documentation (Promoters & Directors)</h3><ul class='text-xs text-slate-600 list-disc pl-4 space-y-1 mt-1'><li>Color scanned copies of valid Nepali Citizenship Certificates (Nagrikta) of all promoters.</li><li>For foreign investors: Notarized passport copies, board resolutions, and Department of Industry FDI approvals.</li><li>Passport-sized photographs of all proposed directors.</li></ul></div><div class='p-3 bg-slate-50 border-l-4 border-terracotta rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>2. Constitutional Legal Documents</h3><ul class='text-xs text-slate-600 list-disc pl-4 space-y-1 mt-1'><li>Memorandum of Association (Prabandha Patra) prepared in standard OCR Nepali font format.</li><li>Articles of Association (Niyamawali) signed across every page by all promoters.</li><li>Formal promoter agreement letter or unanimous consent resolution.</li></ul></div><div class='p-3 bg-slate-50 border-l-4 border-terracotta rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>3. Registered Office Proof (For Ward & Tax Office)</h3><ul class='text-xs text-slate-600 list-disc pl-4 space-y-1 mt-1'><li>Formal Commercial Lease Agreement executed with property owner.</li><li>Copy of Land Ownership Certificate (Lalpurja) of the commercial building.</li><li>Property owner citizenship copy and latest municipal house tax receipt.</li></ul></div></div>"
+    },
+    {
+      "h2": "Formatting Requirements for the OCR Digital Portal",
+      "contentHtml": "<p>OCR portal uploads require PDF documents formatted cleanly with clear promoter signatures. Unclear scans or mismatched Nepali spellings in promoter names are the primary cause of rejection. Discover our complete <a href='/business-registration-licensing-nepal/' class='text-terracotta hover:underline font-semibold'>incorporation document preparation</a> services.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can a company be registered at a residential home address in Nepal?",
+      "answer": "Yes, provided the lease agreement specifies that a designated portion of the property is utilized as the registered corporate office and the local Ward Office grants business registration."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How to Register a Private Limited Company in Nepal",
+      "url": "/blog/how-to-register-private-limited-company-nepal/"
+    },
+    {
+      "title": "A Post-Registration Checklist for New Businesses",
+      "url": "/blog/post-registration-checklist-new-businesses-nepal/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Office of Company Registrar (OCR)",
+      "authority": "Document Checklist & Guidelines",
+      "url": "https://ocr.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Let Our Legal Desk Draft Your Incorporation Documents",
+    "subtext": "Our Lalitpur team drafts compliant MOA/AOA tailored to your business objectives.",
+    "buttonText": "Draft Incorporation Documents",
+    "buttonLink": "/business-registration-licensing-nepal/"
+  }
+}

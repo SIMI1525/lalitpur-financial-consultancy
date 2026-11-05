@@ -1,0 +1,63 @@
+{
+  "id": "c2-a4",
+  "url": "/blog/debt-repayment-methods-comparison/",
+  "type": "article",
+  "cluster": "Personal Finance",
+  "clusterName": "Personal Financial Planning",
+  "primaryKeyword": "debt repayment methods comparison",
+  "secondaryKeywords": [
+    "debt avalanche vs snowball nepal",
+    "bank loan repayment strategy",
+    "eliminate debt kathmandu"
+  ],
+  "title": "Debt Repayment Methods: Comparing Snowball vs. Avalanche in Nepal",
+  "metaDescription": "Compare the Debt Snowball vs Debt Avalanche methods for repaying bank loans and personal debt in Nepal. Discover which approach saves more interest in NPR.",
+  "searchIntent": "Comparative",
+  "h1": "Debt Repayment Methods: Comparing Different Approaches",
+  "directAnswer": "The two primary mathematical debt repayment strategies are the Debt Avalanche and the Debt Snowball. The Debt Avalanche prioritizes paying off liabilities with the highest interest rate first (saving the most money in interest charges), while the Debt Snowball targets the smallest balance first (delivering psychological momentum). In Nepal's high-interest banking context, a tailored hybrid approach is often most effective.",
+  "readTime": "5 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-02-04",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/personal-financial-planning-nepal/",
+  "primaryMoneyPageAnchor": "debt management advisory",
+  "sections": [
+    {
+      "h2": "Avalanche vs. Snowball: Side-by-Side Comparison",
+      "contentHtml": "<p>Managing multiple EMIs across credit cards, personal bank loans, and auto loans can quickly become overwhelming. Here is how the two proven frameworks compare:</p><div class='grid sm:grid-cols-2 gap-4 my-4'><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>The Debt Avalanche (Mathematically Optimal)</h3><p class='text-xs text-slate-600 mb-2'>Pay minimums on all loans, then direct all surplus cash to the loan with the highest interest rate (e.g., 16% credit card or 14% personal loan).</p><p class='text-xs text-emerald-700 font-semibold'>Pro: Minimizes total NPR interest paid over time.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>The Debt Snowball (Behaviorally Motivating)</h3><p class='text-xs text-slate-600 mb-2'>Pay minimums on all loans, then direct extra funds to wipe out the loan with the smallest balance (e.g., an NPR 50,000 personal loan), regardless of interest.</p><p class='text-xs text-terracotta-dark font-semibold'>Pro: Rapid psychological wins that maintain motivation.</p></div></div>"
+    },
+    {
+      "h2": "Handling Bank Loan EMIs Under NRB Regulations",
+      "contentHtml": "<p>When paying down bank loans ahead of tenure in Nepal, inquire with your commercial bank regarding statutory prepayment charges. Under current Nepal Rastra Bank directives, prepayment penalties for retail loans are capped or waived depending on the remaining tenure. Learn more through our specialized <a href='/personal-financial-planning-nepal/' class='text-terracotta hover:underline font-semibold'>debt management advisory</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Should I pay off high-interest debt before building an emergency fund?",
+      "answer": "We recommend establishing a baseline mini-emergency buffer of NPR 50,000 to NPR 100,000 first. Without this safety net, unexpected expenses will force you to borrow again at high interest."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How to Create a Monthly Budget in Nepal",
+      "url": "/blog/how-to-create-monthly-budget-nepal/"
+    },
+    {
+      "title": "How Much Should You Save for an Emergency Fund?",
+      "url": "/blog/emergency-fund-savings-guide-nepal/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Nepal Rastra Bank Directives",
+      "authority": "Banking Guidelines & Prepayment Rules",
+      "url": "https://www.nrb.org.np"
+    }
+  ],
+  "cta": {
+    "headline": "Design Your Structured Debt Acceleration Plan",
+    "subtext": "Consult with our personal financial advisors to map out an accelerated payoff roadmap.",
+    "buttonText": "Book Debt Advisory Session",
+    "buttonLink": "/personal-financial-planning-nepal/"
+  }
+}

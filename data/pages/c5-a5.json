@@ -1,0 +1,63 @@
+{
+  "id": "c5-a5",
+  "url": "/blog/tax-planning-vs-tax-evasion-differences/",
+  "type": "article",
+  "cluster": "Tax & Compliance",
+  "clusterName": "Tax Planning and Compliance",
+  "primaryKeyword": "tax planning vs tax evasion understanding the difference",
+  "secondaryKeywords": [
+    "legal tax avoidance vs illegal evasion nepal",
+    "income tax act 2058 section 120",
+    "ethical tax advisory lalitpur"
+  ],
+  "title": "Tax Planning vs. Tax Evasion in Nepal: Understanding the Legal Difference",
+  "metaDescription": "Learn the legal difference between lawful tax planning and illegal tax evasion under Nepal's Income Tax Act 2058. Protect your business from criminal penalties.",
+  "searchIntent": "Ethical Guidance",
+  "h1": "Tax Planning vs Tax Evasion: Understanding the Difference",
+  "directAnswer": "The fundamental difference is legality and transparency: tax planning uses legitimate statutory deductions, depreciation schedules, and tax incentives codified within the Income Tax Act 2058 to structure commercial affairs efficiently; tax evasion involves deliberate deceit, suppression of sales, falsified invoices, or unrecorded cash transactions, which constitutes a criminal offense under Section 120 carrying severe financial penalties and imprisonment.",
+  "readTime": "5 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-02-12",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/tax-planning-compliance-nepal/",
+  "primaryMoneyPageAnchor": "ethical tax planning services",
+  "sections": [
+    {
+      "h2": "Lawful Tax Planning vs. Illegal Tax Evasion",
+      "contentHtml": "<p>Understanding the statutory boundary protects business owners from severe regulatory action by the Inland Revenue Department (IRD) and Revenue Investigation Department (RID):</p><div class='grid sm:grid-cols-2 gap-4 my-4'><div class='p-4 bg-emerald-50 border border-emerald-200 rounded-lg'><h3 class='font-bold text-emerald-900 mb-2'>Lawful Tax Planning (Encouraged)</h3><ul class='text-xs text-slate-700 space-y-1 list-disc pl-4'><li>Optimizing statutory depreciation rates under Schedule 2 of Income Tax Act 2058.</li><li>Claiming eligible CSR expenditure deductions up to statutory caps.</li><li>Utilizing concessional 20% tax rates for qualified manufacturing entities.</li><li>Ensuring staff retirement contributions utilize CIT and SSF tax-exempt allowances.</li></ul></div><div class='p-4 bg-rose-50 border border-rose-200 rounded-lg'><h3 class='font-bold text-rose-900 mb-2'>Illegal Tax Evasion (Criminal)</h3><ul class='text-xs text-slate-700 space-y-1 list-disc pl-4'><li>Operating unrecorded sales counters or personal QR payment accounts.</li><li>Under-invoicing goods at customs borders or in domestic billing.</li><li>Purchasing fake VAT invoices (Fictitious Bills) to inflate expenses.</li><li>Maintaining double ledgers (Kachhi Khata vs Pakki Khata).</li></ul></div></div>"
+    },
+    {
+      "h2": "Severe Penalties Under Section 120 & RID Directives",
+      "contentHtml": "<p>Section 120 of the Income Tax Act 2058 imposes a 100% fine on concealed tax, plus statutory interest, compounded with potential criminal prosecution by the Revenue Investigation Department (Rajaswa Anusandhan Bibhag). Discover our <a href='/tax-planning-compliance-nepal/' class='text-terracotta hover:underline font-semibold'>ethical tax planning services</a> to optimize your tax position with 100% statutory legitimacy.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can tax planning reduce our corporate tax legitimately?",
+      "answer": "Yes. Proper structuring of capital expenditures, utilizing accelerated depreciation, claiming allowable staff welfare benefits, and structuring compliant inter-company charges significantly lowers effective tax burdens lawfully."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "PAN vs VAT in Nepal: Understanding the Difference",
+      "url": "/blog/pan-vs-vat-nepal-differences/"
+    },
+    {
+      "title": "A Business Tax-Compliance Checklist for Nepal",
+      "url": "/blog/business-tax-compliance-checklist-nepal/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Department of Revenue Investigation (DRI)",
+      "authority": "Anti-Tax Evasion Enforcement",
+      "url": "https://dri.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Optimize Your Taxes Legally & Ethically",
+    "subtext": "Consult with our senior tax specialists in Lalitpur for compliant tax planning strategies.",
+    "buttonText": "Explore Ethical Tax Advisory",
+    "buttonLink": "/tax-planning-compliance-nepal/"
+  }
+}

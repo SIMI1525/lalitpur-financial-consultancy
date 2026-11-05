@@ -1,0 +1,204 @@
+/* css/styles.css - Lalitpur Financial Advisory (UI-UX Pro Max: Swiss Minimalism & Trust) */
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap');
+
+:root {
+  /* Design Tokens from UI-UX Pro Max Master Design System */
+  --color-forest: #17251F;
+  --color-ivory: #F5F0E7;
+  --color-terracotta: #B86F52;
+  --color-stone: #D8CDBB;
+
+  --color-primary: #17251F;
+  --color-on-primary: #FFFFFF;
+  --color-secondary: #2C3E35;
+  --color-on-secondary: #FFFFFF;
+  --color-accent: #B86F52;
+  --color-on-accent: #FFFFFF;
+  --color-background: #FDFBF7;
+  --color-foreground: #17251F;
+  --color-card: #FFFFFF;
+  --color-card-foreground: #17251F;
+  --color-muted: #F5F0E7;
+  --color-muted-foreground: #4A5568;
+  --color-border: #E8E2D5;
+  --color-destructive: #DC2626;
+  --color-ring: #17251F;
+
+  /* Typography */
+  --font-serif: 'EB Garamond', Georgia, serif;
+  --font-sans: 'Lato', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  /* Spacing Scale (Density 6/10) */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+  --space-3xl: 64px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(23, 37, 31, 0.04);
+  --shadow-md: 0 4px 6px -1px rgba(23, 37, 31, 0.06), 0 2px 4px -2px rgba(23, 37, 31, 0.04);
+  --shadow-lg: 0 10px 15px -3px rgba(23, 37, 31, 0.08), 0 4px 6px -4px rgba(23, 37, 31, 0.04);
+  --shadow-xl: 0 20px 25px -5px rgba(23, 37, 31, 0.1), 0 8px 10px -6px rgba(23, 37, 31, 0.04);
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-foreground);
+  background-color: var(--color-background);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, .font-serif {
+  font-family: var(--font-serif);
+  color: var(--color-forest);
+  letter-spacing: -0.015em;
+  font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+}
+
+/* Palette utility classes */
+.text-forest { color: var(--color-forest) !important; }
+.text-ivory { color: var(--color-ivory) !important; }
+.text-terracotta { color: var(--color-terracotta) !important; }
+.text-stone { color: var(--color-stone) !important; }
+.bg-forest { background-color: var(--color-forest) !important; }
+.bg-ivory { background-color: var(--color-ivory) !important; }
+.bg-terracotta { background-color: var(--color-terracotta) !important; }
+.bg-stone { background-color: var(--color-stone) !important; }
+
+/* Swiss Minimalist Cards */
+.swiss-card {
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  box-shadow: var(--shadow-sm);
+  transition: border-color 200ms ease, box-shadow 200ms ease, transform 200ms ease;
+}
+
+.swiss-card:hover {
+  border-color: #CBD5E1;
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+/* Button Component Standards */
+.btn-primary {
+  background-color: var(--color-accent);
+  color: var(--color-on-accent);
+  padding: 10px 22px;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 0.875rem;
+  transition: all 200ms ease;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 44px;
+}
+
+.btn-primary:hover {
+  background-color: #0284C7;
+  box-shadow: var(--shadow-sm);
+}
+
+.btn-secondary {
+  background-color: transparent;
+  color: var(--color-primary);
+  border: 1.5px solid var(--color-primary);
+  padding: 10px 22px;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 0.875rem;
+  transition: all 200ms ease;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 44px;
+}
+
+.btn-secondary:hover {
+  background-color: var(--color-primary);
+  color: #FFFFFF;
+}
+
+/* Input Elements */
+input, select, textarea {
+  font-family: var(--font-sans);
+  border: 1px solid var(--color-border);
+  background-color: #FFFFFF;
+  border-radius: 6px;
+  transition: border-color 150ms ease, box-shadow 150ms ease;
+  min-height: 42px;
+}
+
+input:focus, select:focus, textarea:focus {
+  border-color: var(--color-accent);
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(3, 105, 161, 0.15);
+}
+
+/* Accessible Focus Ring */
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+/* Cursor pointer on all clickables */
+button, a, select, input[type="checkbox"], input[type="radio"], [role="button"] {
+  cursor: pointer;
+}
+
+/* Subtle Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F1F5F9;
+}
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94A3B8;
+}
+
+/* Reduced Motion Support */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Print Stylesheet for Official Reports & Checklists */
+@media print {
+  body {
+    background: #FFFFFF !important;
+    color: #000000 !important;
+    font-size: 11pt !important;
+  }
+  header, footer, #search-modal, #consultation-modal, .no-print, button {
+    display: none !important;
+  }
+  main {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .swiss-card {
+    box-shadow: none !important;
+    border: 1px solid #CCCCCC !important;
+    break-inside: avoid;
+  }
+}

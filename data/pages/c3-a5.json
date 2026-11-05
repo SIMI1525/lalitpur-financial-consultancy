@@ -1,0 +1,63 @@
+{
+  "id": "c3-a5",
+  "url": "/blog/why-separate-personal-and-business-finances/",
+  "type": "article",
+  "cluster": "Business Cash Flow",
+  "clusterName": "Business Financial Consulting",
+  "primaryKeyword": "why businesses should separate personal and business finances",
+  "secondaryKeywords": [
+    "separate bank accounts business nepal",
+    "corporate veil companies act 2063",
+    "business financial structuring"
+  ],
+  "title": "Why Businesses in Nepal Must Separate Personal & Business Finances",
+  "metaDescription": "Discover why commingling personal and company funds in Nepal exposes owners to severe tax audits, piercing of the corporate veil, and banking friction.",
+  "searchIntent": "Governance",
+  "h1": "Why Businesses Should Separate Personal and Business Finances",
+  "directAnswer": "Businesses in Nepal must strictly separate personal and commercial finances to protect limited liability under the Companies Act 2063, prevent disqualification of deductible business expenses during Inland Revenue Department (IRD) audits, ensure accurate bank loan evaluations, and maintain clear accounting records necessary for annual statutory audit clearance.",
+  "readTime": "5 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-02-13",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/business-financial-consulting-nepal/",
+  "primaryMoneyPageAnchor": "business financial structuring",
+  "sections": [
+    {
+      "h2": "The Dangers of Commingling Funds in Nepal",
+      "contentHtml": "<p>In family-owned enterprises and early-stage startups in Nepal, founders frequently use personal bank accounts (or QR payment scanners linked to personal accounts) for business receipts. This creates severe compliance and operational perils:</p><ul class='list-disc pl-5 space-y-2 text-slate-700 my-3'><li><strong>Piercing the Corporate Veil:</strong> Under Companies Act 2063, a Private Limited company is a separate legal person. Commingling funds destroys limited liability protection, making directors personally liable for company debts.</li><li><strong>Disallowed Tax Expenses at IRD:</strong> The Inland Revenue Department strictly disallows expense deductions paid from personal non-business accounts without proper tax vouchers and invoice records.</li><li><strong>Rejection of Commercial Bank Loans:</strong> Credit analysts at commercial banks require clean, company-titled audited bank statements. Personal transaction clutter invalidates bankable loan feasibility models.</li><li><strong>Director Loan Complications:</strong> Transferring money between personal and corporate accounts without board resolutions creates deemed dividend or unauthorized loan compliance liabilities under Income Tax Act Section 88.</li></ul>"
+    },
+    {
+      "h2": "4 Rules to Enforce Institutional Separation",
+      "contentHtml": "<ol class='list-decimal pl-5 space-y-2 text-slate-700 my-3'><li><strong>Open Dedicated Corporate Bank Accounts:</strong> Direct all customer payments exclusively into bank accounts registered under the company's legal name and PAN.</li><li><strong>Deploy Commercial Merchant QRs:</strong> Replace personal Fonepay/eSewa QR stands with merchant QR codes tied to your corporate account.</li><li><strong>Pay Directors via Formal Salary or Dividends:</strong> Never withdraw ad-hoc cash from company accounts for personal groceries; pay a fixed monthly salary with appropriate TDS deducted.</li><li><strong>Issue Corporate Expense Cards:</strong> Provide designated corporate cards with receipt-submission mandates for executive travel.</li></ol><p>Explore our <a href='/business-financial-consulting-nepal/' class='text-terracotta hover:underline font-semibold'>business financial structuring</a> solutions to organize your corporate governance.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I pay company expenses from my personal card and reimburse myself?",
+      "answer": "Yes, provided the original VAT tax invoice is made out to the company's legal name and PAN, and a formal reimbursement voucher is filed with accounting."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How to Create a Cash-Flow Forecast for a Small Business",
+      "url": "/blog/how-to-create-cash-flow-forecast-small-business/"
+    },
+    {
+      "title": "How to Read a Profit-and-Loss Statement",
+      "url": "/blog/how-to-read-profit-and-loss-statement/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Nepal Companies Act 2063",
+      "authority": "Separate Legal Personality (Section 7)",
+      "url": "https://ocr.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Institutionalize Your Corporate Financial Governance",
+    "subtext": "Let our Lalitpur financial consultancy help structure clean banking and accounting protocols.",
+    "buttonText": "Schedule Governance Review",
+    "buttonLink": "/business-financial-consulting-nepal/"
+  }
+}

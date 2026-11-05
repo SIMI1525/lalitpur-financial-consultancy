@@ -1,0 +1,80 @@
+{
+  "id": "c1-a1",
+  "url": "/blog/what-does-a-financial-consultancy-firm-do-nepal/",
+  "type": "article",
+  "cluster": "Corporate Advisory",
+  "clusterName": "Financial Consultancy Services",
+  "primaryKeyword": "what does a financial consultancy firm do in nepal",
+  "secondaryKeywords": [
+    "financial consultant duties nepal",
+    "corporate advisory services lalitpur",
+    "business finance advisor"
+  ],
+  "title": "What Does a Financial Consultancy Firm Do in Nepal? (2026 Guide)",
+  "metaDescription": "Learn what a financial consultancy firm does in Nepal. Discover core advisory services, strategic cash-flow management, and key differences from auditing.",
+  "searchIntent": "Informational",
+  "h1": "What Does a Financial Consultancy Firm Do in Nepal?",
+  "directAnswer": "A financial consultancy firm in Nepal provides forward-looking advisory services that help businesses and individuals structure budgets, optimize operating cash flows, manage working capital, and maintain statutory compliance. Unlike traditional bookkeepers who record historical data or statutory auditors who perform post-year compliance audits, financial consultants guide strategic decisions to drive long-term profitability and financial resilience.",
+  "readTime": "6 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-10",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/financial-consultancy-services-nepal/",
+  "primaryMoneyPageAnchor": "financial consultancy services in Nepal",
+  "sections": [
+    {
+      "h2": "Core Services Offered by Financial Consultants in Nepal",
+      "contentHtml": "<p>In Nepal's rapidly developing commercial landscape, managing business finances requires more than simple voucher entry. Professional financial consultants provide four primary categories of high-impact strategic advisory:</p><div class='grid sm:grid-cols-2 gap-4 my-4'><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>1. Cash Flow & Working Capital Advisory</h3><p class='text-sm text-slate-600'>Designing rolling 13-week cash-flow projections, managing supplier credit terms, and optimizing inventory holding to prevent liquidity crunches during festival cycles like Dashain.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>2. Strategic Budgeting & Forecasting</h3><p class='text-sm text-slate-600'>Formulating annual operational budgets, scenario-testing revenue models, and establishing department-level spending ceilings.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>3. Capital Structuring & Bank Proposals</h3><p class='text-sm text-slate-600'>Drafting Detailed Project Reports (DPR), calculating Debt Service Coverage Ratios (DSCR), and structuring collateral documentation for commercial bank lending.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>4. Internal Controls & Audit Readiness</h3><p class='text-sm text-slate-600'>Establishing double-entry chart of accounts, maker-checker authorization protocols, and pre-audit file reconciliation before statutory submission.</p></div></div>"
+    },
+    {
+      "h2": "Consultant vs. Accountant vs. Auditor: Clear Distinctions",
+      "contentHtml": "<p>A common misconception in Kathmandu and Lalitpur is conflating financial consultants with accountants and auditors. In Nepal, each professional performs distinct statutory and operational functions:</p><div class='overflow-x-auto my-4'><table class='w-full text-xs text-left border border-slate-200'><thead class='bg-slate-100 text-slate-800 font-bold'><tr><th class='p-3 border-b'>Role</th><th class='p-3 border-b'>Primary Time Horizon</th><th class='p-3 border-b'>Core Deliverable</th><th class='p-3 border-b'>Regulatory Mandate</th></tr></thead><tbody class='divide-y divide-slate-100'><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Financial Consultant</td><td class='p-3'>Future (Forecasts & Projections)</td><td class='p-3'>Cash-flow models, budgets, bank proposals</td><td class='p-3'>Management advisory contract</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Internal Accountant / Bookkeeper</td><td class='p-3'>Past & Present (Daily transactions)</td><td class='p-3'>Day-to-day ledgers, VAT books, trial balance</td><td class='p-3'>Internal operations</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Statutory Auditor (ICAN)</td><td class='p-3'>Historical (Closed fiscal year)</td><td class='p-3'>Independent Audit Report & Opinion</td><td class='p-3'>Nepal Chartered Accountants Act 2053</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "When Should Your Organization Engage a Consultant?",
+      "contentHtml": "<p>Engaging a financial consultancy is recommended during inflection points: launching a new company, scaling past NPR 50 Lakhs in annual turnover, preparing for equity fundraising, or managing persistent cash-flow bottlenecks. Learn more about our specialized <a href='/financial-consultancy-services-nepal/' class='text-terracotta hover:underline font-semibold'>financial consultancy services in Nepal</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can a financial consultancy in Nepal conduct our statutory audit?",
+      "answer": "No. Under the Nepal Chartered Accountants Act 2053, statutory audits can only be executed and signed by licensed Chartered Accountants or Registered Auditors registered with the Institute of Chartered Accountants of Nepal (ICAN). A financial consultancy prepares ledgers and coordinates with your auditor, but cannot issue an independent audit opinion."
+    },
+    {
+      "question": "Does financial consultancy include tax filing assistance?",
+      "answer": "Yes, financial consultants assist with tax planning, record organization, and advance tax computation, helping ensure clean data submission to the Inland Revenue Department (IRD)."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "When Should a Small Business Hire a Financial Consultant?",
+      "url": "/blog/when-should-small-business-hire-financial-consultant/"
+    },
+    {
+      "title": "Financial Consultant vs Accountant vs Auditor",
+      "url": "/blog/financial-consultant-vs-accountant-vs-auditor/"
+    },
+    {
+      "title": "How to Choose a Financial Consultant in Nepal",
+      "url": "/blog/how-to-choose-financial-consultant-nepal/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Institute of Chartered Accountants of Nepal (ICAN)",
+      "authority": "Statutory Accounting Regulator",
+      "url": "https://www.ican.org.np"
+    },
+    {
+      "name": "Inland Revenue Department (IRD)",
+      "authority": "Tax Administration Authority",
+      "url": "https://ird.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Elevate Your Strategic Financial Decision-Making",
+    "subtext": "Schedule a discovery consultation with our Lalitpur corporate finance advisory team.",
+    "buttonText": "Explore Financial Consultancy",
+    "buttonLink": "/financial-consultancy-services-nepal/"
+  }
+}

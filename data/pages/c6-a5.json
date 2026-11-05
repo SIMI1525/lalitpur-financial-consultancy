@@ -1,0 +1,76 @@
+{
+  "id": "c6-a5",
+  "url": "/blog/identifying-business-licenses-local-approvals-nepal/",
+  "type": "article",
+  "cluster": "Company Registration",
+  "clusterName": "Business Registration and Licensing",
+  "primaryKeyword": "how to identify business licenses and local approvals nepal",
+  "secondaryKeywords": [
+    "industry specific licenses nepal",
+    "department of industry municipal permit",
+    "licensing and regulatory advisory"
+  ],
+  "title": "How to Identify Business Licenses and Local Approvals in Nepal",
+  "metaDescription": "A sector-by-sector guide to identifying mandatory industry licenses in Nepal. Travel, liquor, food processing, foreign trade, and health regulations.",
+  "searchIntent": "Regulatory Scoping",
+  "h1": "How to Identify the Licenses and Local Approvals a Business May Need",
+  "directAnswer": "To identify the specific licenses and approvals your business needs in Nepal, examine your operational sector: general companies require only OCR and Municipal Ward registration; import/export businesses require an EXIM Code from Customs; tourism firms need Department of Tourism permits; food/beverage entities require Department of Food Technology and Quality Control (DFTQC) licenses; and industrial factories require Department of Industry environmental clearances.",
+  "readTime": "6 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-02-07",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/business-registration-licensing-nepal/",
+  "primaryMoneyPageAnchor": "licensing and regulatory advisory",
+  "sections": [
+    {
+      "h2": "Navigating Nepal's Multi-Tiered Regulatory Licensing Ecosystem",
+      "contentHtml": "<p>Incorporating a company at the Office of Company Registrar (OCR) grants legal personality, but it does NOT automatically confer the right to start commercial operations. Depending on your industry vertical, geography, and scale, businesses in Nepal must navigate a multi-tiered hierarchy of national, departmental, and municipal approvals before transacting legally.</p>"
+    },
+    {
+      "h2": "Industry-Specific Regulatory Licensing Matrix",
+      "contentHtml": "<p>Below are the primary statutory bodies and permits required across prominent commercial sectors in Nepal:</p><div class='overflow-x-auto my-4'><table class='w-full text-xs text-left border border-slate-200'><thead class='bg-slate-100 text-slate-800 font-bold'><tr><th class='p-3 border-b'>Industry Sector</th><th class='p-3 border-b'>Governing Regulatory Body</th><th class='p-3 border-b'>Key Operating Approvals</th></tr></thead><tbody class='divide-y divide-slate-100'><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Tourism, Travel & Trekking</td><td class='p-3'>Department of Tourism / Ministry of Culture</td><td class='p-3'>Tourism Agency Operating License & Bank Guarantee</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Import & Export Trade</td><td class='p-3'>Department of Customs / Trade Promotion Center</td><td class='p-3'>EXIM Code & NPR 300,000 Bank Guarantee Certificate</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Food, Beverage & Processing</td><td class='p-3'>DFTQC (खाद्य प्रविधि तथा गुण नियन्त्रण विभाग)</td><td class='p-3'>Product Quality Certification & Hygiene Permits</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Foreign Direct Investment (FDI)</td><td class='p-3'>Department of Industry (DOI) / NRB</td><td class='p-3'>FITTA Foreign Capital Approval & Currency Clearance</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Information Technology & BPO</td><td class='p-3'>Department of Industry / Nepal Rastra Bank</td><td class='p-3'>Foreign Currency Earning Registration & Repatriation</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Education & Skill Consulting</td><td class='p-3'>Ministry of Education, Science & Technology</td><td class='p-3'>Consultancy Operating Approval & Premises Clearance</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "Local Ward Business Permitting (Ward Karyalaya)",
+      "contentHtml": "<p>Under the Local Government Operation Act 2074, every commercial establishment must register with the local Municipal Ward Office within 30 days of establishing a physical address. Operating without local ward registration risks municipal padlocking and daily compounding fines. Key prerequisites include a registered rent agreement, house tax clearance of the owner, and sign-board tax payment.</p><p class='mt-2'>Learn how our <a href='/business-registration-licensing-nepal/' class='text-terracotta hover:underline font-semibold'>business registration and licensing services in Nepal</a> manage end-to-end approvals.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How long does it take to secure an EXIM code for import and export?",
+      "answer": "Once your company has registered with the OCR, obtained a VAT certificate, and secured an NPR 300,000 bank guarantee from a licensed commercial bank, the Department of Customs typically issues the EXIM code within 2 to 3 business days."
+    },
+    {
+      "question": "Can foreign investors operate in retail trading in Nepal?",
+      "answer": "Under the Foreign Investment and Technology Transfer Act (FITTA 2019), retail trading and real estate brokerage are placed on the negative list, restricting 100% foreign-owned direct investment in consumer retail."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How to Register a Private Limited Company in Nepal",
+      "url": "/blog/how-to-register-private-limited-company-nepal/"
+    },
+    {
+      "title": "A Post-Registration Checklist for New Businesses",
+      "url": "/blog/post-registration-checklist-new-businesses-nepal/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Department of Tourism Nepal",
+      "authority": "Tourism Business Licensing",
+      "url": "https://tourismdepartment.gov.np"
+    },
+    {
+      "name": "Department of Customs Nepal",
+      "authority": "EXIM Code Registration Portal",
+      "url": "https://customs.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Identify Every License Required for Your Business",
+    "subtext": "Our regulatory advisory team in Lalitpur conducts complete multi-agency licensing assessments.",
+    "buttonText": "Schedule Licensing Scoping",
+    "buttonLink": "/business-registration-licensing-nepal/"
+  }
+}

@@ -1,0 +1,58 @@
+﻿import sys
+from save_page import save_page
+
+# Money Page 1
+m1 = {
+    "url": "/financial-consultancy-services-nepal/",
+    "type": "money",
+    "cluster": "Cluster 1",
+    "clusterName": "Financial Consultancy Services",
+    "primaryKeyword": "Financial Consultancy Services",
+    "secondaryKeywords": ["financial consulting nepal", "business advisory services lalitpur", "corporate finance nepal"],
+    "title": "Financial Consultancy Services in Nepal | Lalitpur Advisory",
+    "metaDescription": "Strategic financial consultancy services in Nepal. Tailored budgeting, cash-flow structuring, bookkeeping setup, and compliance advisory for businesses and individuals.",
+    "searchIntent": "Commercial Investigation",
+    "h1": "Financial Consultancy Services in Nepal",
+    "directAnswer": "Financial consultancy services in Nepal provide individuals, startups, and established enterprises with expert financial management, cash-flow structuring, budgeting, and compliance guidance. Lalitpur Financial Advisory helps clients navigate local commercial complexities, optimize working capital, and establish reliable financial control across all seven provinces.",
+    "centerpieceType": "service_matrix",
+    "centerpieceTitle": "Interactive Service Selection Matrix",
+    "centerpieceSubtitle": "Identify the exact financial advisory scope tailored to your organizational scale and commercial challenge.",
+    "primaryMoneyPageLink": "/financial-consultancy-services-nepal/",
+    "sections": [
+        {
+            "h2": "Core Financial Consultancy Disciplines We Deliver",
+            "contentHtml": "<p>Our consultancy provides end-to-end financial stewardship designed for the Nepalese market. We do not provide cookie-cutter advice; each engagement begins with a diagnostic evaluation of your balance sheet, operating cash flows, and compliance standing.</p><div class='grid sm:grid-cols-2 gap-4 my-4'><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>Corporate Financial Planning</h3><p class='text-sm text-slate-600'>Comprehensive operational budgeting, capital expenditure scheduling, and scenario modeling to safeguard profitability against market volatility.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>Working Capital Management</h3><p class='text-sm text-slate-600'>Streamlining accounts receivable collection cycles, optimizing inventory holdings, and managing supplier credit lines.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>Internal Controls & Systems</h3><p class='text-sm text-slate-600'>Establishing robust record-keeping protocols, voucher approval hierarchies, and fraud-resistant financial operations.</p></div><div class='p-4 bg-slate-50 border border-slate-200 rounded-lg'><h3 class='font-bold text-slate-900 mb-1'>Compliance & Audit Readiness</h3><p class='text-sm text-slate-600'>Pre-audit ledger reconciliation, tax documentation consolidation, and coordinating with independent ICAN statutory auditors.</p></div></div>"
+        },
+        {
+            "h2": "Who Our Financial Advisory Services Help",
+            "contentHtml": "<p>We serve a diverse cross-section of commercial entities and individuals across Nepal:</p><ul class='list-disc pl-5 space-y-2 text-slate-700 my-3'><li><strong>Founders & Startups:</strong> Structuring financial models, establishing initial charts of accounts, and forecasting runway before commercial launch.</li><li><strong>Growing SMEs:</strong> Overcoming cash-flow crunches, preparing bankable credit proposals, and institutionalizing bookkeeping.</li><li><strong>Established Enterprises:</strong> Cost-center variance analysis, profitability auditing, and operational restructuring.</li><li><strong>High-Net-Worth Individuals:</strong> Household budgeting, asset-allocation strategies, and long-term liquidity planning.</li></ul>"
+        },
+        {
+            "h2": "Our 4-Stage Engagement Process",
+            "contentHtml": "<div class='space-y-4 my-4'><div class='flex gap-4 items-start'><div class='w-8 h-8 rounded-full bg-slate-900 text-amber-400 flex items-center justify-center font-bold text-sm shrink-0'>1</div><div><h3 class='font-bold text-slate-900'>Diagnostic Consultation</h3><p class='text-sm text-slate-600'>An initial 45-minute discovery session reviewing your historical financials, current operational friction, and commercial objectives.</p></div></div><div class='flex gap-4 items-start'><div class='w-8 h-8 rounded-full bg-slate-900 text-amber-400 flex items-center justify-center font-bold text-sm shrink-0'>2</div><div><h3 class='font-bold text-slate-900'>Financial Health Audit</h3><p class='text-sm text-slate-600'>In-depth examination of cash conversion cycles, margins, debts, tax filings, and internal controls to pinpoint vulnerabilities.</p></div></div><div class='flex gap-4 items-start'><div class='w-8 h-8 rounded-full bg-slate-900 text-amber-400 flex items-center justify-center font-bold text-sm shrink-0'>3</div><div><h3 class='font-bold text-slate-900'>Strategic Roadmap & Deliverables</h3><p class='text-sm text-slate-600'>Formulation of customized financial models, forecasting dashboards, internal control SOPs, and actionable monthly targets.</p></div></div><div class='flex gap-4 items-start'><div class='w-8 h-8 rounded-full bg-slate-900 text-amber-400 flex items-center justify-center font-bold text-sm shrink-0'>4</div><div><h3 class='font-bold text-slate-900'>Implementation & Monthly Review</h3><p class='text-sm text-slate-600'>Ongoing monthly or quarterly steering sessions tracking variance against forecast and adjusting strategies dynamically.</p></div></div></div>"
+        },
+        {
+            "h2": "Professional Standards & Regulatory Boundaries",
+            "contentHtml": "<p>Transparency is foundational to our practice. Lalitpur Financial Advisory operates as an independent management consulting practice. In accordance with the Nepal Chartered Accountants Act 2053, statutory independent financial audits must be performed by certified members of the Institute of Chartered Accountants of Nepal (ICAN). Our consultancy prepares businesses for audits and coordinates seamlessly with licensed audit firms, but we do not issue statutory audit opinions.</p>"
+        }
+    ],
+    "faqs": [
+        {"question": "What is the difference between a financial consultant and an accountant?", "answer": "An accountant primarily focuses on recording historical transactions, balancing ledgers, and preparing statutory financial statements. A financial consultant is forward-looking: analyzing historical data to build growth forecasts, optimize cash flow, structure capital, and drive strategic business decisions."},
+        {"question": "Do you provide services to businesses located outside Lalitpur and Kathmandu?", "answer": "Yes. While our headquarters is situated in Lalitpur, we support commercial clients and individual entrepreneurs across all seven provinces of Nepal via secure digital channels and scheduled onsite reviews."},
+        {"question": "How are advisory engagements priced?", "answer": "We offer transparent engagement models: project-based consulting for specific modeling or setup tasks, and retained advisory packages for ongoing monthly financial oversight."}
+    ],
+    "relatedArticles": [
+        {"title": "What Does a Financial Consultancy Firm Do in Nepal?", "url": "/blog/what-does-a-financial-consultancy-firm-do-nepal/"},
+        {"title": "When Should a Small Business Hire a Financial Consultant?", "url": "/blog/when-should-small-business-hire-financial-consultant/"},
+        {"title": "How to Choose a Financial Consultant in Nepal", "url": "/blog/how-to-choose-financial-consultant-nepal/"},
+        {"title": "Financial Consultant vs Accountant vs Auditor", "url": "/blog/financial-consultant-vs-accountant-vs-auditor/"},
+        {"title": "What to Prepare Before Your First Consultation", "url": "/blog/what-to-prepare-before-first-financial-consultation/"}
+    ],
+    "cta": {
+        "headline": "Ready to Institutionalize Your Financial Management?",
+        "subtext": "Schedule an initial discovery consultation with our senior advisory team in Lalitpur.",
+        "buttonText": "Book Consultation",
+        "buttonLink": "/contact-us/"
+    }
+}
+save_page("money-1.json", m1)

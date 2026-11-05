@@ -1,0 +1,40 @@
+{
+  "id": "page-editorial",
+  "url": "/editorial-policy/",
+  "type": "Trust Page",
+  "primaryKeyword": "Editorial Policy Fact-Checking Nepal",
+  "secondaryKeywords": [
+    "fact-checking policy nepal",
+    "financial content review process",
+    "official source citations"
+  ],
+  "title": "Editorial Policy & Fact-Checking | Lalitpur Advisory",
+  "metaDescription": "Learn how our financial articles are researched, fact-checked against official Nepalese gazettes (IRD, OCR, NRB), and reviewed for statutory accuracy.",
+  "searchIntent": "Trust / Quality",
+  "h1": "Editorial Policy & Fact-Checking Standards",
+  "directAnswer": "Our editorial policy mandates that every informational article and guide published by Lalitpur Financial Advisory is grounded in verified official Nepalese legislation, reviewed for statutory accuracy by qualified practitioners, updated following annual Finance Act amendments, and free from misleading promotional claims.",
+  "readTime": "4 min read",
+  "author": "Lalitpur Advisory Editorial Board",
+  "publishedDate": "2026-01-01",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/financial-consultancy-services-nepal/",
+  "primaryMoneyPageAnchor": "editorial policy",
+  "sections": [
+    {
+      "h2": "Grounding in Official Nepalese Legislation",
+      "contentHtml": "<p>Every factual statement regarding tax rates, company formation, labor rules, and banking is cross-referenced against primary official sources:</p><ul class='list-disc pl-5 space-y-1 text-xs text-slate-700 my-2'><li>Inland Revenue Department (IRD) - Income Tax Act 2058 & VAT Act 2052</li><li>Office of Company Registrar (OCR) - Companies Act 2063</li><li>Nepal Rastra Bank (NRB) - Unified Directives & Circulars</li><li>Ministry of Labor, Employment and Social Security - Labor Act 2074</li><li>Institute of Chartered Accountants of Nepal (ICAN) - NFRS & Standards</li></ul>"
+    },
+    {
+      "h2": "Fact-Checking & Annual Review Cadence",
+      "contentHtml": "<p>Following the annual promulgation of the Nepalese Budget and Finance Act in Jestha/Ashad, our research desk audits and updates all tax slab guides, TDS charts, and threshold articles to ensure ongoing accuracy.</p>"
+    }
+  ],
+  "faqs": [],
+  "relatedArticles": [],
+  "cta": {
+    "headline": "Suggest a Correction or Clarification",
+    "subtext": "If you identify any outdated statutory citation, email our editorial desk at editorial@lalitpurfinancial.com.np.",
+    "buttonText": "Contact Editorial Desk",
+    "buttonLink": "/contact-us/"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "c6-a4",
+  "url": "/blog/post-registration-checklist-new-businesses-nepal/",
+  "type": "article",
+  "cluster": "Company Registration",
+  "clusterName": "Business Registration and Licensing",
+  "primaryKeyword": "post registration checklist for new businesses nepal",
+  "secondaryKeywords": [
+    "what to do after ocr registration",
+    "ward office pan vat timeline lalitpur",
+    "share lagat filing ocr"
+  ],
+  "title": "A Post-Registration Checklist for New Businesses in Nepal (30-Day Rules)",
+  "metaDescription": "Essential 30-day compliance checklist after receiving your OCR incorporation certificate in Nepal. Ward registration, PAN/VAT, bank account, and share lagat.",
+  "searchIntent": "Compliance",
+  "h1": "A Post-Registration Checklist for New Businesses",
+  "directAnswer": "After receiving your Certificate of Incorporation from the Office of Company Registrar (OCR), you must complete four mandatory statutory steps within 30 days: register your business with the local Municipal Ward Office, obtain a corporate PAN/VAT certificate from the Inland Revenue Department (IRD), open a corporate bank account and deposit share capital, and submit formal Share Allotment records (Share Lagat) to the OCR.",
+  "readTime": "6 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-02-03",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/business-registration-licensing-nepal/",
+  "primaryMoneyPageAnchor": "post-incorporation compliance",
+  "sections": [
+    {
+      "h2": "The 4 Critical Statutory Milestones Within 30 Days",
+      "contentHtml": "<p>Many founders mistakenly assume incorporation ends at the OCR. Neglecting post-registration mandates attracts statutory penalties and operational paralysis:</p><div class='space-y-4 my-4'><div class='p-3 bg-slate-50 border-l-4 border-terracotta rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>1. Municipal Ward Business Permitting (Within 30 Days)</h3><p class='text-xs text-slate-600'>Under the Local Government Operation Act 2074, businesses must register with the Ward Office where their physical office is located and pay municipal business tax and signboard fees.</p></div><div class='p-3 bg-slate-50 border-l-4 border-terracotta rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>2. Inland Revenue Department (PAN / VAT Registration)</h3><p class='text-xs text-slate-600'>Submit your company incorporation certificate, Ward registration, and lease agreement to the local IRO to obtain your corporate PAN certificate.</p></div><div class='p-3 bg-slate-50 border-l-4 border-terracotta rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>3. Corporate Bank Account Opening & Share Capital Inflow</h3><p class='text-xs text-slate-600'>Adopt a board resolution, complete bank KYC, and require all promoters to deposit their committed share equity into the corporate account.</p></div><div class='p-3 bg-slate-50 border-l-4 border-terracotta rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>4. Filing Share Allotment (Share Lagat) at OCR</h3><p class='text-xs text-slate-600'>Submit bank balance certificates proving capital deposit to the OCR and obtain the official OCR Share Lagat Certificate (फाँटवारी).</p></div></div>"
+    },
+    {
+      "h2": "Fines for Delayed Share Lagat Submission",
+      "contentHtml": "<p>Failing to file Share Lagat at the OCR within the statutory timeline incurs escalating monthly fines under Section 81 of the Companies Act 2063. Explore our <a href='/business-registration-licensing-nepal/' class='text-terracotta hover:underline font-semibold'>post-incorporation compliance</a> management retainers.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can our company issue commercial invoices before obtaining a PAN?",
+      "answer": "No. Under the Income Tax Act 2058, conducting commercial sales or issuing invoices without a registered PAN is strictly illegal and attracts severe seizure penalties."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How to Register a Private Limited Company in Nepal",
+      "url": "/blog/how-to-register-private-limited-company-nepal/"
+    },
+    {
+      "title": "How to Identify Licenses and Local Approvals Needed",
+      "url": "/blog/identifying-business-licenses-local-approvals-nepal/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Local Government Operation Act 2074",
+      "authority": "Municipal Business Permitting",
+      "url": "https://mofaga.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Complete Your Post-Registration Steps Seamlessly",
+    "subtext": "Our team handles Ward permitting, PAN/VAT setup, and OCR Share Lagat filings.",
+    "buttonText": "Schedule Post-Setup Support",
+    "buttonLink": "/business-registration-licensing-nepal/"
+  }
+}

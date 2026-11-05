@@ -1,0 +1,63 @@
+{
+  "id": "c5-a2",
+  "url": "/blog/organizing-business-records-before-tax-filing/",
+  "type": "article",
+  "cluster": "Tax & Compliance",
+  "clusterName": "Tax Planning and Compliance",
+  "primaryKeyword": "how to organize business records before tax filing",
+  "secondaryKeywords": [
+    "tax filing preparation nepal",
+    "ird return organization lalitpur",
+    "tax documentation review kathmandu"
+  ],
+  "title": "How to Organize Business Records Before Tax Filing in Nepal",
+  "metaDescription": "A step-by-step preparation guide for annual tax filing in Nepal. Reconcile e-TDS, assemble audited schedules, and secure IRD tax clearance certificates.",
+  "searchIntent": "Practical Preparation",
+  "h1": "How to Organize Business Records Before Tax Filing",
+  "directAnswer": "To organize business records before annual tax filing in Nepal, consolidate all serialized sales and purchase VAT registers, download and cross-match e-TDS withholding slips directly from the IRD portal, collect official bank balance confirmation letters, complete physical inventory valuation schedules, and prepare trial balance reconciliations for your statutory auditor.",
+  "readTime": "6 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-23",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/tax-planning-compliance-nepal/",
+  "primaryMoneyPageAnchor": "tax documentation review",
+  "sections": [
+    {
+      "h2": "The 5-Step Pre-Filing Tax Organization Protocol",
+      "contentHtml": "<p>Filing annual corporate returns (D-03) under the Income Tax Act 2058 requires methodical preparation before the statutory Poush 31 deadline:</p><div class='space-y-3 my-4'><div class='p-3 bg-slate-50 border-l-4 border-slate-700 rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>Step 1: Complete Bank Reconciliation to Ashad 31</h3><p class='text-xs text-slate-600'>Every rupee transacted through company bank accounts must be accounted for and supported by matching vouchers and third-party bills.</p></div><div class='p-3 bg-slate-50 border-l-4 border-slate-700 rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>Step 2: Cross-Check e-TDS on the IRD Portal</h3><p class='text-xs text-slate-600'>Log into the IRD Integrated Tax System (ITS). Verify that clients who deducted withholding tax on your bills have digitally verified the deposits under your PAN.</p></div><div class='p-3 bg-slate-50 border-l-4 border-slate-700 rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>Step 3: Calculate Advance Tax Installments</h3><p class='text-xs text-slate-600'>Confirm that mandatory advance tax payments made in Poush (40%), Chaitra (70%), and Ashad (100%) are backed by valid bank deposit vouchers.</p></div><div class='p-3 bg-slate-50 border-l-4 border-slate-700 rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>Step 4: Audit Schedule Preparation</h3><p class='text-xs text-slate-600'>Compile detailed schedules for fixed assets (with statutory depreciation under Schedule 2), aged trade debtors, trade creditors, and closing stock valuation.</p></div><div class='p-3 bg-slate-50 border-l-4 border-slate-700 rounded-r-lg'><h3 class='font-bold text-slate-900 text-sm'>Step 5: Obtain Tax Clearance Certificate (Kardata Pramanpatra)</h3><p class='text-xs text-slate-600'>Following audit completion and electronic D-03 filing, pay any residual income tax and generate the official digital Tax Clearance Certificate.</p></div></div>"
+    },
+    {
+      "h2": "Handling Statutory Extensions",
+      "contentHtml": "<p>If audit compilation cannot be finalized by Poush 31, a formal extension of up to 3 months (until Chaitra end) can be requested under Section 98 of the Income Tax Act 2058. Discover our professional <a href='/tax-planning-compliance-nepal/' class='text-terracotta hover:underline font-semibold'>tax documentation review</a> services.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the penalty for filing annual income tax returns late in Nepal?",
+      "answer": "Under Section 117 of the Income Tax Act 2058, late filing incurs a penalty of NPR 100 per month or 0.1% of gross turnover per annum (whichever is higher), plus statutory interest on unpaid tax."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "PAN vs VAT in Nepal: Understanding the Difference",
+      "url": "/blog/pan-vs-vat-nepal-differences/"
+    },
+    {
+      "title": "What Financial Documents to Maintain for Tax Compliance",
+      "url": "/blog/financial-documents-tax-compliance-nepal/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Inland Revenue Department (IRD)",
+      "authority": "Annual Filing Guidelines",
+      "url": "https://ird.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Prepare for Flawless Annual Tax Filing",
+    "subtext": "Our Lalitpur tax consultants assist businesses with pre-audit file compilation and e-TDS reconciliation.",
+    "buttonText": "Schedule Pre-Filing Review",
+    "buttonLink": "/tax-planning-compliance-nepal/"
+  }
+}

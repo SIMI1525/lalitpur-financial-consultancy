@@ -1,0 +1,63 @@
+{
+  "id": "c6-a2",
+  "url": "/blog/business-structure-comparison-nepal/",
+  "type": "article",
+  "cluster": "Company Registration",
+  "clusterName": "Business Registration and Licensing",
+  "primaryKeyword": "business structure comparison nepal",
+  "secondaryKeywords": [
+    "sole proprietorship vs partnership vs pvt ltd nepal",
+    "company types companies act 2063",
+    "business structuring advisory"
+  ],
+  "title": "Business Structure Comparison in Nepal: Sole Prop vs. Partnership vs. Pvt Ltd",
+  "metaDescription": "Compare business structures in Nepal: Sole Proprietorship, Partnership, Private Limited, and Public Limited. Evaluate liability, taxes, and registration authorities.",
+  "searchIntent": "Decision Guidance",
+  "h1": "Business Structure Comparison: Which Factors Should Entrepreneurs Consider?",
+  "directAnswer": "Choosing a business structure in Nepal depends on three primary factors: personal liability protection, capital requirements, and ownership flexibility. A Sole Proprietorship is simpler to register but exposes personal assets to unlimited liability; a Partnership shares responsibility but retains unlimited liability; while a Private Limited Company (Pvt. Ltd.) registered under Companies Act 2063 provides complete limited liability and scalable corporate shareholding.",
+  "readTime": "6 min read",
+  "author": "Lalitpur Advisory Research Desk",
+  "publishedDate": "2026-01-19",
+  "lastReviewed": "2026-10-15",
+  "primaryMoneyPageLink": "/business-registration-licensing-nepal/",
+  "primaryMoneyPageAnchor": "business structuring advisory",
+  "sections": [
+    {
+      "h2": "Comprehensive Structural Comparison Matrix",
+      "contentHtml": "<p>Carefully evaluate the legal differences between the three most popular commercial entities in Nepal:</p><div class='overflow-x-auto my-4'><table class='w-full text-xs text-left border border-slate-200'><thead class='bg-slate-100 text-slate-800 font-bold'><tr><th class='p-3 border-b'>Feature</th><th class='p-3 border-b'>Sole Proprietorship Firm</th><th class='p-3 border-b'>Partnership Firm</th><th class='p-3 border-b'>Private Limited (Pvt. Ltd.)</th></tr></thead><tbody class='divide-y divide-slate-100'><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Governing Law</td><td class='p-3'>Private Firm Registration Act 2014</td><td class='p-3'>Partnership Act 2020</td><td class='p-3'>Companies Act 2063</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Registering Authority</td><td class='p-3'>Municipal Ward Office / Dept of Commerce</td><td class='p-3'>Department of Commerce & Supplies</td><td class='p-3'>Office of Company Registrar (OCR)</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Owner Liability</td><td class='p-3'>Unlimited (personal assets at risk)</td><td class='p-3'>Unlimited (joint and several)</td><td class='p-3'>Limited strictly to unpaid share capital</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Separate Legal Entity?</td><td class='p-3'>No (owner and firm are one)</td><td class='p-3'>No</td><td class='p-3'>Yes (distinct legal person)</td></tr><tr class='hover:bg-slate-50'><td class='p-3 font-semibold'>Transferability of Ownership</td><td class='p-3'>Difficult / Requires firm dissolution</td><td class='p-3'>Requires partner consent</td><td class='p-3'>Simple via OCR share transfer deed (Share Lagat)</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "Strategic Recommendations for Founders",
+      "contentHtml": "<p>For small local retail shops, a sole proprietorship registered at the local Ward Office may suffice. However, for technology startups, trading businesses, consulting firms, or any enterprise seeking bank loans and outside investors, a Private Limited Company is strongly recommended. Discover our specialized <a href='/business-registration-licensing-nepal/' class='text-terracotta hover:underline font-semibold'>business structuring advisory</a> services.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can a sole proprietorship be converted into a Private Limited company later?",
+      "answer": "Yes. A proprietorship can be transitioned into a Private Limited company by establishing a new Pvt Ltd entity and formally transferring assets, liabilities, and trade name through approved board and tax documentation."
+    }
+  ],
+  "relatedArticles": [
+    {
+      "title": "How to Register a Private Limited Company in Nepal",
+      "url": "/blog/how-to-register-private-limited-company-nepal/"
+    },
+    {
+      "title": "Documents Needed When Registering a Business in Nepal",
+      "url": "/blog/documents-needed-registering-business-nepal/"
+    }
+  ],
+  "officialReferences": [
+    {
+      "name": "Department of Commerce, Supplies and Consumer Protection",
+      "authority": "Sole Prop & Partnership Regulator",
+      "url": "https://doc.gov.np"
+    }
+  ],
+  "cta": {
+    "headline": "Select the Optimal Corporate Structure",
+    "subtext": "Consult with our corporate structuring advisors in Lalitpur before committing to incorporation.",
+    "buttonText": "Schedule Structure Review",
+    "buttonLink": "/business-registration-licensing-nepal/"
+  }
+}
