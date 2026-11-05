@@ -1073,17 +1073,984 @@
   }
 
   // ==========================================
+
+  // ==========================================
+  // DEDICATED FINANCIAL CONSULTANCY LANDING RENDERER
+  // ==========================================
+  function renderFinancialConsultancyLanding() {
+    return `
+<article class="py-10 px-4 sm:px-6 max-w-5xl mx-auto space-y-16">
+
+  <!-- ============================================================
+       HERO SECTION: H1 & KEY INTENT
+  ============================================================ -->
+  <header class="space-y-6 pb-12 border-b border-slate-200">
+    <div class="flex flex-wrap items-center gap-2">
+      <span class="inline-flex items-center gap-1.5 bg-[#FAF7F2] border border-stone text-forest text-xs px-3 py-1 rounded-full font-medium">
+        <i class="fa-solid fa-shield-halved text-terracotta"></i> Core Practice Vertical &bull; Financial Consulting
+      </span>
+      <span class="text-xs text-slate-400">&bull;</span>
+      <span class="inline-flex items-center gap-1 text-xs text-emerald-700 bg-emerald-50 border border-emerald-200 px-2.5 py-0.5 rounded-full font-semibold">
+        <i class="fa-solid fa-circle-check text-[10px]"></i> Pulchowk, Lalitpur &bull; Serving All 7 Provinces
+      </span>
+    </div>
+
+    <!-- Approved H1 -->
+    <h1 class="text-3xl sm:text-5xl md:text-6xl font-serif font-bold text-forest leading-[1.15]">
+      Expert Financial Consultancy Services in Nepal
+    </h1>
+
+    <!-- Direct Answer Advisory Snippet -->
+    <div class="p-5 bg-[#FAF7F2] border-l-4 border-terracotta rounded-r-xl text-slate-800 text-sm md:text-base leading-relaxed shadow-sm">
+      <div class="flex items-center gap-2 font-bold text-forest text-sm uppercase tracking-wider mb-1.5">
+        <i class="fa-solid fa-circle-info text-terracotta"></i> Direct Practice Advisory:
+      </div>
+      <p>
+        <strong>Financial consultancy</strong> is the structured professional discipline of diagnosing an organization's or individual's capital structure, cash flow architecture, and statutory exposure to craft actionable tax planning, accounting controls, and growth strategies. In Nepal—governed under the <em>Inland Revenue Department (IRD)</em>, <em>Office of the Company Registrar (OCR)</em>, <em>Nepal Rastra Bank (NRB)</em>, and <em>Social Security Fund (SSF)</em>—our Lalitpur advisory delivers end-to-end guidance ensuring corporate longevity, tax compliance, and investor readiness nationwide.
+      </p>
+    </div>
+
+    <!-- Action Bar -->
+    <div class="flex flex-wrap items-center gap-3 pt-2">
+      <button onclick="document.getElementById('consultation-modal').classList.remove('hidden')" class="btn-primary text-xs sm:text-sm py-2.5 px-5 shadow-sm">
+        <i class="fa-solid fa-calendar-check mr-1.5"></i> Book Free Consultation Session
+      </button>
+      <a href="https://wa.me/9779851082345" target="_blank" rel="noopener" class="inline-flex items-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white text-xs sm:text-sm font-semibold px-4 py-2.5 rounded transition shadow-sm">
+        <i class="fa-brands fa-whatsapp text-sm"></i> WhatsApp: +977-9851082345
+      </a>
+      <a href="tel:+97715542100" class="btn-secondary text-xs sm:text-sm py-2.5 px-4">
+        <i class="fa-solid fa-phone mr-1.5 text-sky-600"></i> +977-1-5542100
+      </a>
+    </div>
+
+    <!-- Credibility Stats Strip -->
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 pt-6 border-t border-slate-200/80 text-left">
+      <div class="p-4 bg-white rounded-lg border border-slate-200">
+        <div class="text-2xl sm:text-3xl font-serif font-bold text-forest">15+ Yrs</div>
+        <div class="text-xs text-slate-500 mt-1 font-medium">Combined Advisory Experience</div>
+      </div>
+      <div class="p-4 bg-white rounded-lg border border-slate-200">
+        <div class="text-2xl sm:text-3xl font-serif font-bold text-terracotta">500+</div>
+        <div class="text-xs text-slate-500 mt-1 font-medium">Nepali Businesses Advised</div>
+      </div>
+      <div class="p-4 bg-white rounded-lg border border-slate-200">
+        <div class="text-2xl sm:text-3xl font-serif font-bold text-forest">100%</div>
+        <div class="text-xs text-slate-500 mt-1 font-medium">IRD, OCR, NRB & ICAN Aligned</div>
+      </div>
+      <div class="p-4 bg-white rounded-lg border border-slate-200">
+        <div class="text-2xl sm:text-3xl font-serif font-bold text-terracotta">7 Provinces</div>
+        <div class="text-xs text-slate-500 mt-1 font-medium">In-Person & Remote Support</div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ============================================================
+       H2-1: WHAT IS FINANCIAL CONSULTANCY & WHY IT MATTERS
+  ============================================================ -->
+  <section id="what-is-financial-consultancy" class="space-y-6">
+    <div>
+      <span class="text-xs font-bold text-terracotta uppercase tracking-wider">Definitional Overview</span>
+      <!-- Approved H2-1 -->
+      <h2 class="text-2xl sm:text-4xl font-serif font-bold text-forest mt-1 mb-3">
+        What Is Financial Consultancy and Why Does It Matter for Your Business?
+      </h2>
+      <p class="text-slate-700 text-sm sm:text-base leading-relaxed">
+        Financial consultancy extends substantially beyond periodic ledger entry or retrospective tax calculations. A certified financial consulting practice conducts comprehensive diagnostic evaluations of organizational assets, current liabilities, operational margins, and compliance posture under Nepal’s statutory codes. By formulating forward-looking models, we empower business owners to protect operational liquidity, reduce tax liabilities, and ensure seamless audits.
+      </p>
+    </div>
+
+    <div class="grid md:grid-cols-3 gap-6">
+      <!-- H3-1a -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="w-10 h-10 rounded bg-[#FAF7F2] text-terracotta flex items-center justify-center text-lg mb-4 border border-stone">
+            <i class="fa-solid fa-compass"></i>
+          </div>
+          <h3 class="text-lg font-bold text-forest mb-2">
+            The Role of a Financial Consultant in Nepal
+          </h3>
+          <p class="text-xs sm:text-sm text-slate-600 leading-relaxed">
+            A financial consultant acts as a strategic navigator for Nepali enterprises. While traditional bookkeepers document past transactions, a financial consultant shapes future performance: building cash runway models, aligning pricing with VAT thresholds, planning quarterly advance tax obligations, and representing client interests before municipal ward and federal authorities.
+          </p>
+        </div>
+        <div class="mt-4 pt-3 border-t border-slate-100 text-[11px] font-bold text-forest flex items-center gap-1.5">
+          <i class="fa-solid fa-check text-emerald-600"></i> Proactive Forecasting & Planning
+        </div>
+      </div>
+
+      <!-- H3-1b -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="w-10 h-10 rounded bg-[#FAF7F2] text-terracotta flex items-center justify-center text-lg mb-4 border border-stone">
+            <i class="fa-solid fa-scale-balanced"></i>
+          </div>
+          <h3 class="text-lg font-bold text-forest mb-2">
+            Financial Consultant vs. Chartered Accountant: Key Differences
+          </h3>
+          <p class="text-xs sm:text-sm text-slate-600 leading-relaxed">
+            Under the <em>Nepal Chartered Accountants Act 2053</em>, only ICAN-licensed CAs can execute statutory independent audits and issue legal audit opinions. A financial consultant serves as internal management advisor, tax strategist, and financial architect. We collaborate with licensed CAs so your statutory annual audit is completely frictionless.
+          </p>
+        </div>
+        <div class="mt-4 pt-3 border-t border-slate-100 text-[11px] font-bold text-forest flex items-center gap-1.5">
+          <i class="fa-solid fa-check text-emerald-600"></i> Synergistic Compliance & Growth
+        </div>
+      </div>
+
+      <!-- H3-1c -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="w-10 h-10 rounded bg-[#FAF7F2] text-terracotta flex items-center justify-center text-lg mb-4 border border-stone">
+            <i class="fa-solid fa-business-time"></i>
+          </div>
+          <h3 class="text-lg font-bold text-forest mb-2">
+            When Should You Hire a Financial Consultancy Firm?
+          </h3>
+          <p class="text-xs sm:text-sm text-slate-600 leading-relaxed">
+            The ideal time to engage a financial advisory firm is before complications emerge: when establishing a private limited entity at the OCR, prior to registering for VAT with the IRD, when preparing loan applications for commercial banks, during revenue scaling beyond NPR 2 crore, or when structuring foreign investment equity under FITTA.
+          </p>
+        </div>
+        <div class="mt-4 pt-3 border-t border-slate-100 text-[11px] font-bold text-forest flex items-center gap-1.5">
+          <i class="fa-solid fa-check text-emerald-600"></i> Risk Mitigation from Inception
+        </div>
+      </div>
+    </div>
+
+    <!-- Comparative Table: Featured Snippet Target -->
+    <div class="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm">
+      <div class="bg-forest px-6 py-4 text-white">
+        <h4 class="font-bold text-xs uppercase tracking-wider text-slate-300">Nepal Statutory Distinction (Featured Guide)</h4>
+        <div class="text-lg font-serif font-bold text-ivory">Financial Consultant vs. Statutory Chartered Accountant (CA)</div>
+      </div>
+      <div class="overflow-x-auto">
+        <table class="w-full text-left text-xs sm:text-sm">
+          <thead class="bg-[#FAF7F2] border-b border-slate-200 font-bold text-forest">
+            <tr>
+              <th class="py-3 px-5">Comparison Parameter</th>
+              <th class="py-3 px-5 text-terracotta">Financial Consultant (Lalitpur Advisory)</th>
+              <th class="py-3 px-5 text-slate-800">Statutory Chartered Accountant (CA)</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-100 text-slate-700">
+            <tr>
+              <td class="py-3 px-5 font-semibold text-forest">Primary Objective</td>
+              <td class="py-3 px-5">Forward-looking strategy, tax optimization, and cash planning</td>
+              <td class="py-3 px-5">Historical verification, audit certification, and ICAN compliance</td>
+            </tr>
+            <tr>
+              <td class="py-3 px-5 font-semibold text-forest">Legal Mandate</td>
+              <td class="py-3 px-5">Continuous operational advisory, outsourced CFO, and bookkeeping</td>
+              <td class="py-3 px-5">Mandatory annual statutory audit under Companies Act 2063</td>
+            </tr>
+            <tr>
+              <td class="py-3 px-5 font-semibold text-forest">Statutory Acts</td>
+              <td class="py-3 px-5">Companies Act 2063, Income Tax Act 2058, VAT Act 2052</td>
+              <td class="py-3 px-5">Nepal Chartered Accountants Act 2053 (ICAN regulation)</td>
+            </tr>
+            <tr>
+              <td class="py-3 px-5 font-semibold text-forest">Engagement Cadence</td>
+              <td class="py-3 px-5">Continuous year-round partnership and operational guidance</td>
+              <td class="py-3 px-5">Independent retrospective review at fiscal year-end (Ashadh/Ashwin)</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       H2-2: COMMON FINANCIAL CHALLENGES
+  ============================================================ -->
+  <section id="financial-challenges-nepal" class="space-y-6">
+    <div>
+      <span class="text-xs font-bold text-terracotta uppercase tracking-wider">Nepal Market Realities</span>
+      <!-- Approved H2-2 -->
+      <h2 class="text-2xl sm:text-4xl font-serif font-bold text-forest mt-1 mb-3">
+        Common Financial Challenges Businesses Face in Nepal
+      </h2>
+      <p class="text-slate-700 text-sm sm:text-base leading-relaxed">
+        Operating across the Kathmandu Valley and Nepal's commercial hubs presents distinctive hurdles requiring localized regulatory navigation.
+      </p>
+    </div>
+
+    <div class="grid md:grid-cols-3 gap-6">
+      <!-- H3-2a -->
+      <div class="p-6 bg-white rounded-xl border-l-4 border-l-terracotta border-t border-r border-b border-slate-200 shadow-sm">
+        <h3 class="text-lg font-bold text-forest mb-2">
+          Navigating Nepal's Complex Tax and Regulatory Environment
+        </h3>
+        <p class="text-xs sm:text-sm text-slate-600 leading-relaxed">
+          Nepal's tax legislation undergoes extensive annual amendments via the government's Finance Act. Withholding tax (TDS) schedules, mandatory VAT Annexure e-filings, and strict quarterly advance tax dates (Poush 15, Chaitra 15, Ashadh 15) carry immediate 15% interest penalties and late fines if missed by even one business day.
+        </p>
+      </div>
+
+      <!-- H3-2b -->
+      <div class="p-6 bg-white rounded-xl border-l-4 border-l-terracotta border-t border-r border-b border-slate-200 shadow-sm">
+        <h3 class="text-lg font-bold text-forest mb-2">
+          Cash Flow Problems and Poor Financial Planning in SMEs
+        </h3>
+        <p class="text-xs sm:text-sm text-slate-600 leading-relaxed">
+          Over 70% of Nepali private enterprises struggle with prolonged debtor collection cycles (averaging 75–120 days) and seasonal revenue fluctuations. Without structured cash forecasting and working capital buffers, profitable paper balance sheets frequently suffer devastating liquidity freezes during festival bonus or tax installment cycles.
+        </p>
+      </div>
+
+      <!-- H3-2c -->
+      <div class="p-6 bg-white rounded-xl border-l-4 border-l-terracotta border-t border-r border-b border-slate-200 shadow-sm">
+        <h3 class="text-lg font-bold text-forest mb-2">
+          The Cost of Getting Business Registration Wrong in Nepal
+        </h3>
+        <p class="text-xs sm:text-sm text-slate-600 leading-relaxed">
+          Inappropriate corporate structuring—such as registering a sole proprietorship when equity expansion is needed, miscalculating authorized share capital at the OCR, or ignoring mandatory local ward municipality certifications—incurs substantial legal fees and operational halts during subsequent corporate restructuring.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       H2-3: CORE FINANCIAL CONSULTING SERVICES
+  ============================================================ -->
+  <section id="our-services" class="space-y-8">
+    <div>
+      <span class="text-xs font-bold text-terracotta uppercase tracking-wider">Practice Verticals</span>
+      <!-- Approved H2-3 -->
+      <h2 class="text-2xl sm:text-4xl font-serif font-bold text-forest mt-1 mb-3">
+        Our Financial Consultancy Services in Lalitpur, Nepal
+      </h2>
+      <p class="text-slate-700 text-sm sm:text-base leading-relaxed">
+        We deliver end-to-end financial consultancy for businesses and high-net-worth individuals across Nepal, aligning operations with the Inland Revenue Department (IRD), Office of Company Registrar (OCR), and Nepal Rastra Bank (NRB).
+      </p>
+    </div>
+
+    <div class="space-y-6">
+
+      <!-- 3a: Tax Planning -->
+      <div class="p-6 sm:p-8 bg-[#FAF7F2] rounded-xl border border-stone">
+        <div class="flex items-center gap-3 mb-3">
+          <span class="w-8 h-8 rounded bg-forest text-ivory flex items-center justify-center font-bold text-sm">1</span>
+          <h3 class="text-xl sm:text-2xl font-serif font-bold text-forest">
+            Tax Planning and IRD Compliance Advisory
+          </h3>
+        </div>
+        <p class="text-slate-700 text-xs sm:text-sm leading-relaxed mb-5">
+          Proactive tax strategies that legally minimize liabilities while maintaining immaculate standing with Inland Revenue Offices (IROs) across Nepal.
+        </p>
+        <div class="grid sm:grid-cols-2 gap-4">
+          <div class="p-4 bg-white rounded-lg border border-slate-200">
+            <h4 class="text-xs sm:text-sm font-bold text-terracotta mb-1.5">VAT Registration, Filing and Reconciliation</h4>
+            <p class="text-xs text-slate-600 leading-relaxed">
+              Timely Form 13 monthly filings on the IRD portal, purchase/sales register reconciliations under Section 16 of the VAT Act, credit adjustments, and handling departmental audit notices.
+            </p>
+          </div>
+          <div class="p-4 bg-white rounded-lg border border-slate-200">
+            <h4 class="text-xs sm:text-sm font-bold text-terracotta mb-1.5">Corporate Income Tax and Advance Tax Planning</h4>
+            <p class="text-xs text-slate-600 leading-relaxed">
+              Structuring corporate tax liabilities (standard 25%, manufacturing 20%), modeling quarterly installments (40% Poush, 70% Chaitra, 100% Ashadh), and optimizing allowable deductible expenses under Sections 13-21 of the Income Tax Act.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- 3b: Accounting & Bookkeeping -->
+      <div class="p-6 sm:p-8 bg-[#FAF7F2] rounded-xl border border-stone">
+        <div class="flex items-center gap-3 mb-3">
+          <span class="w-8 h-8 rounded bg-forest text-ivory flex items-center justify-center font-bold text-sm">2</span>
+          <h3 class="text-xl sm:text-2xl font-serif font-bold text-forest">
+            Accounting and Bookkeeping Services
+          </h3>
+        </div>
+        <p class="text-slate-700 text-xs sm:text-sm leading-relaxed mb-5">
+          Systematic, cloud-supported record-keeping giving management granular clarity on operational metrics and margins.
+        </p>
+        <div class="grid sm:grid-cols-2 gap-4">
+          <div class="p-4 bg-white rounded-lg border border-slate-200">
+            <h4 class="text-xs sm:text-sm font-bold text-terracotta mb-1.5">Monthly Management Accounts and Ledger Maintenance</h4>
+            <p class="text-xs text-slate-600 leading-relaxed">
+              Standardized journalizing, bank reconciliations, aging analysis of accounts receivable, monthly Profit & Loss, and Balance Sheet reporting delivered within the first week of every month.
+            </p>
+          </div>
+          <div class="p-4 bg-white rounded-lg border border-slate-200">
+            <h4 class="text-xs sm:text-sm font-bold text-terracotta mb-1.5">Nepal Financial Reporting Standards (NFRS) Compliance</h4>
+            <p class="text-xs text-slate-600 leading-relaxed">
+              Full alignment with NFRS and NAS standards mandated by the Accounting Standards Board (ASB) of Nepal, preparing statutory schedules for audit certification.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- 3c: Business Registration -->
+      <div class="p-6 sm:p-8 bg-[#FAF7F2] rounded-xl border border-stone">
+        <div class="flex items-center gap-3 mb-3">
+          <span class="w-8 h-8 rounded bg-forest text-ivory flex items-center justify-center font-bold text-sm">3</span>
+          <h3 class="text-xl sm:text-2xl font-serif font-bold text-forest">
+            Business Registration and Licensing
+          </h3>
+        </div>
+        <p class="text-slate-700 text-xs sm:text-sm leading-relaxed mb-5">
+          End-to-end statutory entity formation and industry licensing across the Kathmandu Valley and provincial capitals.
+        </p>
+        <div class="grid sm:grid-cols-2 gap-4">
+          <div class="p-4 bg-white rounded-lg border border-slate-200">
+            <h4 class="text-xs sm:text-sm font-bold text-terracotta mb-1.5">Private Limited Company Registration at OCR</h4>
+            <p class="text-xs text-slate-600 leading-relaxed">
+              OCR name clearance, preparation of Articles of Association (AoA) and Memorandum of Association (MoA), digital token submission, and company incorporation certificate issuance.
+            </p>
+          </div>
+          <div class="p-4 bg-white rounded-lg border border-slate-200">
+            <h4 class="text-xs sm:text-sm font-bold text-terracotta mb-1.5">Industry-Specific Licensing and Ward-Level Permits</h4>
+            <p class="text-xs text-slate-600 leading-relaxed">
+              Securing municipal ward registration, Department of Industry (DOI) manufacturing permits, Department of Tourism licenses, and Cottage and Small Industry permits.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- 3d: Personal Finance -->
+      <div class="p-6 sm:p-8 bg-[#FAF7F2] rounded-xl border border-stone">
+        <div class="flex items-center gap-3 mb-3">
+          <span class="w-8 h-8 rounded bg-forest text-ivory flex items-center justify-center font-bold text-sm">4</span>
+          <h3 class="text-xl sm:text-2xl font-serif font-bold text-forest">
+            Personal Financial Planning and Wealth Management
+          </h3>
+        </div>
+        <p class="text-slate-700 text-xs sm:text-sm leading-relaxed mb-5">
+          Holistic wealth accumulation, emergency hedging, and tax minimization for salaried professionals, tech freelancers, and entrepreneurs.
+        </p>
+        <div class="grid sm:grid-cols-2 gap-4">
+          <div class="p-4 bg-white rounded-lg border border-slate-200">
+            <h4 class="text-xs sm:text-sm font-bold text-terracotta mb-1.5">Budget Planning and Emergency Fund Strategy</h4>
+            <p class="text-xs text-slate-600 leading-relaxed">
+              Constructing tailored cash allocations (50/30/20 principle adapted for Nepal's living costs), emergency liquid reserves in high-yield savings instruments, and liability reduction schedules.
+            </p>
+          </div>
+          <div class="p-4 bg-white rounded-lg border border-slate-200">
+            <h4 class="text-xs sm:text-sm font-bold text-terracotta mb-1.5">Retirement and Long-Term Savings Planning for Nepalis</h4>
+            <p class="text-xs text-slate-600 leading-relaxed">
+              Evaluating Citizen Investment Trust (CIT), Provident Fund (EPF), mutual fund portfolios, and life insurance tax deductions (up to NPR 40,000 allowance under Section 63).
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- 3e: Business Consulting & CFO -->
+      <div class="p-6 sm:p-8 bg-[#FAF7F2] rounded-xl border border-stone">
+        <div class="flex items-center gap-3 mb-3">
+          <span class="w-8 h-8 rounded bg-forest text-ivory flex items-center justify-center font-bold text-sm">5</span>
+          <h3 class="text-xl sm:text-2xl font-serif font-bold text-forest">
+            Business Financial Consulting and CFO Advisory
+          </h3>
+        </div>
+        <p class="text-slate-700 text-xs sm:text-sm leading-relaxed mb-5">
+          Executive-level financial leadership for scaling enterprises without the payroll burden of an in-house full-time CFO.
+        </p>
+        <div class="grid sm:grid-cols-2 gap-4">
+          <div class="p-4 bg-white rounded-lg border border-slate-200">
+            <h4 class="text-xs sm:text-sm font-bold text-terracotta mb-1.5">Cash Flow Forecasting for Growing Businesses</h4>
+            <p class="text-xs text-slate-600 leading-relaxed">
+              Detailed rolling cash-flow models assessing burn rate, runway, debtor collection efficiency, and strategic capital expenditure thresholds.
+            </p>
+          </div>
+          <div class="p-4 bg-white rounded-lg border border-slate-200">
+            <h4 class="text-xs sm:text-sm font-bold text-terracotta mb-1.5">Financial Feasibility Studies and Project Valuation</h4>
+            <p class="text-xs text-slate-600 leading-relaxed">
+              Comprehensive Detailed Project Reports (DPR), discounted cash flow (DCF) valuations, and financial viability studies required for bank consortium financing or venture equity raising.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- 3f: Legal Compliance -->
+      <div class="p-6 sm:p-8 bg-[#FAF7F2] rounded-xl border border-stone">
+        <div class="flex items-center gap-3 mb-3">
+          <span class="w-8 h-8 rounded bg-forest text-ivory flex items-center justify-center font-bold text-sm">6</span>
+          <h3 class="text-xl sm:text-2xl font-serif font-bold text-forest">
+            Legal Compliance and Regulatory Support
+          </h3>
+        </div>
+        <p class="text-slate-700 text-xs sm:text-sm leading-relaxed mb-5">
+          Total institutional security ensuring absolute conformity with labor, investment, and central bank directives.
+        </p>
+        <div class="grid sm:grid-cols-2 gap-4">
+          <div class="p-4 bg-white rounded-lg border border-slate-200">
+            <h4 class="text-xs sm:text-sm font-bold text-terracotta mb-1.5">Labour Act 2074 and Social Security Fund (SSF) Compliance</h4>
+            <p class="text-xs text-slate-600 leading-relaxed">
+              Statutory 31% SSF payroll administration (20% employer + 11% employee contribution), employment contracts, and labor inspection preparedness.
+            </p>
+          </div>
+          <div class="p-4 bg-white rounded-lg border border-slate-200">
+            <h4 class="text-xs sm:text-sm font-bold text-terracotta mb-1.5">Foreign Direct Investment (FDI) Advisory and NRB Approvals</h4>
+            <p class="text-xs text-slate-600 leading-relaxed">
+              Foreign investment approvals under FITTA 2019, Department of Industry clearance, Nepal Rastra Bank foreign exchange account setups, and profit repatriation structuring.
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ============================================================
+       H2-4: WHO BENEFITS FROM FINANCIAL CONSULTANCY
+  ============================================================ -->
+  <section id="who-we-serve" class="space-y-6">
+    <div>
+      <span class="text-xs font-bold text-terracotta uppercase tracking-wider">Client Profiles</span>
+      <!-- Approved H2-4 -->
+      <h2 class="text-2xl sm:text-4xl font-serif font-bold text-forest mt-1 mb-3">
+        Who Benefits from Financial Consultancy in Nepal?
+      </h2>
+      <p class="text-slate-700 text-sm sm:text-base leading-relaxed">
+        Our services are calibrated for exact lifecycle stages, whether you are bootstrapping an agile software firm or navigating capital repatriation for an overseas parent entity.
+      </p>
+    </div>
+
+    <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
+      <!-- H3-4a -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="w-9 h-9 rounded bg-[#FAF7F2] text-terracotta flex items-center justify-center text-sm mb-3 border border-stone font-bold">
+            <i class="fa-solid fa-rocket"></i>
+          </div>
+          <h3 class="text-base font-bold text-forest mb-2">Small and Medium Enterprises (SMEs) and Startups</h3>
+          <p class="text-xs text-slate-600 leading-relaxed">
+            Eliminate costly administrative errors, streamline tax filings, and establish professional financial reporting essential for securing bank debt or angel investment.
+          </p>
+        </div>
+        <span class="text-terracotta text-xs font-bold mt-4 block">Scalable CFO Support &rarr;</span>
+      </div>
+
+      <!-- H3-4b -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="w-9 h-9 rounded bg-[#FAF7F2] text-terracotta flex items-center justify-center text-sm mb-3 border border-stone font-bold">
+            <i class="fa-solid fa-user-tie"></i>
+          </div>
+          <h3 class="text-base font-bold text-forest mb-2">Individual Professionals and Salaried Employees</h3>
+          <p class="text-xs text-slate-600 leading-relaxed">
+            Optimize income tax allowances, structure remote tech consulting income (foreign inward remittance tax rates), and execute personalized wealth-building plans.
+          </p>
+        </div>
+        <span class="text-terracotta text-xs font-bold mt-4 block">Personal Tax Strategy &rarr;</span>
+      </div>
+
+      <!-- H3-4c -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="w-9 h-9 rounded bg-[#FAF7F2] text-terracotta flex items-center justify-center text-sm mb-3 border border-stone font-bold">
+            <i class="fa-solid fa-globe"></i>
+          </div>
+          <h3 class="text-base font-bold text-forest mb-2">Foreign Investors and FDI Companies Entering Nepal</h3>
+          <p class="text-xs text-slate-600 leading-relaxed">
+            Gain bilingual, reliable navigation through the Department of Industry (DOI), NRB exchange regulations, and Double Taxation Avoidance Agreements (DTAA).
+          </p>
+        </div>
+        <span class="text-terracotta text-xs font-bold mt-4 block">Cross-Border Ease &rarr;</span>
+      </div>
+
+      <!-- H3-4d -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="w-9 h-9 rounded bg-[#FAF7F2] text-terracotta flex items-center justify-center text-sm mb-3 border border-stone font-bold">
+            <i class="fa-solid fa-hand-holding-heart"></i>
+          </div>
+          <h3 class="text-base font-bold text-forest mb-2">NGOs, INGOs and Non-Profit Organisations Operating in Nepal</h3>
+          <p class="text-xs text-slate-600 leading-relaxed">
+            Ensure strict Social Welfare Council (SWC) compliance, project fund accounting, withholding tax exemptions, and immaculate audit trails for international donors.
+          </p>
+        </div>
+        <span class="text-terracotta text-xs font-bold mt-4 block">Institutional Rigor &rarr;</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       H2-5: NEPAL FINANCIAL LANDSCAPE
+  ============================================================ -->
+  <section id="nepal-financial-landscape" class="space-y-6">
+    <div>
+      <span class="text-xs font-bold text-terracotta uppercase tracking-wider">Nepal Regulatory Framework</span>
+      <!-- Approved H2-5 -->
+      <h2 class="text-2xl sm:text-4xl font-serif font-bold text-forest mt-1 mb-3">
+        Understanding the Financial Landscape in Nepal
+      </h2>
+      <p class="text-slate-700 text-sm sm:text-base leading-relaxed">
+        A grounded understanding of Nepal's unique statutory framework is indispensable for sound financial leadership.
+      </p>
+    </div>
+
+    <div class="grid md:grid-cols-2 gap-6">
+      <!-- H3-5a -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm">
+        <h3 class="text-lg font-bold text-forest mb-2 flex items-center gap-2">
+          <i class="fa-solid fa-calendar-days text-terracotta"></i>
+          Nepal's Fiscal Year: Shrawan to Ashad and Key Compliance Deadlines
+        </h3>
+        <p class="text-xs sm:text-sm text-slate-600 leading-relaxed mb-3">
+          Nepal follows the Bikram Sambat calendar. The financial year commences on <strong>1st Shrawan</strong> and concludes on <strong>31st Ashadh</strong> (approx. July 16 to July 15). Key statutory milestones:
+        </p>
+        <ul class="text-xs text-slate-700 space-y-1.5 border-l-2 border-terracotta pl-3">
+          <li><strong>25th of Every Month:</strong> Monthly VAT-13 submission & TDS deposit at the IRD.</li>
+          <li><strong>Poush-End (mid-Jan):</strong> 1st Advance Tax Installment (40%) & Annual Financial Statements filing.</li>
+          <li><strong>Chaitra-End (mid-April):</strong> 2nd Advance Tax Installment (cumulative 70%).</li>
+          <li><strong>Ashadh-End (mid-July):</strong> Final Advance Tax Installment (100%) & Fiscal Year-End closure.</li>
+        </ul>
+      </div>
+
+      <!-- H3-5b -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm">
+        <h3 class="text-lg font-bold text-forest mb-2 flex items-center gap-2">
+          <i class="fa-solid fa-landmark text-terracotta"></i>
+          Key Regulatory Bodies: IRD, OCR, NRB, ICAN and Their Roles
+        </h3>
+        <div class="text-xs sm:text-sm text-slate-600 space-y-2">
+          <p><strong>• IRD (Inland Revenue Department):</strong> Enforces the Income Tax Act 2058 and Value Added Tax Act 2052 across 84+ IROs.</p>
+          <p><strong>• OCR (Office of the Company Registrar):</strong> Governs corporate governance, shareholder registries, and Section 80 annual returns under the Companies Act 2063.</p>
+          <p><strong>• NRB (Nepal Rastra Bank):</strong> Oversees macroeconomic stability, foreign currency loans, and FDI equity inflows.</p>
+          <p><strong>• ICAN (Institute of Chartered Accountants):</strong> Accredits auditing professionals and mandates accounting standards via ASB Nepal.</p>
+        </div>
+      </div>
+
+      <!-- H3-5c -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm">
+        <h3 class="text-lg font-bold text-forest mb-2 flex items-center gap-2">
+          <i class="fa-solid fa-receipt text-terracotta"></i>
+          PAN vs. VAT in Nepal: Which Does Your Business Need?
+        </h3>
+        <p class="text-xs sm:text-sm text-slate-600 leading-relaxed mb-3">
+          Every commercial entity must possess a <strong>Permanent Account Number (PAN)</strong>. However, mandatory <strong>Value Added Tax (VAT)</strong> registration triggers when annual transactions surpass specific statutory thresholds:
+        </p>
+        <div class="bg-[#FAF7F2] p-3 rounded border border-stone text-xs space-y-1 text-slate-800">
+          <div class="flex justify-between"><span>Sale of Goods:</span> <span class="font-bold text-terracotta">Exceeding NPR 50 Lakhs</span></div>
+          <div class="flex justify-between"><span>Provision of Services:</span> <span class="font-bold text-terracotta">Exceeding NPR 20 Lakhs</span></div>
+          <div class="flex justify-between"><span>Mixed (Goods & Services):</span> <span class="font-bold text-terracotta">Exceeding NPR 20 Lakhs</span></div>
+        </div>
+      </div>
+
+      <!-- H3-5d -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm">
+        <h3 class="text-lg font-bold text-forest mb-2 flex items-center gap-2">
+          <i class="fa-solid fa-gavel text-terracotta"></i>
+          Nepal Companies Act 2063 and Financial Reporting Obligations
+        </h3>
+        <p class="text-xs sm:text-sm text-slate-600 leading-relaxed">
+          Pursuant to <em>Section 109 of the Companies Act 2063</em>, every registered private limited company must maintain accurate books of accounts at its registered office on an accrual basis. Companies must submit an audited balance sheet, profit and loss account, cash flow statement, and director's report to the OCR within <strong>6 months of the close of each fiscal year (Poush-end)</strong> to avoid steep compounding fines and administrative freeze.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       H2-6: INDUSTRY-SPECIFIC CONSULTING
+  ============================================================ -->
+  <section id="industry-consultancy" class="space-y-6">
+    <div>
+      <span class="text-xs font-bold text-terracotta uppercase tracking-wider">Industry Verticals</span>
+      <!-- Approved H2-6 -->
+      <h2 class="text-2xl sm:text-4xl font-serif font-bold text-forest mt-1 mb-3">
+        Financial Consultancy for Key Industries in Nepal
+      </h2>
+      <p class="text-slate-700 text-sm sm:text-base leading-relaxed">
+        Different sectors face markedly different tax rules, reporting covenants, and cash dynamics under Nepali commercial jurisprudence.
+      </p>
+    </div>
+
+    <div class="grid md:grid-cols-2 gap-6">
+      <!-- H3-6a -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm">
+        <div class="w-9 h-9 rounded bg-[#FAF7F2] text-terracotta flex items-center justify-center text-sm mb-3 border border-stone font-bold">
+          <i class="fa-solid fa-mountain-sun"></i>
+        </div>
+        <h3 class="text-base font-bold text-forest mb-2">Tourism, Trekking and Hospitality Business Finance</h3>
+        <p class="text-xs sm:text-sm text-slate-600 leading-relaxed">
+          Managing high seasonal liquidity variations, foreign convertible currency accounting, Nepal Tourism Board (NTB) fees, trekking permit royalties, and input VAT recovery on hospitality infrastructure investments.
+        </p>
+      </div>
+
+      <!-- H3-6b -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm">
+        <div class="w-9 h-9 rounded bg-[#FAF7F2] text-terracotta flex items-center justify-center text-sm mb-3 border border-stone font-bold">
+          <i class="fa-solid fa-ship"></i>
+        </div>
+        <h3 class="text-base font-bold text-forest mb-2">Trading, Import-Export and Customs Duty Advisory</h3>
+        <p class="text-xs sm:text-sm text-slate-600 leading-relaxed">
+          Navigating Birgunj/Dry Port customs valuation benchmarks, Advance Income Tax (AIT) credits, letter of credit (LC) hedging with commercial banks, and multi-tier wholesale inventory costing under FIFO models.
+        </p>
+      </div>
+
+      <!-- H3-6c -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm">
+        <div class="w-9 h-9 rounded bg-[#FAF7F2] text-terracotta flex items-center justify-center text-sm mb-3 border border-stone font-bold">
+          <i class="fa-solid fa-laptop-code"></i>
+        </div>
+        <h3 class="text-base font-bold text-forest mb-2">IT Companies and Digital Business Tax Structuring in Nepal</h3>
+        <p class="text-xs sm:text-sm text-slate-600 leading-relaxed">
+          Leveraging concessional income tax incentives for software exporters, navigating 10% foreign inward remittance tax limits, intellectual property (IP) structuring, and compliant transfer pricing frameworks.
+        </p>
+      </div>
+
+      <!-- H3-6d -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm">
+        <div class="w-9 h-9 rounded bg-[#FAF7F2] text-terracotta flex items-center justify-center text-sm mb-3 border border-stone font-bold">
+          <i class="fa-solid fa-trowel-bricks"></i>
+        </div>
+        <h3 class="text-base font-bold text-forest mb-2">Construction and Real Estate Financial Planning</h3>
+        <p class="text-xs sm:text-sm text-slate-600 leading-relaxed">
+          Managing Percentage of Completion Method (PoCM) under NAS 11, joint-venture tax implications, retention money accounting, and high-capital real estate capital gains tax strategies.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       H2-7: LOCAL AUTHORITY & NATIONWIDE REACH
+  ============================================================ -->
+  <section id="lalitpur-nepal-service" class="p-8 bg-[#FAF7F2] rounded-xl border border-stone space-y-6">
+    <div>
+      <span class="text-xs font-bold text-terracotta uppercase tracking-wider">Geography & Accessibility</span>
+      <!-- Approved H2-7 -->
+      <h2 class="text-2xl sm:text-3xl font-serif font-bold text-forest mt-1 mb-2">
+        Financial Consultancy in Lalitpur: Serving All of Nepal
+      </h2>
+      <p class="text-slate-700 text-xs sm:text-sm leading-relaxed">
+        While our headquarters anchor Lalitpur's premier financial corridor, our client relationships and service infrastructure encompass every province of Nepal.
+      </p>
+    </div>
+
+    <div class="grid md:grid-cols-3 gap-6">
+      <!-- H3-7a -->
+      <div class="p-5 bg-white rounded-lg border border-slate-200">
+        <h3 class="text-sm font-bold text-forest mb-2">
+          Why Lalitpur is Nepal's Hub for Professional Financial Services
+        </h3>
+        <p class="text-xs text-slate-600 leading-relaxed">
+          The Pulchowk-Kumaripati commercial stretch hosts leading commercial banks, international development organisations, engineering institutions, and progressive startups—placing us right alongside Nepal's corporate decision-makers.
+        </p>
+      </div>
+
+      <!-- H3-7b -->
+      <div class="p-5 bg-white rounded-lg border border-slate-200">
+        <h3 class="text-sm font-bold text-forest mb-2">
+          Serving Clients Across Kathmandu Valley, Province 1, Gandaki, Lumbini and Beyond
+        </h3>
+        <p class="text-xs text-slate-600 leading-relaxed">
+          From tea producers in Koshi and hospitality operators in Pokhara to trading businesses in Birgunj and industrial manufacturers in Butwal/Bhairahawa, our advisory network is truly national.
+        </p>
+      </div>
+
+      <!-- H3-7c -->
+      <div class="p-5 bg-white rounded-lg border border-slate-200">
+        <h3 class="text-sm font-bold text-forest mb-2">
+          Remote and Online Financial Consulting Available Nationwide
+        </h3>
+        <p class="text-xs text-slate-600 leading-relaxed">
+          Through secure cloud bookkeeping systems, virtual advisory sessions, and digital portal integrations, entrepreneurs from Dhangadhi to Ilam receive instantaneous financial advisory without travel overhead.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       H2-8: TRUST, CREDENTIALS & E-E-A-T
+  ============================================================ -->
+  <section id="why-choose-us" class="space-y-6">
+    <div>
+      <span class="text-xs font-bold text-terracotta uppercase tracking-wider">Institutional Trust</span>
+      <!-- Approved H2-8 -->
+      <h2 class="text-2xl sm:text-4xl font-serif font-bold text-forest mt-1 mb-3">
+        Why Choose Financial Consultancy Lalitpur?
+      </h2>
+      <p class="text-slate-700 text-sm sm:text-base leading-relaxed">
+        We bridge the gap between abstract academic accounting and the practical ground realities of building a profitable, legally unassailable business in Nepal.
+      </p>
+    </div>
+
+    <div class="grid md:grid-cols-2 gap-6">
+      <!-- H3-8a -->
+      <div class="p-5 bg-white rounded-xl border border-slate-200 flex gap-4">
+        <div class="text-xl text-terracotta"><i class="fa-solid fa-graduation-cap"></i></div>
+        <div>
+          <h3 class="text-sm font-bold text-forest mb-1">Our Team: Qualified Financial Experts and Management Consultants</h3>
+          <p class="text-xs text-slate-600 leading-relaxed">
+            Our advisors hold premier qualifications in commerce, finance, and corporate taxation. We pair technical tax expertise with operational business consulting.
+          </p>
+        </div>
+      </div>
+
+      <!-- H3-8b -->
+      <div class="p-5 bg-white rounded-xl border border-slate-200 flex gap-4">
+        <div class="text-xl text-terracotta"><i class="fa-solid fa-tags"></i></div>
+        <div>
+          <h3 class="text-sm font-bold text-forest mb-1">Transparent Pricing with No Hidden Fees</h3>
+          <p class="text-xs text-slate-600 leading-relaxed">
+            We provide clear, scope-locked written engagements. You will never encounter unexpected invoice add-ons for routine queries or phone consultations.
+          </p>
+        </div>
+      </div>
+
+      <!-- H3-8c -->
+      <div class="p-5 bg-white rounded-xl border border-slate-200 flex gap-4">
+        <div class="text-xl text-terracotta"><i class="fa-solid fa-shield-halved"></i></div>
+        <div>
+          <h3 class="text-sm font-bold text-forest mb-1">100% Compliance &mdash; Aligned with ICAN, IRD and OCR Standards</h3>
+          <p class="text-xs text-slate-600 leading-relaxed">
+            Strict adherence to professional ethics and statutory limits. We maintain zero-tolerance for non-compliant shortcuts that expose directors to liability.
+          </p>
+        </div>
+      </div>
+
+      <!-- H3-8d -->
+      <div class="p-5 bg-white rounded-xl border border-slate-200 flex gap-4">
+        <div class="text-xl text-terracotta"><i class="fa-solid fa-comments"></i></div>
+        <div>
+          <h3 class="text-sm font-bold text-forest mb-1">What Our Clients Say: Testimonials from Nepal Businesses</h3>
+          <p class="text-xs text-slate-600 leading-relaxed italic">
+            "Lalitpur Financial Advisory structured our company registration and IRD filings flawlessly. Their monthly cash forecasts prevented critical capital pinches during our peak festive season." &mdash; Tech Founder, Patan.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       H2-9: ENGAGEMENT PROCESS
+  ============================================================ -->
+  <section id="our-process" class="space-y-6">
+    <div>
+      <span class="text-xs font-bold text-terracotta uppercase tracking-wider">Client Journey</span>
+      <!-- Approved H2-9 -->
+      <h2 class="text-2xl sm:text-4xl font-serif font-bold text-forest mt-1 mb-3">
+        How Our Financial Consultancy Engagement Works
+      </h2>
+      <p class="text-slate-700 text-sm sm:text-base leading-relaxed">
+        A structured, predictable 4-stage pathway into organized, high-performing financial governance.
+      </p>
+    </div>
+
+    <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
+      <!-- Step 1 / H3-9a -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm relative">
+        <div class="w-8 h-8 rounded bg-forest text-ivory flex items-center justify-center font-bold text-xs mb-3">1</div>
+        <h3 class="text-sm font-bold text-forest mb-1.5">Step 1: Free Initial Consultation</h3>
+        <p class="text-xs text-slate-600 leading-relaxed">
+          A confidential 30-minute diagnostic session to assess your business model, current bookkeeping state, and immediate compliance bottlenecks.
+        </p>
+      </div>
+
+      <!-- Step 2 / H3-9b -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm relative">
+        <div class="w-8 h-8 rounded bg-forest text-ivory flex items-center justify-center font-bold text-xs mb-3">2</div>
+        <h3 class="text-sm font-bold text-forest mb-1.5">Step 2: Financial Audit and Diagnosis</h3>
+        <p class="text-xs text-slate-600 leading-relaxed">
+          Comprehensive review of historical tax returns, IRD ledger statements, OCR compliance records, and debt schedules to isolate concealed liabilities.
+        </p>
+      </div>
+
+      <!-- Step 3 / H3-9c -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm relative">
+        <div class="w-8 h-8 rounded bg-forest text-ivory flex items-center justify-center font-bold text-xs mb-3">3</div>
+        <h3 class="text-sm font-bold text-forest mb-1.5">Step 3: Custom Strategy & Implementation</h3>
+        <p class="text-xs text-slate-600 leading-relaxed">
+          Tailored accounting systems, cloud bookkeeping setup, standard tax checklists, and calibrated cash flow forecasting tools.
+        </p>
+      </div>
+
+      <!-- Step 4 / H3-9d -->
+      <div class="p-6 bg-white rounded-xl border border-slate-200 shadow-sm relative">
+        <div class="w-8 h-8 rounded bg-forest text-ivory flex items-center justify-center font-bold text-xs mb-3">4</div>
+        <h3 class="text-sm font-bold text-forest mb-1.5">Step 4: Ongoing Advisory & Support</h3>
+        <p class="text-xs text-slate-600 leading-relaxed">
+          Continuous monthly management accounts, proactive tax deadline alerts, year-round CFO advice, and seamless audit coordination with statutory CAs.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       H2-10: CTA SECTION
+  ============================================================ -->
+  <section id="book-consultation" class="p-8 sm:p-12 bg-forest text-white rounded-2xl shadow-xl space-y-8">
+    <div class="max-w-3xl">
+      <span class="inline-flex items-center gap-1.5 bg-white/10 text-ivory text-xs px-3 py-1 rounded-full font-medium mb-3 border border-white/20">
+        <i class="fa-solid fa-bolt text-terracotta"></i> Direct Advisory Engagement
+      </span>
+      <!-- Approved H2-10 -->
+      <h2 class="text-2xl sm:text-4xl font-serif font-bold text-white mb-3">
+        Book Your Free Financial Consultancy Session Today
+      </h2>
+      <p class="text-slate-300 text-xs sm:text-sm leading-relaxed">
+        Gain immediate clarity on your taxes, bookkeeping, and business structure. Speak directly with a qualified financial advisor at our Pulchowk office or via video conference.
+      </p>
+    </div>
+
+    <div class="grid md:grid-cols-2 gap-8 items-center pt-2">
+      <!-- H3-10a -->
+      <div class="space-y-4">
+        <h3 class="text-lg font-bold text-ivory">
+          Talk to a Financial Expert &mdash; No Commitment Required
+        </h3>
+        <p class="text-xs text-slate-300 leading-relaxed">
+          Schedule a zero-obligation consultation. We'll identify your three highest tax or compliance exposure risks in under 30 minutes.
+        </p>
+        <div class="space-y-2 text-xs text-slate-200 pt-2">
+          <p class="flex items-center gap-2"><i class="fa-solid fa-phone text-sky-400"></i> Landline: +977-1-5542100</p>
+          <p class="flex items-center gap-2"><i class="fa-brands fa-whatsapp text-emerald-400"></i> WhatsApp: +977-9851082345</p>
+          <p class="flex items-center gap-2"><i class="fa-solid fa-location-dot text-sky-400"></i> Apex Commercial Complex, Pulchowk-Kumaripati, Lalitpur</p>
+        </div>
+        <div class="pt-2">
+          <button onclick="document.getElementById('consultation-modal').classList.remove('hidden')" class="btn-primary text-xs py-2.5 px-5">
+            <i class="fa-solid fa-calendar-check mr-1.5"></i> Open Booking Modal
+          </button>
+        </div>
+      </div>
+
+      <!-- H3-10b -->
+      <div class="bg-white text-slate-900 p-6 rounded-xl border border-slate-200 shadow-md">
+        <h3 class="text-base font-bold text-forest mb-1">
+          Request a Custom Quote for Your Business
+        </h3>
+        <p class="text-xs text-slate-500 mb-4">Complete this quick brief and our practice director will respond promptly.</p>
+        
+        <form onsubmit="event.preventDefault(); alert('Thank you! Your inquiry has been submitted. Our practice team will contact you within 2 business hours.');" class="space-y-3 text-xs">
+          <div>
+            <label class="block font-bold text-slate-700 mb-1">Your Full Name *</label>
+            <input type="text" required placeholder="e.g. Ramesh Shrestha" class="w-full p-2.5 border border-slate-300 rounded text-xs focus:border-forest outline-none">
+          </div>
+          <div class="grid grid-cols-2 gap-2">
+            <div>
+              <label class="block font-bold text-slate-700 mb-1">Phone / WhatsApp *</label>
+              <input type="tel" required placeholder="98510..." class="w-full p-2.5 border border-slate-300 rounded text-xs focus:border-forest outline-none">
+            </div>
+            <div>
+              <label class="block font-bold text-slate-700 mb-1">Service Required *</label>
+              <select class="w-full p-2.5 border border-slate-300 rounded text-xs focus:border-forest outline-none bg-white">
+                <option>Tax Planning & IRD</option>
+                <option>Accounting & Bookkeeping</option>
+                <option>Company Registration (OCR)</option>
+                <option>Outsourced CFO Advisory</option>
+                <option>Personal Financial Planning</option>
+              </select>
+            </div>
+          </div>
+          <button type="submit" class="w-full btn-primary py-2.5 font-bold uppercase tracking-wide text-xs mt-2">
+            Submit Request for Free Advisory &rarr;
+          </button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       H2-11: COMPREHENSIVE FAQ SECTION
+  ============================================================ -->
+  <section id="faq" class="space-y-6">
+    <div>
+      <span class="text-xs font-bold text-terracotta uppercase tracking-wider">Frequently Asked Questions</span>
+      <!-- Approved H2-11 -->
+      <h2 class="text-2xl sm:text-4xl font-serif font-bold text-forest mt-1 mb-2">
+        Frequently Asked Questions About Financial Consultancy in Nepal
+      </h2>
+      <p class="text-slate-700 text-xs sm:text-sm">
+        Direct answers to common questions regarding fees, statutory audits, company incorporation, and legal requirements.
+      </p>
+    </div>
+
+    <div class="space-y-3">
+      <!-- H3-11a -->
+      <details class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm group" open>
+        <summary class="font-bold text-forest cursor-pointer flex justify-between items-center text-sm sm:text-base list-none">
+          <h3 class="text-sm sm:text-base font-bold text-forest">What Does a Financial Consultancy Firm Do in Nepal?</h3>
+          <span class="text-terracotta text-lg font-bold group-open:rotate-45 transition-transform duration-200">+</span>
+        </summary>
+        <p class="mt-3 text-xs sm:text-sm text-slate-600 leading-relaxed border-t border-slate-100 pt-3">
+          A financial consultancy firm in Nepal provides comprehensive advisory covering taxation, corporate registrations, internal bookkeeping controls, and strategic investment planning. Unlike historical auditors who inspect the past once a year, a financial consultancy acts as a continuous operational partner—monitoring rolling cash flow, filing monthly VAT and TDS returns to the IRD, preparing OCR annual reports, and preventing statutory penalties before they occur.
+        </p>
+      </details>
+
+      <!-- H3-11b -->
+      <details class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm group">
+        <summary class="font-bold text-forest cursor-pointer flex justify-between items-center text-sm sm:text-base list-none">
+          <h3 class="text-sm sm:text-base font-bold text-forest">How Much Does Financial Consultancy Cost in Nepal?</h3>
+          <span class="text-terracotta text-lg font-bold group-open:rotate-45 transition-transform duration-200">+</span>
+        </summary>
+        <p class="mt-3 text-xs sm:text-sm text-slate-600 leading-relaxed border-t border-slate-100 pt-3">
+          Financial consultancy costs in Nepal depend on the scope and size of your operation. Routine monthly bookkeeping and tax compliance for small businesses typically ranges from <strong>NPR 3,000 to NPR 10,000 per month</strong>. Comprehensive outsourced CFO services and cash modeling range from <strong>NPR 20,000 to NPR 60,000 monthly</strong>. Company incorporation at the OCR is quoted on fixed project packages starting from <strong>NPR 15,000</strong> plus statutory government registry fees.
+        </p>
+      </details>
+
+      <!-- H3-11c -->
+      <details class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm group">
+        <summary class="font-bold text-forest cursor-pointer flex justify-between items-center text-sm sm:text-base list-none">
+          <h3 class="text-sm sm:text-base font-bold text-forest">Is Financial Consultancy Different from an Audit in Nepal?</h3>
+          <span class="text-terracotta text-lg font-bold group-open:rotate-45 transition-transform duration-200">+</span>
+        </summary>
+        <p class="mt-3 text-xs sm:text-sm text-slate-600 leading-relaxed border-t border-slate-100 pt-3">
+          Yes. Under the <em>Nepal Chartered Accountants Act 2053</em>, only Chartered Accountants registered with ICAN can perform statutory external audits and issue legal audit opinions. A financial consultancy provides management consulting, tax strategy, and book preparation. We ensure your ledgers, invoices, and tax credits are fully compliant so that your independent statutory CA audit passes smoothly without qualification or adverse findings.
+        </p>
+      </details>
+
+      <!-- H3-11d -->
+      <details class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm group">
+        <summary class="font-bold text-forest cursor-pointer flex justify-between items-center text-sm sm:text-base list-none">
+          <h3 class="text-sm sm:text-base font-bold text-forest">Can a Financial Consultancy Help Me Register a Company in Nepal?</h3>
+          <span class="text-terracotta text-lg font-bold group-open:rotate-45 transition-transform duration-200">+</span>
+        </summary>
+        <p class="mt-3 text-xs sm:text-sm text-slate-600 leading-relaxed border-t border-slate-100 pt-3">
+          Yes. Lalitpur Financial Advisory coordinates the entire corporate lifecycle at the Office of the Company Registrar (OCR). This includes digital name clearance, drafting Articles of Association (AoA) and Memorandum of Association (MoA), securing municipal ward business certificates, acquiring business PAN/VAT at the Inland Revenue Office, and opening corporate bank accounts.
+        </p>
+      </details>
+
+      <!-- H3-11e -->
+      <details class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm group">
+        <summary class="font-bold text-forest cursor-pointer flex justify-between items-center text-sm sm:text-base list-none">
+          <h3 class="text-sm sm:text-base font-bold text-forest">Do I Need a Financial Consultant If I'm a Freelancer or Sole Trader?</h3>
+          <span class="text-terracotta text-lg font-bold group-open:rotate-45 transition-transform duration-200">+</span>
+        </summary>
+        <p class="mt-3 text-xs sm:text-sm text-slate-600 leading-relaxed border-t border-slate-100 pt-3">
+          Yes. In Nepal, individuals earning above NPR 5 lakhs annually are legally mandated to register for PAN and declare their income. Freelancers receiving overseas remittances benefit significantly from advisory on foreign inward remittance tax rates (10% final withholding tax where applicable), allowable expense deductions, and personal retirement tax shields under the Income Tax Act.
+        </p>
+      </details>
+
+      <!-- H3-11f -->
+      <details class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm group">
+        <summary class="font-bold text-forest cursor-pointer flex justify-between items-center text-sm sm:text-base list-none">
+          <h3 class="text-sm sm:text-base font-bold text-forest">How Do I Choose the Right Financial Consultancy Firm in Nepal?</h3>
+          <span class="text-terracotta text-lg font-bold group-open:rotate-45 transition-transform duration-200">+</span>
+        </summary>
+        <p class="mt-3 text-xs sm:text-sm text-slate-600 leading-relaxed border-t border-slate-100 pt-3">
+          Prioritize firms with: (1) Verified experience with local regulatory authorities (IRD, OCR, NRB, ICAN); (2) Transparent, written fixed-fee billing agreements; (3) Transparent operational methodologies without promises of illegal tax evasion; and (4) Multidisciplinary capabilities spanning accounting, corporate law, and growth cash modeling.
+        </p>
+      </details>
+
+      <!-- H3-11g -->
+      <details class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm group">
+        <summary class="font-bold text-forest cursor-pointer flex justify-between items-center text-sm sm:text-base list-none">
+          <h3 class="text-sm sm:text-base font-bold text-forest">Can Foreign Nationals Get Financial Consultancy Services in Nepal?</h3>
+          <span class="text-terracotta text-lg font-bold group-open:rotate-45 transition-transform duration-200">+</span>
+        </summary>
+        <p class="mt-3 text-xs sm:text-sm text-slate-600 leading-relaxed border-t border-slate-100 pt-3">
+          Absolutely. We routinely counsel foreign individual investors, international NGOs, and multinational branch offices entering Nepal under the <em>Foreign Investment and Technology Transfer Act (FITTA 2019)</em>. We assist with Department of Industry (DOI) approvals, Nepal Rastra Bank foreign currency permissions, and dividend repatriation structuring.
+        </p>
+      </details>
+    </div>
+  </section>
+
+</article>
+`;
+  }
+
   // ROUTING CONTROLLER
   // ==========================================
 
   function handleRoute() {
     const currentPath = getCleanPath();
 
-    // If accessing the dedicated standalone landing page, load it directly
+    // Dedicated Financial Consultancy Landing Route
     if (currentPath === '/financial-consultancy/' || currentPath === '/financial-consultancy') {
-      window.location.href = '/financial-consultancy/';
+      root.innerHTML = renderFinancialConsultancyLanding();
+      document.title = 'Expert Financial Consultancy Services in Nepal | Lalitpur Financial Advisory';
+      window.scrollTo(0, 0);
       return;
     }
+
+    const page = data.pages.find(p => normalizeRoute(p.url) === currentPath);
 
     const page = data.pages.find(p => normalizeRoute(p.url) === currentPath);
 
@@ -1627,10 +2594,7 @@
 
       // Handle clean internal routes
       if (href.startsWith('/') && !href.startsWith('//')) {
-        // Standalone physical landing page
-        if (href === '/financial-consultancy/' || href === '/financial-consultancy') {
-          return;
-        }
+
 
         e.preventDefault();
         window.history.pushState({}, '', href);
