@@ -132,6 +132,18 @@
               </a>
             </div>
 
+            <!-- Verified Advisory Team Trust Row -->
+            <div class="flex items-center gap-3 pt-2">
+              <div class="flex -space-x-2 overflow-hidden">
+                <img class="inline-block h-9 w-9 rounded-full ring-2 ring-white object-cover object-top" src="/assets/images/hero-advisors-nepal.jpg" alt="Senior Chartered Accountant">
+                <img class="inline-block h-9 w-9 rounded-full ring-2 ring-white object-cover object-top" src="/assets/images/financial-consultancy-session.jpg" alt="Corporate Advisory Partner">
+                <div class="inline-flex h-9 w-9 rounded-full ring-2 ring-white bg-forest text-white items-center justify-center text-[10px] font-bold">LFA</div>
+              </div>
+              <div class="text-xs text-slate-600">
+                <span class="font-bold text-forest">Institutional Advisory:</span> Direct sessions with Chartered Accountants, IRD-licensed practitioners &amp; corporate economists.
+              </div>
+            </div>
+
             <!-- PROOF & CREDIBILITY STATS -->
             <div class="grid grid-cols-2 sm:grid-cols-4 gap-6 pt-6 border-t border-slate-100">
               ${(data.agency.stats || []).map(s => `
@@ -144,8 +156,44 @@
 
           </div>
 
-          <!-- QUICK SERVICE FINDER CARD -->
-          <div class="lg:col-span-5 bg-[#FAF7F2] p-6 sm:p-8 rounded-xl border border-stone shadow-sm">
+          <!-- HERO VISUAL & QUICK SERVICE FINDER -->
+          <div class="lg:col-span-5 space-y-5">
+            <!-- Advisory Team Editorial Photography Card -->
+            <div class="relative rounded-2xl overflow-hidden shadow-lg border border-stone/80 group bg-slate-900">
+              <img 
+                src="/assets/images/hero-advisors-nepal.jpg" 
+                alt="Senior Chartered Accountants and Financial Advisory Partners in Executive Consultation - Lalitpur Financial Advisory" 
+                class="w-full h-64 sm:h-72 object-cover object-top transition duration-500 group-hover:scale-105"
+                loading="eager"
+                width="800"
+                height="560"
+              />
+              <div class="absolute inset-0 bg-gradient-to-t from-forest/90 via-forest/30 to-transparent"></div>
+              
+              <!-- Floating Credentials Badge Top-Right -->
+              <div class="absolute top-3.5 right-3.5 bg-white/95 backdrop-blur-sm border border-stone/80 text-forest text-[11px] font-bold px-3 py-1 rounded-full shadow-md flex items-center gap-1.5">
+                <i class="fa-solid fa-certificate text-terracotta"></i> Licensed ICAN Firm Partner
+              </div>
+
+              <!-- Advisor Profile Overlay Bottom-Left -->
+              <div class="absolute bottom-3.5 left-3.5 right-3.5 text-white space-y-1">
+                <div class="flex items-center gap-2">
+                  <span class="inline-block w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+                  <span class="text-[10px] font-semibold uppercase tracking-wider text-emerald-300">In-Person &amp; Video Advisory Active</span>
+                </div>
+                <div class="font-serif font-bold text-base text-white leading-snug">
+                  Pulchowk Executive Consultation Suite
+                </div>
+                <div class="text-[11px] text-slate-200 flex items-center gap-3">
+                  <span><i class="fa-solid fa-users text-amber-300 mr-1"></i> Senior Advisory Panel</span>
+                  <span>&bull;</span>
+                  <span><i class="fa-solid fa-location-dot text-rose-300 mr-1"></i> Lalitpur, Nepal</span>
+                </div>
+              </div>
+            </div>
+
+            <!-- QUICK SERVICE FINDER CARD -->
+            <div class="bg-[#FAF7F2] p-5 sm:p-6 rounded-xl border border-stone shadow-sm">
             <div class="pb-4 border-b border-stone flex items-center justify-between">
               <div>
                 <h3 class="font-serif font-bold text-lg text-forest">Quick Service Finder</h3>
@@ -215,6 +263,7 @@
                 Explore Full Directory of All 6 Practices &rarr;
               </a>
             </div>
+          </div>
           </div>
         </div>
       </section>
@@ -1103,27 +1152,77 @@
       Expert Financial Consultancy Services in Nepal
     </h1>
 
-    <!-- Direct Answer Advisory Snippet -->
-    <div class="p-5 bg-[#FAF7F2] border-l-4 border-terracotta rounded-r-xl text-slate-800 text-sm md:text-base leading-relaxed shadow-sm">
-      <div class="flex items-center gap-2 font-bold text-forest text-sm uppercase tracking-wider mb-1.5">
-        <i class="fa-solid fa-circle-info text-terracotta"></i> Direct Practice Advisory:
-      </div>
-      <p>
-        <strong>Financial consultancy</strong> is the structured professional discipline of diagnosing an organization's or individual's capital structure, cash flow architecture, and statutory exposure to craft actionable tax planning, accounting controls, and growth strategies. In Nepal—governed under the <em>Inland Revenue Department (IRD)</em>, <em>Office of the Company Registrar (OCR)</em>, <em>Nepal Rastra Bank (NRB)</em>, and <em>Social Security Fund (SSF)</em>—our Lalitpur advisory delivers end-to-end guidance ensuring corporate longevity, tax compliance, and investor readiness nationwide.
-      </p>
-    </div>
+        <!-- HERO CONTENT & VISUAL SPLIT (Two-Column Editorial Design) -->
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center pt-2">
+      <div class="lg:col-span-7 space-y-5">
+        <!-- Direct Answer Advisory Snippet -->
+        <div class="p-5 bg-[#FAF7F2] border-l-4 border-terracotta rounded-r-xl text-slate-800 text-sm md:text-base leading-relaxed shadow-sm">
+          <div class="flex items-center gap-2 font-bold text-forest text-sm uppercase tracking-wider mb-1.5">
+            <i class="fa-solid fa-circle-info text-terracotta"></i> Direct Practice Advisory:
+          </div>
+          <p>
+            <strong>Financial consultancy</strong> is the structured professional discipline of diagnosing an organization's or individual's capital structure, cash flow architecture, and statutory exposure to craft actionable tax planning, accounting controls, and growth strategies. In Nepal—governed under the <em>Inland Revenue Department (IRD)</em>, <em>Office of the Company Registrar (OCR)</em>, <em>Nepal Rastra Bank (NRB)</em>, and <em>Social Security Fund (SSF)</em>—our Lalitpur advisory delivers end-to-end guidance ensuring corporate longevity, tax compliance, and investor readiness nationwide.
+          </p>
+        </div>
 
-    <!-- Action Bar -->
-    <div class="flex flex-wrap items-center gap-3 pt-2">
-      <button onclick="document.getElementById('consultation-modal').classList.remove('hidden')" class="btn-primary text-xs sm:text-sm py-2.5 px-5 shadow-sm">
-        <i class="fa-solid fa-calendar-check mr-1.5"></i> Book Free Consultation Session
-      </button>
-      <a href="https://wa.me/9779851082345" target="_blank" rel="noopener" class="inline-flex items-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white text-xs sm:text-sm font-semibold px-4 py-2.5 rounded transition shadow-sm">
-        <i class="fa-brands fa-whatsapp text-sm"></i> WhatsApp: +977-9851082345
-      </a>
-      <a href="tel:+97715542100" class="btn-secondary text-xs sm:text-sm py-2.5 px-4">
-        <i class="fa-solid fa-phone mr-1.5 text-sky-600"></i> +977-1-5542100
-      </a>
+        <!-- Action Bar -->
+        <div class="flex flex-wrap items-center gap-3 pt-1">
+          <button onclick="document.getElementById('consultation-modal').classList.remove('hidden')" class="btn-primary text-xs sm:text-sm py-2.5 px-5 shadow-sm">
+            <i class="fa-solid fa-calendar-check mr-1.5"></i> Book Free Consultation Session
+          </button>
+          <a href="https://wa.me/9779851082345" target="_blank" rel="noopener" class="inline-flex items-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white text-xs sm:text-sm font-semibold px-4 py-2.5 rounded transition shadow-sm">
+            <i class="fa-brands fa-whatsapp text-sm"></i> WhatsApp: +977-9851082345
+          </a>
+          <a href="tel:+97715542100" class="btn-secondary text-xs sm:text-sm py-2.5 px-4">
+            <i class="fa-solid fa-phone mr-1.5 text-sky-600"></i> +977-1-5542100
+          </a>
+        </div>
+
+        <!-- Verified Consultation Lead Pill -->
+        <div class="flex items-center gap-3 pt-1 text-xs text-slate-600">
+          <div class="w-8 h-8 rounded-full bg-forest text-white flex items-center justify-center font-serif font-bold text-xs shrink-0 shadow-sm">
+            LFA
+          </div>
+          <div>
+            <div class="font-bold text-forest">Senior Advisory Desk: Pulchowk-Kumaripati Commercial Corridor</div>
+            <div class="text-[11px] text-slate-500">ICAN Accredited Practice &bull; Direct sessions with Chartered Accountants</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Human Element Visual Showcase -->
+      <div class="lg:col-span-5">
+        <div class="relative rounded-2xl overflow-hidden shadow-xl border border-stone/80 group bg-slate-900">
+          <img 
+            src="/assets/images/financial-consultancy-session.jpg" 
+            alt="Senior Chartered Accountant in 1-on-1 Executive Financial Consultation - Lalitpur Financial Advisory" 
+            class="w-full h-80 sm:h-96 object-cover object-center transition duration-500 group-hover:scale-105"
+            loading="eager"
+            width="800"
+            height="900"
+          />
+          <div class="absolute inset-0 bg-gradient-to-t from-forest/90 via-forest/25 to-transparent"></div>
+          
+          <!-- Floating Badge Top Left -->
+          <div class="absolute top-3.5 left-3.5 bg-white/95 backdrop-blur-sm border border-stone/80 text-forest text-[11px] font-bold px-3 py-1.5 rounded-full shadow-md flex items-center gap-1.5">
+            <i class="fa-solid fa-handshake text-emerald-700"></i> 1-on-1 Executive Advisory
+          </div>
+
+          <!-- Bottom Caption Overlay -->
+          <div class="absolute bottom-4 left-4 right-4 text-white space-y-1">
+            <div class="flex items-center justify-between text-[11px]">
+              <span class="text-amber-300 font-semibold"><i class="fa-solid fa-star"></i> 4.9/5 Rating (340+ Reviews)</span>
+              <span class="bg-forest/80 px-2 py-0.5 rounded text-[10px] text-slate-200 border border-slate-700">Lalitpur Desk</span>
+            </div>
+            <div class="font-serif font-bold text-base text-white">
+              Strategic Financial Advisory in Session
+            </div>
+            <p class="text-[11px] text-slate-200 line-clamp-2 font-light">
+              Tailored capital structuring, OCR compliance, and bankable project report modeling for Nepali founders.
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
 
     <!-- Credibility Stats Strip -->
