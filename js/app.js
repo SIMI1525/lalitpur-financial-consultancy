@@ -2067,6 +2067,7 @@
         `;
       }
       window.scrollTo(0, 0);
+      bindPageEvents({ type: 'money', url: currentPath, h1: 'Financial Consultancy Services in Nepal' });
       return;
     }
 
@@ -2531,42 +2532,86 @@ if (!page) {
   }
 
   // ==========================================
-  // CONSULTATION BOOKING MODAL
+  // CONSULTATION BOOKING MODAL & UNIVERSAL CTA DISPATCHER
   // ==========================================
 
   function setupModals() {
     const modal = document.getElementById('consultation-modal');
-    const closeBtn = document.getElementById('consultation-close-btn');
-    const form = document.getElementById('consultation-form');
-    const bookBtn = document.getElementById('book-consultation-btn');
-    const mobileBookBtn = document.getElementById('mobile-book-btn');
-
     if (!modal) return;
 
-    function openModal() {
+    window.openConsultationModal = function() {
       modal.classList.remove('hidden');
-    }
+      document.body.classList.add('overflow-hidden');
+    };
 
-    function closeModal() {
+    window.closeConsultationModal = function() {
       modal.classList.add('hidden');
-    }
+      document.body.classList.remove('overflow-hidden');
+    };
 
-    if (bookBtn) bookBtn.addEventListener('click', openModal);
-    if (mobileBookBtn) mobileBookBtn.addEventListener('click', openModal);
-    if (closeBtn) closeBtn.addEventListener('click', closeModal);
+    // Universal Delegated Click Listener for Modals & CTAs
+    document.addEventListener('click', (e) => {
+      // 1. Consultation open triggers
+      const openBtn = e.target.closest('#book-consultation-btn, #mobile-book-btn, .btn-consultation, [data-modal="consultation"]');
+      if (openBtn) {
+        e.preventDefault();
+        window.openConsultationModal();
+        return;
+      }
 
-    modal.addEventListener('click', (e) => {
-      if (e.target === modal) closeModal();
+      // Check for buttons with consultation text
+      const btn = e.target.closest('button, a.btn-primary');
+      if (btn) {
+        const txt = (btn.innerText || '').trim().toLowerCase();
+        if (txt.includes('book consultation') || txt.includes('schedule discovery') || txt.includes('schedule compliance') || txt.includes('schedule advisory')) {
+          e.preventDefault();
+          window.openConsultationModal();
+          return;
+        }
+      }
+
+      // 2. Modal close triggers
+      const closeBtn = e.target.closest('#consultation-close-btn, .modal-close');
+      if (closeBtn) {
+        e.preventDefault();
+        window.closeConsultationModal();
+        return;
+      }
+
+      // 3. Click backdrop
+      if (e.target === modal) {
+        window.closeConsultationModal();
+        return;
+      }
     });
 
-    if (form) {
-      form.addEventListener('submit', (e) => {
+    // Escape Key Listener
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        if (!modal.classList.contains('hidden')) {
+          window.closeConsultationModal();
+        }
+        const sModal = document.getElementById('search-modal');
+        if (sModal && !sModal.classList.contains('hidden')) {
+          sModal.classList.add('hidden');
+        }
+      }
+    });
+
+    // Universal Form Submission Handler
+    document.addEventListener('submit', (e) => {
+      const form = e.target;
+      if (form.id === 'consultation-form') {
         e.preventDefault();
-        closeModal();
-        window.showToast('Thank you! Your consultation appointment has been scheduled. Our Lalitpur desk will contact you with video/office details.');
+        window.closeConsultationModal();
+        window.showToast('Thank you! Your consultation appointment has been scheduled. Our Lalitpur desk will contact you with video/office details.', 'fa-circle-check');
         form.reset();
-      });
-    }
+      } else if (form.id === 'contact-page-form' || form.classList.contains('inquiry-form')) {
+        e.preventDefault();
+        window.showToast('Thank you! Your consultation request has been received. Our advisory team will contact you within 4 hours.', 'fa-circle-check');
+        form.reset();
+      }
+    });
   }
 
   // ==========================================
@@ -2612,8 +2657,6 @@ if (!page) {
 
       // Handle clean internal routes
       if (href.startsWith('/') && !href.startsWith('//')) {
-
-
         e.preventDefault();
         window.history.pushState({}, '', href);
         handleRoute();
@@ -2634,11 +2677,15 @@ if (!page) {
   // ==========================================
 
   function init() {
-    setupLinks();
-    setupSearch();
-    setupModals();
-    setupMobileDrawer();
-    handleRoute();
+    try {
+      setupLinks();
+      setupSearch();
+      setupModals();
+      setupMobileDrawer();
+      handleRoute();
+    } catch (err) {
+      console.error('Fatal initialization error in app.js:', err);
+    }
   }
 
   if (document.readyState === 'loading') {
