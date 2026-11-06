@@ -467,6 +467,9 @@
 
   // 3. CORE MONEY PAGE RENDERER (With Centerpiece Interactive Tool)
   function renderMoneyPage(page) {
+    if (page.url === '/financial-consultancy-services-nepal/' || page.url === '/financial-consultancy/') {
+      return renderFinancialConsultancyLanding();
+    }
     let toolHtml = '';
 
     // Centerpiece Dispatch
@@ -2042,10 +2045,27 @@
   function handleRoute() {
     const currentPath = getCleanPath();
 
-    // Dedicated Financial Consultancy Landing Route
-    if (currentPath === '/financial-consultancy/' || currentPath === '/financial-consultancy') {
+    // Dedicated Financial Consultancy Landing Route (covers all alias routes)
+    if (
+      currentPath === '/financial-consultancy/' || 
+      currentPath === '/financial-consultancy' ||
+      currentPath === '/financial-consultancy-services-nepal/' ||
+      currentPath === '/financial-consultancy-services-nepal'
+    ) {
       root.innerHTML = renderFinancialConsultancyLanding();
       document.title = 'Expert Financial Consultancy Services in Nepal | Lalitpur Financial Advisory';
+      const bar = document.getElementById('breadcrumb-bar');
+      const list = document.getElementById('breadcrumb-list');
+      if (bar && list) {
+        bar.classList.remove('hidden');
+        list.innerHTML = `
+          <a href="/" class="nav-link hover:text-forest transition"><i class="fa-solid fa-house text-slate-400"></i> Home</a> 
+          <span class="text-slate-300">/</span> 
+          <a href="/services/" class="nav-link hover:text-forest transition">Services Hub</a> 
+          <span class="text-slate-300">/</span> 
+          <span class="text-slate-700 font-semibold">Financial Consultancy</span>
+        `;
+      }
       window.scrollTo(0, 0);
       return;
     }
