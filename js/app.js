@@ -2052,9 +2052,7 @@
 
     const page = data.pages.find(p => normalizeRoute(p.url) === currentPath);
 
-    const page = data.pages.find(p => normalizeRoute(p.url) === currentPath);
-
-    if (!page) {
+if (!page) {
       root.innerHTML = `
         <div class="py-24 px-4 text-center space-y-4">
           <h1 class="text-4xl font-serif font-bold text-forest">Page Not Found</h1>
